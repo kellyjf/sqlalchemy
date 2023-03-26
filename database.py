@@ -27,8 +27,12 @@ class Tense(Base):
     __tablename__ = "tenses"
     id = Column(String, primary_key=True)
     name = Column(String)
+    compound = Column(Boolean)
+    aux_id = Column(String, ForeignKey("verbs.id"))
+
+
     def __repr__(self):
-        return f"Subject({self.id!r}={self.name!r})" 
+        return f"Tense({self.id!r},comp={self.compound!r},aux={self.aux!r}={self.name!r})" 
 
 class Subject(Base):
     __tablename__ = "subjects"
@@ -54,9 +58,20 @@ class Conjugation(Base):
 from sqlalchemy.orm import relationship
 Conjugation.verb = relationship("Verb", back_populates="conjugations")
 Verb.conjugations = relationship("Conjugation", back_populates="verb")
+Tense.aux = relationship("Verb")
 
 
+class Clause(Base):
+    __tablename__ = "clauses"
+    id = Column(Integer, primary_key=True)
+    sentence_id = Column(Integer, ForeignKey("sentences.id"))
 
+class Sentence(Base):
+    __tablename__ = "sentences"
+    id = Column(Integer, primary_key=True)
+    clauses = relationship(Clause, back_populates="sentence")
+Clause.sentence = relationship(Sentence, back_populates="clauses")
+    
 # The declarative base could be bypassed by creating an external metadata object
 # and passing it to a Table constructor
 # from sqlalchemy import Table, MetaData
@@ -110,7 +125,11 @@ def load():
     session.add(Conjugation(person="1pp", tense_id="ipi", verb_id="vir", text="vinhamos"))
     session.add(Conjugation(person="3pp", tense_id="ipi", verb_id="vir", text="vinham"))
 
-    session.add(Verb(id="estar", regular=False))
+    session.add(Conjugation(person="part", tense_id="ip", verb_id="vir", text="vindo"))
+    session.add(Conjugation(person="part", tense_id="ipp", verb_id="vir", text="vindo"))
+
+    estar=Verb(id="estar", regular=False)
+    session.add(estar)
     session.add(Conjugation(person="1ps", tense_id="ip", verb_id="estar", text="estou"))
     session.add(Conjugation(person="3ps", tense_id="ip", verb_id="estar", text="está"))
     session.add(Conjugation(person="1pp", tense_id="ip", verb_id="estar", text="estamos"))
@@ -125,6 +144,33 @@ def load():
     session.add(Conjugation(person="3ps", tense_id="ipp", verb_id="estar", text="esteve"))
     session.add(Conjugation(person="1pp", tense_id="ipp", verb_id="estar", text="estivemos"))
     session.add(Conjugation(person="3pp", tense_id="ipp", verb_id="estar", text="estiveram"))
+
+    session.add(Conjugation(person="part", tense_id="ip", verb_id="estar", text="estando"))
+    session.add(Conjugation(person="part", tense_id="ipp", verb_id="estar", text="estado"))
+
+    session.add(Tense(id="ippr", name="Indicative Présent Progressive", aux_id="estar"))
+
+
+    ter=Verb(id="ter", regular=False)
+    session.add(ter)
+    session.add(Conjugation(person="1ps", tense_id="ip", verb_id="ter", text="tenho"))
+    session.add(Conjugation(person="3ps", tense_id="ip", verb_id="ter", text="tem"))
+    session.add(Conjugation(person="1pp", tense_id="ip", verb_id="ter", text="temos"))
+    session.add(Conjugation(person="3pp", tense_id="ip", verb_id="ter", text="têm"))
+
+    session.add(Conjugation(person="1ps", tense_id="ipi", verb_id="ter", text="tinha"))
+    session.add(Conjugation(person="3ps", tense_id="ipi", verb_id="ter", text="tinha"))
+    session.add(Conjugation(person="1pp", tense_id="ipi", verb_id="ter", text="tinhamos"))
+    session.add(Conjugation(person="3pp", tense_id="ipi", verb_id="ter", text="tinham"))
+
+    session.add(Conjugation(person="1ps", tense_id="ipp", verb_id="ter", text="tive"))
+    session.add(Conjugation(person="3ps", tense_id="ipp", verb_id="ter", text="teve"))
+    session.add(Conjugation(person="1pp", tense_id="ipp", verb_id="ter", text="tivemos"))
+    session.add(Conjugation(person="3pp", tense_id="ipp", verb_id="ter", text="tiveram"))
+
+    session.add(Conjugation(person="part", tense_id="ip", verb_id="ter", text="tendo"))
+    session.add(Conjugation(person="part", tense_id="ipp", verb_id="ter", text="tido"))
+    session.add(Tense(id="itpr", name="Indicative Préterit Progressive", aux_id="ter"))
 
     session.commit()
 # a=session.query(Conjugation).filter(Conjugation.verb_id.in_(["estar","vir"])).filter(Conjugation.tense_id=="ipi")
