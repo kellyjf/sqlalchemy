@@ -14,7 +14,7 @@ Base=declarative_base()
 # The classes represent tables, and they contain members for the columns
 # and constraints of the table.  These are instances of classes that are available 
 # in the main sqlalchemy module
-from sqlalchemy import Column, Boolean, Integer, String, Unicode, DateTime, ForeignKey, func
+from sqlalchemy import Index, Column, Boolean, Integer, String, Unicode, DateTime, ForeignKey, func
 
 class Verb(Base):
     __tablename__ = "verbs"
@@ -33,15 +33,18 @@ class Tense(Base):
 class Subject(Base):
     __tablename__ = "subjects"
     id = Column(Integer, primary_key=True)
-    person = Column(String)
+    person = Column(String, index=True)
     text = Column(String)
+
+    Index("myindex", person)
+
     def __repr__(self):
         return f"Subject({self.person!r}={self.text!r})" 
 
 class Conjugation(Base):
     __tablename__ = "conjugations"
     id = Column(Integer, primary_key=True)
-    person = Column(String)
+    person = Column(String,ForeignKey("subjects.person"))
     tense_id = Column(String, ForeignKey("tenses.id"))
     verb_id = Column(String, ForeignKey("verbs.id"))
     text = Column(String)
