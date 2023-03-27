@@ -34,6 +34,7 @@ class Verb(Base):
 
   
     def conjugate(self, tense, subject):
+
      return f"{Verb._ter!r} {self.past_part}"
 
     def __repr__(self):
@@ -191,9 +192,6 @@ def load():
 
 
 
-def finish(session):
-    Verb._estar = session.query(Verb).filter(Verb.id=="estar").first()
-    Verb._ter = session.query(Verb).filter(Verb.id=="ter").first()
 
 # a=session.query(Conjugation).filter(Conjugation.verb_id.in_(["estar","vir"])).filter(Conjugation.tense_id=="ipi")
 
@@ -205,7 +203,10 @@ connect=engine.connect()
 from sqlalchemy.orm import Session
 session=Session(engine)
 
-
+def finish(session):
+    Verb._estar = session.query(Verb).filter(Verb.id=="estar").first()
+    Verb._ter = session.query(Verb).filter(Verb.id=="ter").first()
+finish()
 
 
 
