@@ -20,8 +20,24 @@ class Verb(Base):
     __tablename__ = "verbs"
     id = Column(String, primary_key=True)
     regular = Column(Boolean)
+    past_part = Column(String)
+    gerund = Column(String)
+    def __init__(self, **kw):
+      print(kw)
+      if not kw.get('past_part'):
+        self.past_part = kw.get('id')[0:-1]+"do"
+        if self.past_part[-2:-2]=='e':
+          self.past_part[-2:-2]='i'
+      if not kw.get('gerund'):
+        self.gerund = kw.get('id')[0:-1]+"ndo"
+      Base.__init__(self,**kw)
+
+  
+    def conjugate(self, tense, subject):
+     return f"{Verb._ter!r} {self.past_part}"
+
     def __repr__(self):
-        return f"Verb({self.id!r}={self.regular!r})" 
+        return f"Verb({self.id!r}={self.regular!r}, {self.past_part!r}, {self.gerund!r})" 
 
 class Tense(Base):
     __tablename__ = "tenses"
@@ -109,7 +125,7 @@ def load():
     session.add(Subject(person="3ps", text="você"))
     session.add(Subject(person="3pp", text="vocês"))
 
-    session.add(Verb(id="vir", regular=False))
+    session.add(Verb(id="vir", regular=False, past_part="vindo"))
     session.add(Conjugation(person="1ps", tense_id="ip", verb_id="vir", text="venho"))
     session.add(Conjugation(person="3ps", tense_id="ip", verb_id="vir", text="vem"))
     session.add(Conjugation(person="1pp", tense_id="ip", verb_id="vir", text="vimos"))
@@ -171,8 +187,14 @@ def load():
     session.add(Conjugation(person="part", tense_id="ip", verb_id="ter", text="tendo"))
     session.add(Conjugation(person="part", tense_id="ipp", verb_id="ter", text="tido"))
     session.add(Tense(id="itpr", name="Indicative Préterit Progressive", aux_id="ter"))
-
     session.commit()
+
+
+
+def finish(session):
+    Verb._estar = session.query(Verb).filter(Verb.id=="estar").first()
+    Verb._ter = session.query(Verb).filter(Verb.id=="ter").first()
+
 # a=session.query(Conjugation).filter(Conjugation.verb_id.in_(["estar","vir"])).filter(Conjugation.tense_id=="ipi")
 
 # For data manipulation, we can create a connection to the backend
@@ -190,9 +212,9 @@ session=Session(engine)
 
 from argparse import ArgumentParser as ap
 if __name__ == "__main__":
-	parser=ap()
-	parser.add_argument("--list","-l", action="store_true", help="List Database")
-	args=parser.parse_args()
+  parser=ap()
+  parser.add_argument("--list","-l", action="store_true", help="List Database")
+  args=parser.parse_args()
 
 
 
