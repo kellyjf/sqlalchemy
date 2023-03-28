@@ -150,11 +150,14 @@ def load():
     session.add(Tense(id="irp", name="Indicative Preterit Perfect"))
     session.add(Tense(id="iri", name="Indicative Preterit Imperfect"))
     session.add(Tense(id="cp", name="Conditional Present"))
+    session.add(Tense(id="sp", name="Subjunctive Present"))
+    session.add(Tense(id="st", name="Subjunctive Past"))
+    session.add(Tense(id="sf", name="Subjunctive Future"))
 
 
     # Aux verbs for compound tenses
-    estar=Verb(id="estar", regular=False)
-    session.add(estar)
+    session.add(Verb(id="estar", regular=False))
+
     session.add(Conjugation(person="1ps", tense_id="ip", verb_id="estar", text="estou"))
     session.add(Conjugation(person="3ps", tense_id="ip", verb_id="estar", text="está"))
     session.add(Conjugation(person="1pp", tense_id="ip", verb_id="estar", text="estamos"))
@@ -170,8 +173,55 @@ def load():
     session.add(Conjugation(person="1pp", tense_id="irp", verb_id="estar", text="estivemos"))
     session.add(Conjugation(person="3pp", tense_id="irp", verb_id="estar", text="estiveram"))
 
-    session.add(Conjugation(person="part", tense_id="ip", verb_id="estar", text="estando"))
-    session.add(Conjugation(person="part", tense_id="irp", verb_id="estar", text="estado"))
+    session.add(Conjugation(person="1ps", tense_id="sp", verb_id="estar", text="esteja"))
+    session.add(Conjugation(person="3ps", tense_id="sp", verb_id="estar", text="esteja"))
+    session.add(Conjugation(person="1pp", tense_id="sp", verb_id="estar", text="estejamos"))
+    session.add(Conjugation(person="3pp", tense_id="sp", verb_id="estar", text="estejam"))
+
+    session.add(Conjugation(person="1ps", tense_id="st", verb_id="estar", text="estivesse"))
+    session.add(Conjugation(person="3ps", tense_id="st", verb_id="estar", text="estivesse"))
+    session.add(Conjugation(person="1pp", tense_id="st", verb_id="estar", text="estivêssemos"))
+    session.add(Conjugation(person="3pp", tense_id="st", verb_id="estar", text="estivessem"))
+
+    session.add(Conjugation(person="1ps", tense_id="sf", verb_id="estar", text="estiver"))
+    session.add(Conjugation(person="3ps", tense_id="sf", verb_id="estar", text="estiver"))
+    session.add(Conjugation(person="1pp", tense_id="sf", verb_id="estar", text="estivermos"))
+    session.add(Conjugation(person="3pp", tense_id="sf", verb_id="estar", text="estiverem")) 
+
+
+
+    session.add(Verb(id="ser", regular=False))
+
+    session.add(Conjugation(person="1ps", tense_id="ip", verb_id="ser", text="sou"))
+    session.add(Conjugation(person="3ps", tense_id="ip", verb_id="ser", text="é"))
+    session.add(Conjugation(person="1pp", tense_id="ip", verb_id="ser", text="somos"))
+    session.add(Conjugation(person="3pp", tense_id="ip", verb_id="ser", text="são"))
+
+    session.add(Conjugation(person="1ps", tense_id="iri", verb_id="ser", text="era"))
+    session.add(Conjugation(person="3ps", tense_id="iri", verb_id="ser", text="era"))
+    session.add(Conjugation(person="1pp", tense_id="iri", verb_id="ser", text="eramos"))
+    session.add(Conjugation(person="3pp", tense_id="iri", verb_id="ser", text="eram"))
+
+    session.add(Conjugation(person="1ps", tense_id="irp", verb_id="ser", text="fui"))
+    session.add(Conjugation(person="3ps", tense_id="irp", verb_id="ser", text="foi"))
+    session.add(Conjugation(person="1pp", tense_id="irp", verb_id="ser", text="fomos"))
+    session.add(Conjugation(person="3pp", tense_id="irp", verb_id="ser", text="foram"))
+
+    session.add(Conjugation(person="1ps", tense_id="sp", verb_id="ser", text="seja"))
+    session.add(Conjugation(person="3ps", tense_id="sp", verb_id="ser", text="seja"))
+    session.add(Conjugation(person="1pp", tense_id="sp", verb_id="ser", text="sejamos"))
+    session.add(Conjugation(person="3pp", tense_id="sp", verb_id="ser", text="sejam"))
+
+    session.add(Conjugation(person="1ps", tense_id="st", verb_id="ser", text="fosse"))
+    session.add(Conjugation(person="3ps", tense_id="st", verb_id="ser", text="fosse"))
+    session.add(Conjugation(person="1pp", tense_id="st", verb_id="ser", text="fôssemos"))
+    session.add(Conjugation(person="3pp", tense_id="st", verb_id="ser", text="fossem"))
+
+    session.add(Conjugation(person="1ps", tense_id="sf", verb_id="ser", text="for"))
+    session.add(Conjugation(person="3ps", tense_id="sf", verb_id="ser", text="for"))
+    session.add(Conjugation(person="1pp", tense_id="sf", verb_id="ser", text="formos"))
+    session.add(Conjugation(person="3pp", tense_id="sf", verb_id="ser", text="forem"))
+
 
 
     session.add(Verb(id="ter", regular=False))
@@ -190,6 +240,21 @@ def load():
     session.add(Conjugation(person="1pp", tense_id="irp", verb_id="ter", text="tivemos"))
     session.add(Conjugation(person="3pp", tense_id="irp", verb_id="ter", text="tiveram"))
 
+    session.add(Conjugation(person="1ps", tense_id="sp", verb_id="ter", text="tenha"))
+    session.add(Conjugation(person="3ps", tense_id="sp", verb_id="ter", text="tenha"))
+    session.add(Conjugation(person="1pp", tense_id="sp", verb_id="ter", text="tenhamos"))
+    session.add(Conjugation(person="3pp", tense_id="sp", verb_id="ter", text="tenham"))
+
+    session.add(Conjugation(person="1ps", tense_id="st", verb_id="ter", text="tivesse"))
+    session.add(Conjugation(person="3ps", tense_id="st", verb_id="ter", text="tivesse"))
+    session.add(Conjugation(person="1pp", tense_id="st", verb_id="ter", text="tivéssemos"))
+    session.add(Conjugation(person="3pp", tense_id="st", verb_id="ter", text="tivessem"))
+
+    session.add(Conjugation(person="1ps", tense_id="sf", verb_id="ter", text="tiver"))
+    session.add(Conjugation(person="3ps", tense_id="sf", verb_id="ter", text="tiver"))
+    session.add(Conjugation(person="1pp", tense_id="sf", verb_id="ter", text="tivermos"))
+    session.add(Conjugation(person="3pp", tense_id="sf", verb_id="ter", text="tiverem"))
+
 
     session.add(Verb(id="ir", regular=False))
     session.add(Conjugation(person="1ps", tense_id="ip", verb_id="ir", text="vou"))
@@ -206,6 +271,21 @@ def load():
     session.add(Conjugation(person="3ps", tense_id="irp", verb_id="ir", text="foi"))
     session.add(Conjugation(person="1pp", tense_id="irp", verb_id="ir", text="fomos"))
     session.add(Conjugation(person="3pp", tense_id="irp", verb_id="ir", text="foram"))
+
+    session.add(Conjugation(person="1ps", tense_id="sp", verb_id="ir", text="vá"))
+    session.add(Conjugation(person="3ps", tense_id="sp", verb_id="ir", text="vá"))
+    session.add(Conjugation(person="1pp", tense_id="sp", verb_id="ir", text="vamos"))
+    session.add(Conjugation(person="3pp", tense_id="sp", verb_id="ir", text="vão"))
+
+    session.add(Conjugation(person="1ps", tense_id="st", verb_id="ir", text="fosse"))
+    session.add(Conjugation(person="3ps", tense_id="st", verb_id="ir", text="fosse"))
+    session.add(Conjugation(person="1pp", tense_id="st", verb_id="ir", text="fôssemos"))
+    session.add(Conjugation(person="3pp", tense_id="st", verb_id="ir", text="fossem"))
+
+    session.add(Conjugation(person="1ps", tense_id="sf", verb_id="ir", text="for"))
+    session.add(Conjugation(person="3ps", tense_id="sf", verb_id="ir", text="for"))
+    session.add(Conjugation(person="1pp", tense_id="sf", verb_id="ir", text="formos"))
+    session.add(Conjugation(person="3pp", tense_id="sf", verb_id="ir", text="forem"))
 
     dar=Verb(id="*ar", regular=True)
     session.add(dar)
@@ -228,6 +308,21 @@ def load():
     session.add(Conjugation(person="3ps", tense_id="cp", verb_id="*ar", text="INFia"))
     session.add(Conjugation(person="1pp", tense_id="cp", verb_id="*ar", text="INFiamos"))
     session.add(Conjugation(person="3pp", tense_id="cp", verb_id="*ar", text="INFiam"))
+
+    session.add(Conjugation(person="1ps", tense_id="sp", verb_id="*ar", text="STEMe"))
+    session.add(Conjugation(person="3ps", tense_id="sp", verb_id="*ar", text="STEMe"))
+    session.add(Conjugation(person="1pp", tense_id="sp", verb_id="*ar", text="STEMemos"))
+    session.add(Conjugation(person="3pp", tense_id="sp", verb_id="*ar", text="STEMem"))
+
+    session.add(Conjugation(person="1ps", tense_id="st", verb_id="*ar", text="STEMasse"))
+    session.add(Conjugation(person="3ps", tense_id="st", verb_id="*ar", text="STEMasse"))
+    session.add(Conjugation(person="1pp", tense_id="st", verb_id="*ar", text="STEMássemos"))
+    session.add(Conjugation(person="3pp", tense_id="st", verb_id="*ar", text="STEMassem"))
+
+    session.add(Conjugation(person="1ps", tense_id="sf", verb_id="*ar", text="INF"))
+    session.add(Conjugation(person="3ps", tense_id="sf", verb_id="*ar", text="INF"))
+    session.add(Conjugation(person="1pp", tense_id="sf", verb_id="*ar", text="INFmos"))
+    session.add(Conjugation(person="3pp", tense_id="sf", verb_id="*ar", text="INFem"))
 
 
     dar=Verb(id="*er", regular=True)
@@ -252,6 +347,21 @@ def load():
     session.add(Conjugation(person="1pp", tense_id="cp", verb_id="*er", text="INFiamos"))
     session.add(Conjugation(person="3pp", tense_id="cp", verb_id="*er", text="INFiam"))
 
+    session.add(Conjugation(person="1ps", tense_id="sp", verb_id="*er", text="STEMa"))
+    session.add(Conjugation(person="3ps", tense_id="sp", verb_id="*er", text="STEMa"))
+    session.add(Conjugation(person="1pp", tense_id="sp", verb_id="*er", text="STEMamos"))
+    session.add(Conjugation(person="3pp", tense_id="sp", verb_id="*er", text="STEMam"))
+
+    session.add(Conjugation(person="1ps", tense_id="st", verb_id="*er", text="STEMesse"))
+    session.add(Conjugation(person="3ps", tense_id="st", verb_id="*er", text="STEMesse"))
+    session.add(Conjugation(person="1pp", tense_id="st", verb_id="*er", text="STEMêssemos"))
+    session.add(Conjugation(person="3pp", tense_id="st", verb_id="*er", text="STEMessem"))
+
+    session.add(Conjugation(person="1ps", tense_id="sf", verb_id="*er", text="INF"))
+    session.add(Conjugation(person="3ps", tense_id="sf", verb_id="*er", text="INF"))
+    session.add(Conjugation(person="1pp", tense_id="sf", verb_id="*er", text="INFmos"))
+    session.add(Conjugation(person="3pp", tense_id="sf", verb_id="*er", text="INFem"))
+
 
     dar=Verb(id="*ir", regular=True)
     session.add(dar)
@@ -275,9 +385,25 @@ def load():
     session.add(Conjugation(person="1pp", tense_id="cp", verb_id="*ir", text="INFiamos"))
     session.add(Conjugation(person="3pp", tense_id="cp", verb_id="*ir", text="INFiam"))
 
+    session.add(Conjugation(person="1ps", tense_id="sp", verb_id="*ir", text="STEMa"))
+    session.add(Conjugation(person="3ps", tense_id="sp", verb_id="*ir", text="STEMa"))
+    session.add(Conjugation(person="1pp", tense_id="sp", verb_id="*ir", text="STEMamos"))
+    session.add(Conjugation(person="3pp", tense_id="sp", verb_id="*ir", text="STEMam"))
+
+    session.add(Conjugation(person="1ps", tense_id="st", verb_id="*ir", text="STEMisse"))
+    session.add(Conjugation(person="3ps", tense_id="st", verb_id="*ir", text="STEMisse"))
+    session.add(Conjugation(person="1pp", tense_id="st", verb_id="*ir", text="STEMíssemos"))
+    session.add(Conjugation(person="3pp", tense_id="st", verb_id="*ir", text="STEMissem"))
+
+    session.add(Conjugation(person="1ps", tense_id="sf", verb_id="*ir", text="INF"))
+    session.add(Conjugation(person="3ps", tense_id="sf", verb_id="*ir", text="INF"))
+    session.add(Conjugation(person="1pp", tense_id="sf", verb_id="*ir", text="INFmos"))
+    session.add(Conjugation(person="3pp", tense_id="sf", verb_id="*ir", text="INFem"))
+
 
     # Irregular verbs
     session.add(Verb(id="vir", regular=False, past_part="vindo"))
+
     session.add(Conjugation(person="1ps", tense_id="ip", verb_id="vir", text="venho"))
     session.add(Conjugation(person="3ps", tense_id="ip", verb_id="vir", text="vem"))
     session.add(Conjugation(person="1pp", tense_id="ip", verb_id="vir", text="vimos"))
@@ -293,8 +419,77 @@ def load():
     session.add(Conjugation(person="1pp", tense_id="iri", verb_id="vir", text="vinhamos"))
     session.add(Conjugation(person="3pp", tense_id="iri", verb_id="vir", text="vinham"))
 
-    session.add(Conjugation(person="part", tense_id="ip", verb_id="vir", text="vindo"))
-    session.add(Conjugation(person="part", tense_id="irp", verb_id="vir", text="vindo"))
+    session.add(Conjugation(person="1ps", tense_id="sp", verb_id="vir", text="venha"))
+    session.add(Conjugation(person="3ps", tense_id="sp", verb_id="vir", text="venha"))
+    session.add(Conjugation(person="1pp", tense_id="sp", verb_id="vir", text="venhamos"))
+    session.add(Conjugation(person="3pp", tense_id="sp", verb_id="vir", text="venham"))
+
+    session.add(Conjugation(person="1ps", tense_id="st", verb_id="vir", text="viesse"))
+    session.add(Conjugation(person="3ps", tense_id="st", verb_id="vir", text="viesse"))
+    session.add(Conjugation(person="1pp", tense_id="st", verb_id="vir", text="viéssemos"))
+    session.add(Conjugation(person="3pp", tense_id="st", verb_id="vir", text="viessem"))
+
+    session.add(Conjugation(person="1ps", tense_id="sf", verb_id="vir", text="vier"))
+    session.add(Conjugation(person="3ps", tense_id="sf", verb_id="vir", text="vier"))
+    session.add(Conjugation(person="1pp", tense_id="sf", verb_id="vir", text="viermos"))
+    session.add(Conjugation(person="3pp", tense_id="sf", verb_id="vir", text="vierem"))
+
+
+    session.add(Verb(id="fazer", regular=False, past_part="feito"))
+
+    session.add(Conjugation(person="1ps", tense_id="ip", verb_id="fazer", text="faço"))
+    session.add(Conjugation(person="3ps", tense_id="ip", verb_id="fazer", text="faz"))
+
+    session.add(Conjugation(person="1ps", tense_id="irp", verb_id="fazer", text="fiz"))
+    session.add(Conjugation(person="3ps", tense_id="irp", verb_id="fazer", text="fez"))
+    session.add(Conjugation(person="1pp", tense_id="irp", verb_id="fazer", text="fizemos"))
+    session.add(Conjugation(person="3pp", tense_id="irp", verb_id="fazer", text="fizeram"))
+
+    session.add(Conjugation(person="1ps", tense_id="cp", verb_id="fazer", text="faria"))
+    session.add(Conjugation(person="3ps", tense_id="cp", verb_id="fazer", text="faria"))
+    session.add(Conjugation(person="1pp", tense_id="cp", verb_id="fazer", text="fariamos"))
+    session.add(Conjugation(person="3pp", tense_id="cp", verb_id="fazer", text="fariam"))
+
+    session.add(Conjugation(person="1ps", tense_id="sp", verb_id="fazer", text="faça"))
+    session.add(Conjugation(person="3ps", tense_id="sp", verb_id="fazer", text="faça"))
+    session.add(Conjugation(person="1pp", tense_id="sp", verb_id="fazer", text="façamos"))
+    session.add(Conjugation(person="3pp", tense_id="sp", verb_id="fazer", text="façam"))
+
+    session.add(Conjugation(person="1ps", tense_id="st", verb_id="fazer", text="fizesse"))
+    session.add(Conjugation(person="3ps", tense_id="st", verb_id="fazer", text="fizesse"))
+    session.add(Conjugation(person="1pp", tense_id="st", verb_id="fazer", text="fizéssemos"))
+    session.add(Conjugation(person="3pp", tense_id="st", verb_id="fazer", text="fizessem"))
+
+    session.add(Conjugation(person="1ps", tense_id="sf", verb_id="fazer", text="fizer"))
+    session.add(Conjugation(person="3ps", tense_id="sf", verb_id="fazer", text="fizer"))
+    session.add(Conjugation(person="1pp", tense_id="sf", verb_id="fazer", text="fizermos"))
+    session.add(Conjugation(person="3pp", tense_id="sf", verb_id="fazer", text="fizerem"))
+
+    session.add(Verb(id="dar", regular=False))
+
+    session.add(Conjugation(person="1ps", tense_id="ip", verb_id="dar", text="dou"))
+    session.add(Conjugation(person="3ps", tense_id="ip", verb_id="dar", text="dá"))
+    session.add(Conjugation(person="3pp", tense_id="ip", verb_id="dar", text="dão"))
+
+    session.add(Conjugation(person="3ps", tense_id="irp", verb_id="dar", text="deu"))
+    session.add(Conjugation(person="1pp", tense_id="irp", verb_id="dar", text="demos"))
+    session.add(Conjugation(person="3pp", tense_id="irp", verb_id="dar", text="deram"))
+
+    session.add(Conjugation(person="1ps", tense_id="sp", verb_id="dar", text="dê"))
+    session.add(Conjugation(person="3ps", tense_id="sp", verb_id="dar", text="dê"))
+    session.add(Conjugation(person="3pp", tense_id="sp", verb_id="dar", text="deem"))
+
+    session.add(Conjugation(person="1ps", tense_id="st", verb_id="dar", text="desse"))
+    session.add(Conjugation(person="3ps", tense_id="st", verb_id="dar", text="desse"))
+    session.add(Conjugation(person="1pp", tense_id="st", verb_id="dar", text="déssemos"))
+    session.add(Conjugation(person="3pp", tense_id="st", verb_id="dar", text="dessem"))
+
+    session.add(Conjugation(person="1ps", tense_id="sf", verb_id="dar", text="der"))
+    session.add(Conjugation(person="3ps", tense_id="sf", verb_id="dar", text="der"))
+    session.add(Conjugation(person="1pp", tense_id="sf", verb_id="dar", text="dermos"))
+    session.add(Conjugation(person="3pp", tense_id="sf", verb_id="dar", text="derem"))
+
+
 
     # Compound tenses
     session.add(Tense(id="ipg", name="Indicative Present Progressive", 
@@ -309,6 +504,12 @@ def load():
             compound=True, aux_id="ir", aux_tense_id='ip'))
     session.add(Tense(id="cpp", name="Conditional Present Perfect", 
             compound=True, aux_id="ter", aux_tense_id='cp'))
+    session.add(Tense(id="spp", name="Subjunctive Present Perfect", 
+            compound=True, aux_id="ter", aux_tense_id='sp'))
+    session.add(Tense(id="stp", name="Subjunctive Past Perfect", 
+            compound=True, aux_id="ter", aux_tense_id='st'))
+    session.add(Tense(id="sfp", name="Subjunctive Future Perfect", 
+            compound=True, aux_id="ter", aux_tense_id='sf'))
 
 
 
