@@ -305,7 +305,31 @@ def load_meanings():
 					session.add(Case(clause=c,verb=v))
 			session.commit()
 
+def set_cases():
+	for c in session.query(Case).all():
+		session.delete(c)
+	session.commit()
+
+	q=session.query(Verb)
+	for c in session.query(Clause).all():
+		vlist=c.verb_template.split(" ")
+		for verb in vlist:
+				for v in q.filter(Verb.id==verb).all():
+					session.add(Case(clause=c,verb=v))
+	session.commit()
+
+from argparse import ArgumentParser as ap
 if __name__ == "__main__":
-	load_db()
-	load_meanings()
+	parser=ap()
+	parser.add_argument("--meanings-only","-m", action="store_true", help="Only load sentence templates")
+	parser.add_argument("--cases-only","-c", action="store_true", help="Only load sentence templates")
+	args=parser.parse_args()
+
+	if args.meanings_only:
+		load_meanings()
+	elif args.cases_only:
+		set_cases()
+	else:
+		load_db()
+		load_meanings()
 
