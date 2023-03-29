@@ -72,6 +72,16 @@ class Tense(Base):
 	def __repr__(self):
 		return f"Tense({self.id!r},comp={self.compound!r},aux={self.aux!r}={self.name!r})" 
 
+class Meaning(Base):
+	__tablename__ = "meanings"
+	id = Column(Integer, primary_key=True)
+	tense_id = Column(String, ForeignKey("tenses.id"))
+	order = Column(Integer, nullable=False)
+	text = Column(String)
+
+	def __repr__(self):
+		return f"Meaning({self.id!r},tense={self.tense_id!r},order={self.order!r}" 
+
 class Subject(Base):
 	__tablename__ = "subjects"
 	id = Column(Integer, primary_key=True)
@@ -101,15 +111,37 @@ Tense.aux = relationship("Verb")
 Tense.aux_tense = relationship("Tense",remote_side=Tense.id)
 
 
+class Case(Base):
+	__tablename__ = "cases"
+	id = Column(Integer, primary_key=True)
+	clause_id = Column(Integer, ForeignKey("clauses.id"))
+	verb_id = Column(String, ForeignKey("verbs.id"))
+
 class Clause(Base):
 	__tablename__ = "clauses"
 	id = Column(Integer, primary_key=True)
 	sentence_id = Column(Integer, ForeignKey("sentences.id"))
+	meaning_id = Column(String, ForeignKey("meanings.id"))
+	verb_template = Column(String)
+	text = Column(String)
 
 class Sentence(Base):
 	__tablename__ = "sentences"
 	id = Column(Integer, primary_key=True)
 	clauses = relationship(Clause, back_populates="sentence")
+
+Case.clause = relationship(Clause, back_populates="cases")
+Clause.cases = relationship(Case, back_populates="clause")
+
+Verb.cases = relationship(Case, back_populates="verb")
+Case.verb = relationship(Verb, back_populates="cases")
+
+Meaning.clauses = relationship(Clause, back_populates="meaning")
+Clause.meaning = relationship(Meaning, back_populates="clauses")
+
+Meaning.tense = relationship(Tense, back_populates="meanings")
+Tense.meanings = relationship(Meaning, back_populates="tense")
+
 Clause.sentence = relationship(Sentence, back_populates="clauses")
     
 # The declarative base could be bypassed by creating an external metadata object

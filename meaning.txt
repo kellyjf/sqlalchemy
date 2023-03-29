@@ -1,0 +1,16 @@
+ip	1	Action in the present	SUBJ VERB o journal.	ler comprar procurar
+ip	2	Habitual or repetitive action in the present	SUBJ VERB sempre às nove da manhã.	chegar sair
+ip	3	Universal statement	dois mais dois são quatro	
+ipp	1	Continuing actions that started in the past	SUBJ VERB muito	estudar trabalhar nadar 
+ipp	2	Continuity	SUBJ VERB  ultimamente	nadar andar correr
+ipp	3	Repetition	SUBJ VERB ao teatro.	ir
+iri	1	Past action of a certain duration	Quando SUBJ VERB nova, não havia televisão.	ser
+iri	2	Frequency or habit	Todos as manhãs SUBJ VERB de autocarro para a escola.	ir
+iri	3	Simultaneous actions	Enquanto ele lia o journal, SUBJ VERB	falar andar correr comer dormir
+iri	4	Describing a background action	SUBJ VERB quando você chegou	dormir estudar comer
+itg	1	Describing a background action	SUBJ VERB quando você chegou	dormir estudar comer
+iri	5	Polite request	Podia-me dizer as horas, por favor?	
+iri	6	Replacing conditional tense	Se eu tivesse muito dinheiro, SUBJ VERB a casa	comprar
+irp	1	Completed action in the past	SUBJ VERB no ano passado	viajar partir aprender
+irp	2	Incident in description	Eu lia o journal quando SUBJ VERB	chegar sair gritar
+itr	1	Past action prior to another past action	SUBJ VERB quando ela chegou.	dormir sair ler estudar comer

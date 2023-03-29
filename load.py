@@ -250,9 +250,12 @@ def load_db():
 
 	verbs= [
 		'ser', 'estar', 'ter', 'ir', 'vir',
-		'ver', 'ouvir', 'olhar', 'ler',
+		'ver', 'ouvir', 'olhar', 'ler','comer', 'assistir', 'gritar',
 		'querer', 'dizer', 'fazer',
 		'saber', 'haver', 
+		'viajar', 'comprar', 'precisar', 'achar', 'crer', 'procurar', 
+		'arrumar', 'chegar', 'sair', 'partir', 'parar', 'trabalhar', 'correr',
+		'nadar', 'andar', 'passear', 'escrever','acordar','dormir','sonhar', 'morar', 'viver',
 		'dar', 'trazer', 'pedir', 'medir', 'vestir', 'seguir',
 		'aprender', 'entender', 'estudar', 'falar', 'conhecer' ]
 
