@@ -11,7 +11,7 @@ Base.metadata.create_all(engine)
 from sqlalchemy.orm import Session
 session=Session(engine)
 
-def load():
+def load_meanings():
 	for c in session.query(Case).all():
 		session.delete(c)
 	for c in session.query(Meaning).all():
@@ -35,8 +35,19 @@ def load():
 				for v in q.filter(Verb.id==verb).all():
 					session.add(Case(clause=c,verb=v))
 			session.commit()
-			print(line)
+
+def testme():
+    ss=session.query(Subject).all()
+    ms=session.query(Meaning).filter(Meaning.tense_id=="iri").all()
+    for m in ms:
+        print(m.tense.name, m.order, m.text)
+        for c in m.clauses:
+            print(c.text)
+            for k in c.cases:
+                for s in ss:
+                    print(s.text,k.verb.conjugate(m.tense, s))
 
 
-load()
+if __name__ == "__main__":
+    load_meanings()
 
