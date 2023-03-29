@@ -10,27 +10,48 @@ import sqlite3
 
 r=requests.get("https://www.conjugacao.com.br/verbo-querer/")
 
+tensemap = {
+	'Indicativo' : {
+		'Presente':'ip',
+		'Pretérito Imperfeito': 'iri',
+		'Pretérito Perfeito': 'irp',
+		'Pretérito Mais-que-perfeito': 'irm',	
+		'Futuro do Presente': 'if',
+		'Futuro do Pretérito': 'cp' },
+	'Subjuntivo': {
+		'Presente':'sp',
+		'Pretérito Imperfeito': 'st',
+		'Futuro': 'sf' },
+	'Imperativo' : {
+		'Imperativo Afirmativo': 'ma',
+		'Imperativo Negativo' : 'mn' },
+	'Infinitivo': {
+		'Infinitivo Pessoal' : 'v' }
+	}
+
+		
 
 if r.status_code==200:
 	tree=html.fromstring(r.content)
 	parts=tree.xpath("//div[@class='info-v']")
 	for part in parts:
 		pparts=part.xpath(".//span[@class='f']")
-		for ppart in pparts:
-			print("PART:", ppart.text)
+		if len(pparts)>1:
+			gerund=pparts[0].text
+			past_part=pparts[1].text
 	modes=tree.xpath("//h3[@class='modoconjuga']")
 	print(modes)
 	for mode in modes:
-		print("MODO: ", mode.text)
+		mmap=tensemap.get(mode.text,{})
 		tenses=mode.getparent().xpath(".//div[@class='tempo-conjugacao']")
 		for tense in tenses:
 			tensenames=tense.xpath(".//h4[@class='tempo-conjugacao-titulo']")
 			for tn in tensenames:
-				print("TENSE ", tn.text)
+				tkey=mmap.get(tn.text, None)
 			irregs=tense.xpath(".//span[@class='f irregular']")
 			for irreg in irregs:
 				spans=irreg.getparent().xpath(".//span")
-				print(spans[0].text,spans[1].text)
+				print(tkey,spans[0].text,spans[1].text)
 def junk():
 	if False:
 		if False:

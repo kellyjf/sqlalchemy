@@ -1,125 +1,7 @@
 #!/usr/bin/python3
 
-#
-# SQLAlchemy creates an object heirarchy that adapts python code classes
-# to DB tables.  By subclassing all these adapter objects from a declariative
-# base table, code can traverse the object tree to detect the structure of 
-# the object heirarchy, and create schema DDL so that the database can be created
-# from the derived SQL
-#
-from sqlalchemy.ext.declarative import declarative_base
-Base=declarative_base()
-
-#
-# The classes represent tables, and they contain members for the columns
-# and constraints of the table.  These are instances of classes that are available 
-# in the main sqlalchemy module
-from sqlalchemy import Index, Column, Boolean, Integer, String, Unicode, DateTime, ForeignKey, func
-import string
-
-class Verb(Base):
-    __tablename__ = "verbs"
-    id = Column(String, primary_key=True)
-    regular = Column(Boolean)
-    past_part = Column(String)
-    gerund = Column(String)
-    def __init__(self, **kw):
-      if not kw.get('past_part'):
-        self.past_part = kw.get('id')[0:-1]+"do"
-        if self.past_part[-2:-2]=='e':
-          self.past_part[-2:-2]='i'
-      if not kw.get('gerund'):
-        self.gerund = kw.get('id')[0:-1]+"ndo"
-      Base.__init__(self,**kw)
-
-  
-    def conjugate(self, tense, subject):
-        match=[x.text for x in self.conjugations if x.tense==tense and x.person==subject.person]
-        if not match:
-            if not tense.compound:
-                defcon=self.id[-2:]
-                tverb=Verb._template.get(defcon)
-                #match=[x.text for x in tverb.conjugations if x.tense==tense and x.person==subject.person][0]
-                match=tverb.conjugate(tense, subject)
-                match=match.replace("STEM",self.id[0:-2])         
-                match=match.replace("INF",self.id)         
-            else:
-                match=tense.aux.conjugate(tense.aux_tense, subject)
-                if tense.aux_id=="estar":
-                    match=match+" "+self.gerund
-                elif tense.aux_id=="ir":
-                    match=match+" "+self.id
-                else:
-                    match=match+" "+self.past_part
-        else:
-            match=match[0]
-        return match
-
-
-    def __repr__(self):
-        return f"Verb({self.id!r}={self.regular!r}, {self.past_part!r}, {self.gerund!r})" 
-
-class Tense(Base):
-    __tablename__ = "tenses"
-    id = Column(String, primary_key=True)
-    name = Column(String)
-    compound = Column(Boolean, default=False)
-    aux_id = Column(String, ForeignKey("verbs.id"), nullable=True)
-    aux_tense_id = Column(String, ForeignKey("tenses.id"), nullable=True)
-
-
-    def __repr__(self):
-        return f"Tense({self.id!r},comp={self.compound!r},aux={self.aux!r}={self.name!r})" 
-
-class Subject(Base):
-    __tablename__ = "subjects"
-    id = Column(Integer, primary_key=True)
-    person = Column(String, index=True)
-    text = Column(String)
-
-    Index("myindex", person)
-
-    def __repr__(self):
-        return f"Subject({self.person!r}={self.text!r})" 
-
-class Conjugation(Base):
-    __tablename__ = "conjugations"
-    id = Column(Integer, primary_key=True)
-    person = Column(String,ForeignKey("subjects.person"))
-    tense_id = Column(String, ForeignKey("tenses.id"))
-    verb_id = Column(String, ForeignKey("verbs.id"))
-    text = Column(String)
-    def __repr__(self):
-        return f"Conjugation({self.verb_id!r},{self.tense_id!r},{self.person!r}={self.text!r})" 
-
-from sqlalchemy.orm import relationship
-Conjugation.verb = relationship("Verb", back_populates="conjugations")
-Conjugation.tense = relationship("Tense")
-Verb.conjugations = relationship("Conjugation", back_populates="verb")
-Tense.aux = relationship("Verb")
-Tense.aux_tense = relationship("Tense",remote_side=Tense.id)
-
-
-class Clause(Base):
-    __tablename__ = "clauses"
-    id = Column(Integer, primary_key=True)
-    sentence_id = Column(Integer, ForeignKey("sentences.id"))
-
-class Sentence(Base):
-    __tablename__ = "sentences"
-    id = Column(Integer, primary_key=True)
-    clauses = relationship(Clause, back_populates="sentence")
-Clause.sentence = relationship(Sentence, back_populates="clauses")
-    
-# The declarative base could be bypassed by creating an external metadata object
-# and passing it to a Table constructor
-# from sqlalchemy import Table, MetaData
-# meta=MetaData()
-# name=Table('name2', meta, 
-#        Column('id', Integer, primary_key=True), 
-#        Column('first', String),
-#        Column('last', String))
-
+import schema
+from schema import Verb, Tense, Conjugation, Subject
 #
 # So far, the backend database has been abstract, but in reality it will need
 # to be a specific server (PostgreSQL, SQLite, MySQL, etc).  The adapter
@@ -133,17 +15,17 @@ engine=create_engine("sqlite:///hello.sqlite")
 # to initialize the database in the backend
 #
 def create():
-    Base.metadata.create_all(engine)
-#    meta.create_all(engine)
+    schema.Base.metadata.create_all(engine)
 
 def load():
-    Base.metadata.create_all(engine)
+    schema.Base.metadata.create_all(engine)
 
 
     session.add(Subject(person="1ps", text="eu"))
     session.add(Subject(person="1pp", text="nós"))
     session.add(Subject(person="3ps", text="você"))
     session.add(Subject(person="3pp", text="vocês"))
+
 
     # Simple tenses
     session.add(Tense(id="ip", name="Indicative Present"))
@@ -153,74 +35,6 @@ def load():
     session.add(Tense(id="sp", name="Subjunctive Present"))
     session.add(Tense(id="st", name="Subjunctive Past"))
     session.add(Tense(id="sf", name="Subjunctive Future"))
-
-
-    # Aux verbs for compound tenses
-    session.add(Verb(id="estar", regular=False))
-
-    session.add(Conjugation(person="1ps", tense_id="ip", verb_id="estar", text="estou"))
-    session.add(Conjugation(person="3ps", tense_id="ip", verb_id="estar", text="está"))
-    session.add(Conjugation(person="1pp", tense_id="ip", verb_id="estar", text="estamos"))
-    session.add(Conjugation(person="3pp", tense_id="ip", verb_id="estar", text="estão"))
-
-    session.add(Conjugation(person="1ps", tense_id="iri", verb_id="estar", text="estava"))
-    session.add(Conjugation(person="3ps", tense_id="iri", verb_id="estar", text="estava"))
-    session.add(Conjugation(person="1pp", tense_id="iri", verb_id="estar", text="estávamos"))
-    session.add(Conjugation(person="3pp", tense_id="iri", verb_id="estar", text="estavam"))
-
-    session.add(Conjugation(person="1ps", tense_id="irp", verb_id="estar", text="estive"))
-    session.add(Conjugation(person="3ps", tense_id="irp", verb_id="estar", text="esteve"))
-    session.add(Conjugation(person="1pp", tense_id="irp", verb_id="estar", text="estivemos"))
-    session.add(Conjugation(person="3pp", tense_id="irp", verb_id="estar", text="estiveram"))
-
-    session.add(Conjugation(person="1ps", tense_id="sp", verb_id="estar", text="esteja"))
-    session.add(Conjugation(person="3ps", tense_id="sp", verb_id="estar", text="esteja"))
-    session.add(Conjugation(person="1pp", tense_id="sp", verb_id="estar", text="estejamos"))
-    session.add(Conjugation(person="3pp", tense_id="sp", verb_id="estar", text="estejam"))
-
-    session.add(Conjugation(person="1ps", tense_id="st", verb_id="estar", text="estivesse"))
-    session.add(Conjugation(person="3ps", tense_id="st", verb_id="estar", text="estivesse"))
-    session.add(Conjugation(person="1pp", tense_id="st", verb_id="estar", text="estivêssemos"))
-    session.add(Conjugation(person="3pp", tense_id="st", verb_id="estar", text="estivessem"))
-
-    session.add(Conjugation(person="1ps", tense_id="sf", verb_id="estar", text="estiver"))
-    session.add(Conjugation(person="3ps", tense_id="sf", verb_id="estar", text="estiver"))
-    session.add(Conjugation(person="1pp", tense_id="sf", verb_id="estar", text="estivermos"))
-    session.add(Conjugation(person="3pp", tense_id="sf", verb_id="estar", text="estiverem")) 
-
-
-
-    session.add(Verb(id="ser", regular=False))
-
-    session.add(Conjugation(person="1ps", tense_id="ip", verb_id="ser", text="sou"))
-    session.add(Conjugation(person="3ps", tense_id="ip", verb_id="ser", text="é"))
-    session.add(Conjugation(person="1pp", tense_id="ip", verb_id="ser", text="somos"))
-    session.add(Conjugation(person="3pp", tense_id="ip", verb_id="ser", text="são"))
-
-    session.add(Conjugation(person="1ps", tense_id="iri", verb_id="ser", text="era"))
-    session.add(Conjugation(person="3ps", tense_id="iri", verb_id="ser", text="era"))
-    session.add(Conjugation(person="1pp", tense_id="iri", verb_id="ser", text="eramos"))
-    session.add(Conjugation(person="3pp", tense_id="iri", verb_id="ser", text="eram"))
-
-    session.add(Conjugation(person="1ps", tense_id="irp", verb_id="ser", text="fui"))
-    session.add(Conjugation(person="3ps", tense_id="irp", verb_id="ser", text="foi"))
-    session.add(Conjugation(person="1pp", tense_id="irp", verb_id="ser", text="fomos"))
-    session.add(Conjugation(person="3pp", tense_id="irp", verb_id="ser", text="foram"))
-
-    session.add(Conjugation(person="1ps", tense_id="sp", verb_id="ser", text="seja"))
-    session.add(Conjugation(person="3ps", tense_id="sp", verb_id="ser", text="seja"))
-    session.add(Conjugation(person="1pp", tense_id="sp", verb_id="ser", text="sejamos"))
-    session.add(Conjugation(person="3pp", tense_id="sp", verb_id="ser", text="sejam"))
-
-    session.add(Conjugation(person="1ps", tense_id="st", verb_id="ser", text="fosse"))
-    session.add(Conjugation(person="3ps", tense_id="st", verb_id="ser", text="fosse"))
-    session.add(Conjugation(person="1pp", tense_id="st", verb_id="ser", text="fôssemos"))
-    session.add(Conjugation(person="3pp", tense_id="st", verb_id="ser", text="fossem"))
-
-    session.add(Conjugation(person="1ps", tense_id="sf", verb_id="ser", text="for"))
-    session.add(Conjugation(person="3ps", tense_id="sf", verb_id="ser", text="for"))
-    session.add(Conjugation(person="1pp", tense_id="sf", verb_id="ser", text="formos"))
-    session.add(Conjugation(person="3pp", tense_id="sf", verb_id="ser", text="forem"))
 
 
 
@@ -287,8 +101,8 @@ def load():
     session.add(Conjugation(person="1pp", tense_id="sf", verb_id="ir", text="formos"))
     session.add(Conjugation(person="3pp", tense_id="sf", verb_id="ir", text="forem"))
 
-    dar=Verb(id="*ar", regular=True)
-    session.add(dar)
+
+    session.add(Verb(id="*ar", regular=True))
     session.add(Conjugation(person="1ps", tense_id="ip", verb_id="*ar", text="STEMo"))
     session.add(Conjugation(person="3ps", tense_id="ip", verb_id="*ar", text="STEMa"))
     session.add(Conjugation(person="1pp", tense_id="ip", verb_id="*ar", text="STEMamos"))
@@ -399,6 +213,7 @@ def load():
     session.add(Conjugation(person="3ps", tense_id="sf", verb_id="*ir", text="INF"))
     session.add(Conjugation(person="1pp", tense_id="sf", verb_id="*ir", text="INFmos"))
     session.add(Conjugation(person="3pp", tense_id="sf", verb_id="*ir", text="INFem"))
+
 
 
     # Irregular verbs
