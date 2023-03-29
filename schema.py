@@ -159,6 +159,17 @@ Clause.sentence = relationship(Sentence, back_populates="clauses")
 # for a specific sort of DB backend is an engine, which is created with 
 # create_engine and a database URL
 
+def init(session):
+	# Configure aux verbs and regular conjugation templates
+	Verb._estar = session.query(Verb).filter(Verb.id=="estar").first()
+	Verb._ter = session.query(Verb).filter(Verb.id=="ter").first()
+	Verb._ir = session.query(Verb).filter(Verb.id=="ir").first()
+	Verb._template = {
+	  'ar': session.query(Verb).filter(Verb.id=="*ar").first(),
+	  'er': session.query(Verb).filter(Verb.id=="*er").first(),
+	  'ir': session.query(Verb).filter(Verb.id=="*ir").first()}
+
+
 if __name__ == "__main__":
 	from argparse import ArgumentParser as ap
 	parser=ap()

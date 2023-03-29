@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 
-from schema import Subject, Verb, Tense, Conjugation, Sentence, Clause, Meaning, Case, Base
+from schema import Subject, Verb, Tense, Conjugation, Sentence, Clause, Meaning, Case, Base, init as schinit
 import os.path
 
 from sqlalchemy import create_engine
@@ -37,17 +37,18 @@ def load_meanings():
 			session.commit()
 
 def testme():
-    ss=session.query(Subject).all()
-    ms=session.query(Meaning).filter(Meaning.tense_id=="iri").all()
-    for m in ms:
-        print(m.tense.name, m.order, m.text)
-        for c in m.clauses:
-            print(c.text)
-            for k in c.cases:
-                for s in ss:
-                    print(s.text,k.verb.conjugate(m.tense, s))
+	ss=session.query(Subject).all()
+	ms=session.query(Meaning).filter(Meaning.tense_id=="iri").all()
+	for m in ms:
+		print(m.tense.name, m.order, m.text)
+		for c in m.clauses:
+			print(c.text)
+			for k in c.cases:
+				for s in ss:
+					print(s.text,k.verb.conjugate(m.tense, s))
 
 
 if __name__ == "__main__":
-    load_meanings()
+	schinit(session)
+	load_meanings()
 
