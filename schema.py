@@ -117,16 +117,6 @@ class Statistic(Base):
 	answer = Column(String)
 	correct = Column(String)
 
-class Case(Base):
-	__tablename__ = "cases"
-	id = Column(Integer, primary_key=True)
-	clause_id = Column(Integer, ForeignKey("clauses.id"))
-	verb_id = Column(String, ForeignKey("verbs.id"))
-	last_update = Column(DateTime(timezone=True),onupdate=func.now())
-	state_id = Column(String, ForeignKey("states.id"))
-	correct = Column(Integer, default=0)
-	wrong = Column(Integer, default=0)
-
 class Rule(Base):
 	__tablename__ = "rules"
 	id = Column(Integer, primary_key=True)
@@ -144,10 +134,6 @@ Sentence.rule = relationship(Rule, back_populates="sentences")
 Rule.sentences = relationship(Sentence, back_populates="rule")
 Sentence.stats = relationship(Statistic, back_populates="sentence")
 Statistic.sentence = relationship(Sentence, back_populates="stats")
-
-Verb.cases = relationship(Case, back_populates="verb")
-Case.verb = relationship(Verb, back_populates="cases")
-
 
     
 # The declarative base could be bypassed by creating an external metadata object
