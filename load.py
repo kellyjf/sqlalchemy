@@ -4,7 +4,7 @@
 import requests
 from lxml import html
 import sqlite3
-from schema import Subject, Verb, Tense, Conjugation, Sentence, Meaning, Clause, State, Case, Base, init
+from schema import Subject, Verb, Tense, Conjugation, Sentence, Rule, Meaning, Clause, State, Case, Base, init
 import os.path
 
 from sqlalchemy import create_engine

@@ -119,6 +119,7 @@ class Statistic(Base):
 	__tablename__ = "statistics"
 	id = Column(Integer, primary_key=True)
 	person = Column(String)
+	sentence_id = Column(String, ForeignKey("sentences.id"), index=True)
 	verb_id = Column(String, ForeignKey("verbs.id"))
 	tense_id = Column(String, ForeignKey("tenses.id"))
 	tested = Column(DateTime(timezone=True),server_default=func.now())
@@ -144,10 +145,24 @@ class Clause(Base):
 	verb_template = Column(String)
 	text = Column(String)
 
+class Rule(Base):
+	__tablename__ = "rules"
+	id = Column(Integer, primary_key=True)
+	text = Column(String)
+
 class Sentence(Base):
 	__tablename__ = "sentences"
 	id = Column(Integer, primary_key=True)
-	clauses = relationship(Clause, back_populates="sentence")
+	verb_template = Column(String)
+	subj_template = Column(String)
+	text = Column(String)
+	rule_id = Column(Integer, ForeignKey("rules.id"),index=True)
+
+Sentence.rule = relationship(Rule, back_populates="sentences")
+Rule.sentences = relationship(Sentence, back_populates="rule")
+Sentence.stats = relationship(Statistic, back_populates="sentence")
+Statistic.sentence = relationship(Sentence, back_populates="stats")
+
 
 Case.clause = relationship(Clause, back_populates="cases")
 Clause.cases = relationship(Case, back_populates="clause")
@@ -161,7 +176,6 @@ Clause.meaning = relationship(Meaning, back_populates="clauses")
 Meaning.tense = relationship(Tense, back_populates="meanings")
 Tense.meanings = relationship(Meaning, back_populates="tense")
 
-Clause.sentence = relationship(Sentence, back_populates="clauses")
     
 # The declarative base could be bypassed by creating an external metadata object
 # and passing it to a Table constructor
