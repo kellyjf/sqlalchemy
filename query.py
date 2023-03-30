@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 
-from schema import Rule, Subject, Verb, Tense, Conjugation, Statistic, Sentence, Case, Base, init as schinit
+from schema import Rule, Subject, Verb, Tense, Conjugation, Statistic, Sentence, Base, init as schinit
 import os.path
 import random
 import itertools
@@ -111,5 +111,13 @@ if __name__ == "__main__":
 	args=parser.parse_args()
 
 	schinit(session)
-	quiz(args.tense, args.verb)
+	verblist=[]
+	if args.verb:
+		vq=session.query(Verb)
+		for v in args.verb:
+			verblist.extend([x.id for x in vq.filter(Verb.id.like(v)).all()])
+	else:
+		verblist.extend([x.id for x in vq.all()])
+
+	quiz(args.tense, verblist)
 

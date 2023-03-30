@@ -4,7 +4,7 @@
 import requests
 from lxml import html
 import sqlite3
-from schema import Subject, Verb, Tense, Conjugation, Sentence, Rule, State, Base, init
+from schema import Statistic, Subject, Verb, Tense, Conjugation, Sentence, Rule, State, Base, init
 import os.path
 
 from sqlalchemy import create_engine
@@ -281,6 +281,8 @@ def load_db():
 		session.commit()
 
 def load_rules():
+	for stat in session.query(Statistic).all():
+		session.delete(stat)
 	for rule in session.query(Rule).all():
 		session.delete(rule)
 	for sentence in session.query(Sentence).all():
