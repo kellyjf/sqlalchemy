@@ -321,18 +321,31 @@ def set_cases():
 					session.add(Case(clause=c,verb=v))
 	session.commit()
 
+def load_rules():
+	for rule in session.query(Rule).all():
+		session.delete(rule)
+	for sentence in session.query(Sentence).all():
+		session.delete(sentence)
+	session.commit()
+
+	r=Rule(text="Hypothetical Regrets")
+	session.add(r)
+	s=Sentence(text="dois mais dois V1 quatro", subj_template="eles",verb_template="ip:ser", rule=r)
+	session.add(s)
+	s=Sentence(text="Ontem, enquanto S1 V1, S2 V2", subj_template="eu voc%,el%",verb_template="iri:ler,trabalhar iri:dormir", rule=r)
+	session.add(s)
+	
+	session.commit()
+
 from argparse import ArgumentParser as ap
 if __name__ == "__main__":
 	parser=ap()
-	parser.add_argument("--meanings-only","-m", action="store_true", help="Only load sentence templates")
-	parser.add_argument("--cases-only","-c", action="store_true", help="Only load sentence templates")
+	parser.add_argument("--rules-only","-r", action="store_true", help="Only load sentence templates")
 	args=parser.parse_args()
 
-	if args.meanings_only:
-		load_meanings()
-	elif args.cases_only:
-		set_cases()
+	if args.rules_only:
+		load_rules()
 	else:
 		load_db()
-		load_meanings()
+		load_rules()
 
