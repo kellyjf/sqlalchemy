@@ -4,7 +4,7 @@
 import requests
 from lxml import html
 import sqlite3
-from schema import Subject, Verb, Tense, Conjugation, Sentence, Meaning, Clause, Case, Base, init
+from schema import Subject, Verb, Tense, Conjugation, Sentence, Meaning, Clause, State, Case, Base, init
 import os.path
 
 from sqlalchemy import create_engine
@@ -113,33 +113,33 @@ def load_db():
 
 
 	# Simple tenses
-	session.add(Tense(id="ip", name="Indicativo Presente"))
-	session.add(Tense(id="irp", name="Indicativo Pretérito Perfeito"))
-	session.add(Tense(id="iri", name="Indicativo Pretérito Imperfeito"))
-	session.add(Tense(id="irm", name="Indicativo Pretérito Mais-que-perfeito"))
-	session.add(Tense(id="cp", name="Conditional Presente"))
-	session.add(Tense(id="sp", name="Subjuntivo Presente"))
-	session.add(Tense(id="st", name="Subjuntivo Pretérito Imperfeito"))
-	session.add(Tense(id="sf", name="Subjuntivo Futuro"))
+	session.add(Tense(id="ip", text="Indicativo Presente"))
+	session.add(Tense(id="irp", text="Indicativo Pretérito Perfeito"))
+	session.add(Tense(id="iri", text="Indicativo Pretérito Imperfeito"))
+	session.add(Tense(id="irm", text="Indicativo Pretérito Mais-que-perfeito"))
+	session.add(Tense(id="cp", text="Conditional Presente"))
+	session.add(Tense(id="sp", text="Subjuntivo Presente"))
+	session.add(Tense(id="st", text="Subjuntivo Pretérito Imperfeito"))
+	session.add(Tense(id="sf", text="Subjuntivo Futuro"))
 
 	# Compound tenses
-	session.add(Tense(id="ipg", name="Indicativo Present Progressive", 
+	session.add(Tense(id="ipg", text="Indicativo Present Progressive", 
 	    compound=True, aux_id="estar", aux_tense_id="ip"))
-	session.add(Tense(id="itg", name="Indicativo Past Progressive", 
+	session.add(Tense(id="itg", text="Indicativo Past Progressive", 
 	    compound=True, aux_id="estar", aux_tense_id="iri"))
-	session.add(Tense(id="ipp", name="Present Perfect", 
+	session.add(Tense(id="ipp", text="Present Perfect", 
 	    compound=True, aux_id="ter", aux_tense_id='ip'))
-	session.add(Tense(id="itr", name="Past Perfect", 
+	session.add(Tense(id="itr", text="Past Perfect", 
 	    compound=True, aux_id="ter", aux_tense_id='iri'))
-	session.add(Tense(id="ifi", name="Future Immediate", 
+	session.add(Tense(id="ifi", text="Future Immediate", 
 	    compound=True, aux_id="ir", aux_tense_id='ip'))
-	session.add(Tense(id="cpp", name="Conditional Present Perfect", 
+	session.add(Tense(id="cpp", text="Conditional Present Perfect", 
 	    compound=True, aux_id="ter", aux_tense_id='cp'))
-	session.add(Tense(id="spp", name="Subjuntivo Present Perfect", 
+	session.add(Tense(id="spp", text="Subjuntivo Present Perfect", 
 	    compound=True, aux_id="ter", aux_tense_id='sp'))
-	session.add(Tense(id="stp", name="Subjuntivo Past Perfect", 
+	session.add(Tense(id="stp", text="Subjuntivo Past Perfect", 
 	    compound=True, aux_id="ter", aux_tense_id='st'))
-	session.add(Tense(id="sfp", name="Subjuntivo Future Perfect", 
+	session.add(Tense(id="sfp", text="Subjuntivo Future Perfect", 
 	    compound=True, aux_id="ter", aux_tense_id='sf'))
 
 
@@ -290,6 +290,9 @@ def load_meanings():
 	for c in session.query(Sentence).all():
 		session.delete(c)
 	session.commit()
+	session.add(State(id="New"))
+	session.add(State(id="Learning"))
+	session.add(State(id="Maintain"))
 
 	with open("meaning.txt", "r") as file:
 		for line in file.readlines():
@@ -302,7 +305,7 @@ def load_meanings():
 			q=session.query(Verb)
 			for verb in verblist.split(" "):
 				for v in q.filter(Verb.id==verb).all():
-					session.add(Case(clause=c,verb=v))
+					session.add(Case(clause=c,verb=v,state_id="New"))
 			session.commit()
 
 def set_cases():

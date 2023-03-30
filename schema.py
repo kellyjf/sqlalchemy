@@ -63,7 +63,7 @@ class Verb(Base):
 class Tense(Base):
 	__tablename__ = "tenses"
 	id = Column(String, primary_key=True)
-	name = Column(String)
+	text = Column(String)
 	compound = Column(Boolean, default=False)
 	aux_id = Column(String, ForeignKey("verbs.id"), nullable=True)
 	aux_tense_id = Column(String, ForeignKey("tenses.id"), nullable=True)
@@ -111,11 +111,30 @@ Tense.aux = relationship("Verb")
 Tense.aux_tense = relationship("Tense",remote_side=Tense.id)
 
 
+class State(Base):
+	__tablename__ = "states"
+	id = Column(String, primary_key=True)
+
+class Statistic(Base):
+	__tablename__ = "statistics"
+	id = Column(Integer, primary_key=True)
+	person = Column(String)
+	verb_id = Column(String, ForeignKey("verbs.id"))
+	tense_id = Column(String, ForeignKey("tenses.id"))
+	tested = Column(DateTime(timezone=True),server_default=func.now())
+	right = Column(Boolean)
+	answer = Column(String)
+	correct = Column(String)
+
 class Case(Base):
 	__tablename__ = "cases"
 	id = Column(Integer, primary_key=True)
 	clause_id = Column(Integer, ForeignKey("clauses.id"))
 	verb_id = Column(String, ForeignKey("verbs.id"))
+	last_update = Column(DateTime(timezone=True),onupdate=func.now())
+	state_id = Column(String, ForeignKey("states.id"))
+	correct = Column(Integer, default=0)
+	wrong = Column(Integer, default=0)
 
 class Clause(Base):
 	__tablename__ = "clauses"
