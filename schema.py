@@ -125,10 +125,10 @@ class Rule(Base):
 class Sentence(Base):
 	__tablename__ = "sentences"
 	id = Column(Integer, primary_key=True)
-	verb_template = Column(String)
-	subj_template = Column(String)
-	text = Column(String)
 	rule_id = Column(Integer, ForeignKey("rules.id"),index=True)
+	text = Column(String)
+	subj_template = Column(String)
+	verb_template = Column(String)
 
 Sentence.rule = relationship(Rule, back_populates="sentences")
 Rule.sentences = relationship(Sentence, back_populates="rule")

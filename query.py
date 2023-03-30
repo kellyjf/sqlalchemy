@@ -39,6 +39,7 @@ def quizline(sentence,tenseids,verbs):
 	for vg in vtemp.strip().split(";"):
 		vgr=[]
 		for vpc in vg.strip().split(" "):
+			print("VPC:",vpc)
 			[vt,vp]=vpc.strip().split(":")
 			vpr=[]
 			for vv in vp.strip().split(","):
@@ -112,8 +113,8 @@ if __name__ == "__main__":
 
 	schinit(session)
 	verblist=[]
+	vq=session.query(Verb)
 	if args.verb:
-		vq=session.query(Verb)
 		for v in args.verb:
 			verblist.extend([x.id for x in vq.filter(Verb.id.like(v)).all()])
 	else:
