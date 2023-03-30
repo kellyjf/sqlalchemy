@@ -262,9 +262,9 @@ def load_db():
 	verbs= [
 		'ser', 'estar', 'ter', 'ir', 'vir',
 		'ver', 'ouvir', 'olhar', 'ler','comer', 'assistir', 'gritar',
-		'querer', 'dizer', 'fazer',
-		'saber', 'haver', 
-		'viajar', 'comprar', 'precisar', 'achar', 'crer', 'procurar', 
+		'querer', 'dizer', 'fazer', 'atender','acolher','escutar','ajudar','preguntar',
+		'saber', 'haver', 'piorar', 'virar','aconselhar', 'aceitar','acabar',
+		'viajar', 'comprar', 'precisar', 'achar', 'crer', 'procurar', 'impedir',
 		'arrumar', 'chegar', 'sair', 'partir', 'parar', 'trabalhar', 'correr',
 		'nadar', 'andar', 'passear', 'escrever','acordar','dormir','sonhar', 'morar', 'viver',
 		'dar', 'trazer', 'pedir', 'medir', 'vestir', 'seguir',
