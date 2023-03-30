@@ -1,9 +1,10 @@
 #!/usr/bin/python3
 
 
-from schema import Subject, Verb, Tense, Conjugation, Statistic, Sentence, Clause, Meaning, Case, Base, init as schinit
+from schema import Rule, Subject, Verb, Tense, Conjugation, Statistic, Sentence, Case, Base, init as schinit
 import os.path
 import random
+import itertools
 
 from sqlalchemy import create_engine
 engine=create_engine("sqlite:///portugese.sqlite")
@@ -12,36 +13,95 @@ Base.metadata.create_all(engine)
 from sqlalchemy.orm import Session
 session=Session(engine)
 
-def testme(tense,verb):
-	m=session.query(Subject,Case).join(Clause).join(Meaning)
-	if tense:
-		m=m.filter(Meaning.tense_id.in_(tense))
-	if verb:
-		m=m.filter(Case.verb_id.in_(verb))
-	ms=m.all()
-	random.shuffle(ms)
-	for subj,case in ms:
-		template=case.clause.text
-		print()
-		print(f"{case.clause.meaning.text}  ({case.clause.meaning.tense.text})")
-		print(template.replace("SUBJ",subj.text).replace("VERB",f"[__({case.verb.id})__]"))
-		ans=input()
-		correct=case.verb.conjugate(case.clause.meaning.tense, subj)
-		if ans==correct:
-			right=True
-			case.correct=case.correct+1
-			print("CORRECT")
-		else:
-			right=False
-			case.wrong=case.wrong+1
-			print("WRONG")
-			print(template.replace("SUBJ",subj.text).replace("VERB",correct))
-			y=input()
-		session.add(Statistic(person=subj.person,verb_id=case.verb_id,
-					tense_id=case.clause.meaning.tense_id,
-					right=right,correct=correct,answer=ans))
-		session.add(case)
-		session.commit()
+tensemap={ x.id: x for x in session.query(Tense).all()}
+
+def quizline(sentence,tenseids,verbs):
+	print(sentence,tenseids,verbs)
+	stemp = sentence.subj_template
+	sres=[]
+	sq=session.query(Subject)
+	for sg in stemp.strip().split(";"):
+		sgr=[]
+		for sp in sg.strip().split(" "):
+			spr=[]
+			for sv in sp.strip().split(","):
+				if sv[0]=='$':
+					spr.extend([sv])
+				else:
+					spr.extend(sq.filter(Subject.text.like(sv)).all())
+			sgr.append(spr)
+		sgt=list(itertools.product(*sgr))
+		sres.extend(sgt)
+
+	vtemp = sentence.verb_template
+	vres=[]
+	vq=session.query(Verb)
+	for vg in vtemp.strip().split(";"):
+		vgr=[]
+		for vpc in vg.strip().split(" "):
+			[vt,vp]=vpc.strip().split(":")
+			vpr=[]
+			for vv in vp.strip().split(","):
+				vtt=tensemap.get(vt)
+				if vv[0]=='$':
+					vpr.extend([(vtt,vv)])
+				else:
+					vpr.extend([(vtt,x) for x in vq.filter(Verb.id.like(vv)).all()])
+			vgr.append(vpr)
+		vgt=list(itertools.product(*vgr))
+		vres.extend(vgt)
+
+	cases=list(itertools.product(sres,vres))
+	random.shuffle(cases)
+	for slist,vlist in cases:
+		#print(slist,vlist)
+		slist=list(slist)
+		for ndx,si in enumerate(slist):
+			if type(si)==str:
+				ref=int(si[1:])-1
+				slist[ndx]=slist[ref]
+		vlist=list(vlist)
+		for vspec in vlist:
+			(vt,verb)=vspec
+			if type(verb)==str:
+				ref=int(verb[1:])-1
+				vlist[ndx]=(vt,vlist[ref][1])
+
+		schinit(session)
+		question=sentence.text
+		correct=sentence.text
+		qlist=[]
+		for ndx, subj in enumerate(slist):
+			odx=ndx+1
+			(vt,verb)=vlist[ndx]
+			correct=correct.replace(f"S{odx}",subj.text)
+			correct=correct.replace(f"V{odx}",verb.conjugate(vt,subj))
+			question=question.replace(f"S{odx}",subj.text)
+			if verb.id not in verbs:
+				question=question.replace(f"V{odx}",verb.conjugate(vt,subj))
+				
+			else:
+				question=question.replace(f"V{odx}",f"[__({verb.id})___]")
+				qlist.append((subj,vt,verb,verb.id,verb.conjugate(vt,subj)))
+		print(question)
+		for (subject, tense, verb, prompt, good) in qlist:
+			print(prompt, end=": ")
+			ans=input()
+			if ans==good:
+				print("Correct!")
+			else:
+				print(f"Wrong, its {good}")
+			stat=Statistic(sentence_id=sentence.id,verb_id=verb.id,tense_id=tense.id,
+				  person=subject.person, 
+				  right=(ans==good), answer=ans, correct=good)
+			session.add(stat)
+			session.commit()
+
+		print(correct)
+			
+def quiz(tenseids,verbs):
+	for sentence in session.query(Sentence).all():
+		quizline(sentence,tenseids,verbs)
 
 from argparse import ArgumentParser as ap
 if __name__ == "__main__":
@@ -51,6 +111,5 @@ if __name__ == "__main__":
 	args=parser.parse_args()
 
 	schinit(session)
-	testme(args.tense, args.verb)
-
+	quiz(args.tense, args.verb)
 

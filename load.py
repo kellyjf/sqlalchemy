@@ -4,7 +4,7 @@
 import requests
 from lxml import html
 import sqlite3
-from schema import Subject, Verb, Tense, Conjugation, Sentence, Rule, Meaning, Clause, State, Case, Base, init
+from schema import Subject, Verb, Tense, Conjugation, Sentence, Rule, State, Case, Base, init
 import os.path
 
 from sqlalchemy import create_engine
@@ -279,47 +279,6 @@ def load_db():
 		load_verb(verb)
 
 		session.commit()
-
-def load_meanings():
-	for c in session.query(Case).all():
-		session.delete(c)
-	for c in session.query(Meaning).all():
-		session.delete(c)
-	for c in session.query(Clause).all():
-		session.delete(c)
-	for c in session.query(Sentence).all():
-		session.delete(c)
-	session.commit()
-	session.add(State(id="New"))
-	session.add(State(id="Learning"))
-	session.add(State(id="Maintain"))
-
-	with open("meaning.txt", "r") as file:
-		for line in file.readlines():
-			[tense_id, order, desc, text, verblist]=line[:-1].split("\t")
-			m=Meaning(tense_id=tense_id, order=order, text=desc)
-			session.add(m)
-			c=Clause(meaning=m, verb_template=verblist, text=text)
-			session.add(c)
-			vlist=verblist.split(" ")
-			q=session.query(Verb)
-			for verb in verblist.split(" "):
-				for v in q.filter(Verb.id==verb).all():
-					session.add(Case(clause=c,verb=v,state_id="New"))
-			session.commit()
-
-def set_cases():
-	for c in session.query(Case).all():
-		session.delete(c)
-	session.commit()
-
-	q=session.query(Verb)
-	for c in session.query(Clause).all():
-		vlist=c.verb_template.split(" ")
-		for verb in vlist:
-				for v in q.filter(Verb.id==verb).all():
-					session.add(Case(clause=c,verb=v))
-	session.commit()
 
 def load_rules():
 	for rule in session.query(Rule).all():
