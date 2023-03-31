@@ -289,13 +289,17 @@ def load_rules():
 		session.delete(sentence)
 	session.commit()
 
-	r=Rule(text="Hypothetical Regrets")
-	session.add(r)
-	s=Sentence(text="dois mais dois V1 quatro", subj_template="eles",verb_template="ip:ser", rule=r)
-	session.add(s)
-	s=Sentence(text="Ontem, enquanto S1 V1, S2 V2", subj_template="eu voc%,el%",verb_template="iri:ler,trabalhar iri:dormir", rule=r)
-	session.add(s)
-	
+	with open("rules.txt","r") as file:
+		for line in file.readlines():
+			[kid,text]=line.strip().split("\t")
+			session.add(Rule(text=text))
+
+	with open("sentences.txt","r") as file:
+		for line in file.readlines():
+			[kid,rid,text,subj,verb]=line.strip().split("\t")
+			session.add(Sentence(rule_id=rid, text=text, 
+						subj_template=subj, verb_template=verb))
+
 	session.commit()
 
 from argparse import ArgumentParser as ap

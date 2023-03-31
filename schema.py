@@ -70,7 +70,7 @@ class Tense(Base):
 
 
 	def __repr__(self):
-		return f"Tense({self.id!r},comp={self.compound!r},aux={self.aux!r}={self.name!r})" 
+		return f"Tense({self.id!r},comp={self.compound!r},aux={self.aux!r}={self.text!r})" 
 
 class Subject(Base):
 	__tablename__ = "subjects"

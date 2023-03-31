@@ -16,7 +16,6 @@ session=Session(engine)
 tensemap={ x.id: x for x in session.query(Tense).all()}
 
 def quizline(sentence,tenseids,verbs):
-	print(sentence,tenseids,verbs)
 	stemp = sentence.subj_template
 	sres=[]
 	sq=session.query(Subject)
@@ -32,14 +31,12 @@ def quizline(sentence,tenseids,verbs):
 			sgr.append(spr)
 		sgt=list(itertools.product(*sgr))
 		sres.extend(sgt)
-
 	vtemp = sentence.verb_template
 	vres=[]
 	vq=session.query(Verb)
 	for vg in vtemp.strip().split(";"):
 		vgr=[]
 		for vpc in vg.strip().split(" "):
-			print("VPC:",vpc)
 			[vt,vp]=vpc.strip().split(":")
 			vpr=[]
 			for vv in vp.strip().split(","):
@@ -55,7 +52,6 @@ def quizline(sentence,tenseids,verbs):
 	cases=list(itertools.product(sres,vres))
 	random.shuffle(cases)
 	for slist,vlist in cases:
-		#print(slist,vlist)
 		slist=list(slist)
 		for ndx,si in enumerate(slist):
 			if type(si)==str:
@@ -84,6 +80,7 @@ def quizline(sentence,tenseids,verbs):
 			else:
 				question=question.replace(f"V{odx}",f"[__({verb.id})___]")
 				qlist.append((subj,vt,verb,verb.id,verb.conjugate(vt,subj)))
+		print("\n",sentence.rule.text)
 		print(question)
 		for (subject, tense, verb, prompt, good) in qlist:
 			print(prompt, end=": ")
