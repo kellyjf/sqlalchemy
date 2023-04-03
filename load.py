@@ -260,7 +260,7 @@ def load_db():
 
 
 	verbs= [
-		'ser', 'estar', 'ter', 'ir', 'vir',
+		'ser', 'estar', 'ter', 'ir', 'vir','ficar',
 		'ver', 'ouvir', 'olhar', 'ler','comer', 'assistir', 'gritar',
 		'querer', 'dizer', 'fazer', 'atender','acolher','escutar','ajudar','preguntar',
 		'saber', 'haver', 'piorar', 'virar','aconselhar', 'aceitar','acabar',
