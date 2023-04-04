@@ -15,6 +15,7 @@ session=Session(engine)
 
 tensemap={ x.id: x for x in session.query(Tense).all()}
 
+dejavu={}
 def quizline(sentence,tenseids,verbs):
 	flist=[]
 	stemp = sentence.subj_template
@@ -82,24 +83,34 @@ def quizline(sentence,tenseids,verbs):
 				question=question.replace(f"V{odx}",f"[__({verb.id})___]")
 				qlist.append((subj,vt,verb,verb.id,verb.conjugate(vt,subj)))
 		if qlist:
-			flist.append((sentence,question,qlist))
+			flist.append((sentence,question,correct,qlist))
 	
 	random.shuffle(flist)
-	for (sentence, question, qlist) in flist:
+	for (sentence, question, correct, qlist) in flist:
+		qcount=0
+		for (subject, tense, verb, prompt, good) in qlist:
+			key=f"{subject.text}:{tense.id}:{verb.id}"
+			if dejavu.get(key, 0)==0:
+				qcount=qcount+1
+		if qcount==0:
+			continue
 		print("\n",sentence.rule.text)
 		print(question)
 		for (subject, tense, verb, prompt, good) in qlist:
-			print(prompt, end=": ")
-			ans=input()
-			if ans==good:
-				print("Correct!")
-			else:
-				print(f"Wrong, its {good}")
-			stat=Statistic(sentence_id=sentence.id,verb_id=verb.id,tense_id=tense.id,
-				  person=subject.person, 
-				  right=(ans==good), answer=ans, correct=good)
-			session.add(stat)
-			session.commit()
+			key=f"{subject.text}:{tense.id}:{verb.id}"
+			if dejavu.get(key, 0)==0:
+				dejavu[key]=1
+				print(prompt, end=": ")
+				ans=input()
+				if ans==good:
+					print("Correct!")
+				else:
+					print(f"Wrong, its {good}")
+				stat=Statistic(sentence_id=sentence.id,verb_id=verb.id,tense_id=tense.id,
+					  person=subject.person, 
+					  right=(ans==good), answer=ans, correct=good)
+				session.add(stat)
+				session.commit()
 
 		print(correct)
 			

@@ -260,13 +260,18 @@ def load_db():
 
 
 	verbs= [
-		'ser', 'estar', 'ter', 'ir', 'vir','ficar','preferir', 'repetir','caber',
+		'ser', 'estar', 'ter', 'ir', 'vir','ficar',
+		'preferir', 'repetir','caber',
 		'ver', 'ouvir', 'olhar', 'ler','comer', 'assistir', 'gritar',
-		'querer', 'dizer', 'fazer', 'atender','acolher','escutar','ajudar','preguntar',
-		'valer', 'saber', 'haver', 'piorar', 'virar','aconselhar', 'aceitar','acabar',
+		'querer', 'dizer', 'fazer', 'atender','acolher',
+		'escutar','ajudar','preguntar',
+		'valer', 'saber', 'haver', 'piorar', 'virar',
+		'aconselhar', 'aceitar','acabar',
 		'viajar', 'comprar', 'precisar', 'achar', 'crer', 'procurar', 'impedir',
-		'arrumar', 'chegar', 'mentir', 'odiar', 'sair', 'partir', 'parar', 'trabalhar', 'correr',
-		'nadar', 'andar', 'passear', 'escrever','acordar','perder', 'dormir','sonhar', 'morar', 'viver',
+		'arrumar', 'chegar', 'mentir', 'odiar', 'sair', 'partir', 
+		'parar', 'trabalhar', 'correr',
+		'nadar', 'andar', 'passear', 'escrever','acordar','perder', 
+		'dormir','sonhar', 'morar', 'viver',
 		'dar', 'trazer', 'pedir', 'medir', 'vestir', 'seguir',
 		'aprender', 'entender', 'estudar', 'falar', 'conhecer' ]
 
