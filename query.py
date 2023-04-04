@@ -80,22 +80,23 @@ def quizline(sentence,tenseids,verbs):
 			else:
 				question=question.replace(f"V{odx}",f"[__({verb.id})___]")
 				qlist.append((subj,vt,verb,verb.id,verb.conjugate(vt,subj)))
-		print("\n",sentence.rule.text)
-		print(question)
-		for (subject, tense, verb, prompt, good) in qlist:
-			print(prompt, end=": ")
-			ans=input()
-			if ans==good:
-				print("Correct!")
-			else:
-				print(f"Wrong, its {good}")
-			stat=Statistic(sentence_id=sentence.id,verb_id=verb.id,tense_id=tense.id,
-				  person=subject.person, 
-				  right=(ans==good), answer=ans, correct=good)
-			session.add(stat)
-			session.commit()
+		if qlist:
+			print("\n",sentence.rule.text)
+			print(question)
+			for (subject, tense, verb, prompt, good) in qlist:
+				print(prompt, end=": ")
+				ans=input()
+				if ans==good:
+					print("Correct!")
+				else:
+					print(f"Wrong, its {good}")
+				stat=Statistic(sentence_id=sentence.id,verb_id=verb.id,tense_id=tense.id,
+					  person=subject.person, 
+					  right=(ans==good), answer=ans, correct=good)
+				session.add(stat)
+				session.commit()
 
-		print(correct)
+			print(correct)
 			
 def quiz(tenseids,verbs):
 	for sentence in session.query(Sentence).all():

@@ -1,4 +1,9 @@
 1	1	S1 V1 o journal quando S2 V2	eu eles; você nós	iri:ler,dormir,trabalhar irp:chegar,sair
 2	2	Agora que S1 V1  presidente, S2 V2 pra reduzir a taxa de desmatamento em Rondônia	eu,você,ele,ela $1	ip:ser ifi:trabalhar
-3	2	Se S1 V1 presidente, V2 pra reduzir a taxa de desmatamento	eu,você,ele,ela $1	st:ser cp:trabalhar
-4	2	Se S1 V1  presidente, V2 pra reduzir a taxa de desmatamento	eu,você,ele,ela $1	sf:ser ifi:trabalhar
+3	2	Se S1 V1 presidente, V2  pra reduzir a taxa de desmatamento	eu,você,ele,ela $1	st:ser cp:trabalhar
+4	2	Se S1 V1  presidente, V2 trabalhar pra reduzir a taxa de desmatamento	eu,você,ele,ela $1	sf:ser ifi:trabalhar
+5	3	Antigamente ela fazia exercícios todos os dias.	eu,você,ela,nós,eles	iri:fazer,praticar
+6	3	Naquela época S1 não V1 correr tanto!	eu,ele,nós,elas	iri:precisar
+7	4	Quando S1 V1, S2 V2.	eu você;ele ela;nós vocês	iri:ler,dormir,trabalhar irp:chegar,sair
+8	4	Enquanto S1 V1 o jornal, S2 V2 ioga ao seu lado	ele ela;ela ele;ele,ela eu,você,nós	iri:ler iri:fazer
+9	5	S1 não V1 quantos: V1 só que V2 muitos.	eu,ele,nós eles	ip:saber iri:ser
