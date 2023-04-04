@@ -16,6 +16,7 @@ session=Session(engine)
 tensemap={ x.id: x for x in session.query(Tense).all()}
 
 def quizline(sentence,tenseids,verbs):
+	flist=[]
 	stemp = sentence.subj_template
 	sres=[]
 	sq=session.query(Subject)
@@ -81,22 +82,26 @@ def quizline(sentence,tenseids,verbs):
 				question=question.replace(f"V{odx}",f"[__({verb.id})___]")
 				qlist.append((subj,vt,verb,verb.id,verb.conjugate(vt,subj)))
 		if qlist:
-			print("\n",sentence.rule.text)
-			print(question)
-			for (subject, tense, verb, prompt, good) in qlist:
-				print(prompt, end=": ")
-				ans=input()
-				if ans==good:
-					print("Correct!")
-				else:
-					print(f"Wrong, its {good}")
-				stat=Statistic(sentence_id=sentence.id,verb_id=verb.id,tense_id=tense.id,
-					  person=subject.person, 
-					  right=(ans==good), answer=ans, correct=good)
-				session.add(stat)
-				session.commit()
+			flist.append((sentence,question,qlist))
+	
+	random.shuffle(flist)
+	for (sentence, question, qlist) in flist:
+		print("\n",sentence.rule.text)
+		print(question)
+		for (subject, tense, verb, prompt, good) in qlist:
+			print(prompt, end=": ")
+			ans=input()
+			if ans==good:
+				print("Correct!")
+			else:
+				print(f"Wrong, its {good}")
+			stat=Statistic(sentence_id=sentence.id,verb_id=verb.id,tense_id=tense.id,
+				  person=subject.person, 
+				  right=(ans==good), answer=ans, correct=good)
+			session.add(stat)
+			session.commit()
 
-			print(correct)
+		print(correct)
 			
 def quiz(tenseids,verbs):
 	for sentence in session.query(Sentence).all():
