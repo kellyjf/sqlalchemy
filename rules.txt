@@ -1,5 +1,14 @@
-1	Description of a past incident:  background in iri, incident in irp
-2	http://hackingportuguese.com/2012/02/the-imperfect-vs-the-future-subjunctive/
-3	Para falar de hábito ou acontecimento que ocorria com frequência no passado
-4	Para indicar a continuidade de um acontecimento em relação a outro que ocorreu ao mesmo tempo no passado
-5	Para falar do que era presente em um momento do passado que se está descrevendo.
+1	ip	Para falar de um hábito ou de fatos que ocorrem frequentemente (ip)
+2	ip	Para descrever uma ação que ocorre no momento em que se fala (ip)
+3	ip	Para descrever uma pessoa, um lugar ou um objeto (ip)
+4	ip	Para fazer afirmações consideradas incontestáveis ou que não dependem de um tempo específico (ip)
+5	iri	Para falar de hábito ou acontecimento que ocorria com frequência no passado (iri)
+6	iri	Para indicar a continuidade de um acontecimento em relação a outro que ocorreu ao mesmo tempo no passado
+7	iri	Para falar do que era presente em um momento do passado que se está descrevendo (iri,irp)
+8	irp	Para falar de um fato ocorrido e concluído em determinado momento do passado (irp) 
+9	ipp	indicar ações que se iniciaram no passado e continuam no presente, implicando, com frequência, a ideia de repetição. (ipp)
+10	itr	Para falar de ação pretérita concluída antes de outra ação do passado ter se iniciado (itr)
+11	sp	Subjuntivo pode ser utilizado para exprimir acontecimentos do presente ou do futuro (sp)
+14	ip,ifi	Consequence
+15	st,cp	Unreal hypothetical
+16	sf,ifi	Real hypothetical

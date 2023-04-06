@@ -7,7 +7,7 @@ import random
 import itertools
 
 from sqlalchemy import create_engine
-engine=create_engine("sqlite:///portugese.sqlite")
+engine=create_engine("sqlite:///portuguese.sqlite")
 Base.metadata.create_all(engine)
 
 from sqlalchemy.orm import Session

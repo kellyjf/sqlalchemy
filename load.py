@@ -8,7 +8,7 @@ from schema import Statistic, Subject, Verb, Tense, Conjugation, Sentence, Rule,
 import os.path
 
 from sqlalchemy import create_engine
-engine=create_engine("sqlite:///portugese.sqlite")
+engine=create_engine("sqlite:///portuguese.sqlite")
 Base.metadata.create_all(engine)
 
 from sqlalchemy.orm import Session
@@ -295,8 +295,8 @@ def load_rules():
 
 	with open("rules.txt","r") as file:
 		for line in file.readlines():
-			[kid,text]=line.strip().split("\t")
-			session.add(Rule(text=text))
+			[kid,tlist,text]=line.strip().split("\t")
+			session.add(Rule(tense_list=tlist,text=text))
 
 	with open("sentences.txt","r") as file:
 		for line in file.readlines():

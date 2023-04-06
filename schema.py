@@ -121,6 +121,7 @@ class Statistic(Base):
 class Rule(Base):
 	__tablename__ = "rules"
 	id = Column(Integer, primary_key=True)
+	tense_list = Column(String)
 	text = Column(String)
 
 class Sentence(Base):
