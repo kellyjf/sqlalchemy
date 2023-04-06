@@ -10,7 +10,7 @@
 10	6	Enquanto S1 V1 o jornal, S2 V2 ioga ao seu lado	ele ela;ela ele;ele,ela eu,você,nós	iri:ler iri:fazer
 11	7	S1 não V1 quantos: V1 só que V2 muitos.	eu,ele,nós eles	ip:saber iri:ser
 12	8	Ontem S1 V1 na praia e V2 uma água de coco.	eu,ele,nós,elas $1	irp:caminhar,andar irp:beber
-13	9	S1 V1 muito ultimamente. E S2? O que V2?	eu você;ele ela;nós vocês	ipp:estudar,correr,escriver ipp:fazer
+13	9	S1 V1 muito ultimamente. E S2? O que V2?	eu você;ele ela;nós vocês	ipp:estudar,correr,escrever ipp:fazer
 14	10	Quando S1 V1, S1 já V2.	eu você;você eu; ele ela;nós vocês; vocês nós	irp:chegar itr:telephonar
 15	10	S1 V1 para a polícia, mas S2 V2 a verdade.	ele ela; ele eu; elas nós	irp:mentir itr:dizer
 16	11	Talvez S1 V1 R1 juntar a você da algum dia.	eu,ele,nós	sp:poder
