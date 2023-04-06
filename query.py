@@ -94,6 +94,8 @@ def quizline(sentence,tenseids,verbs):
 			key=f"{subject.text}:{tense.id}:{verb.id}"
 			if dejavu.get(key, 0)==0:
 				qcount=qcount+1
+			else:
+				question=question.replace(f"[__({verb.id})___]",verb.conjugate(tense, subject))
 		if qcount==0:
 			continue
 		print("\n",sentence.rule.text)
@@ -103,7 +105,7 @@ def quizline(sentence,tenseids,verbs):
 			if dejavu.get(key, 0)==0:
 				dejavu[key]=1
 				print(prompt, end=": ")
-				ans=input()
+				ans=input().strip()
 				if ans==good:
 					print("Correct!")
 				else:
