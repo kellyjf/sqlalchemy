@@ -76,6 +76,7 @@ class Subject(Base):
 	__tablename__ = "subjects"
 	id = Column(Integer, primary_key=True)
 	person = Column(String, index=True)
+	reflex = Column(String)
 	text = Column(String)
 
 	Index("myindex", person)

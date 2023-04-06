@@ -43,7 +43,6 @@ personmap = {
 	'vós' : '2pp',
 	'vocês' : '3pp',
 	'eles' : '3pp' }
-	
 
 # verb - lookup key onweb and file name
 # infinitivo -infinitive form of the verb, for text output and database keys	
@@ -96,20 +95,20 @@ def load_verb(verb, infinitivo=""):
 def load_db():
 
 	# Subjects
-	session.add(Subject(person="1ps", text="eu"))
-	session.add(Subject(person="1pp", text="nós"))
-	session.add(Subject(person="3ps", text="ele"))
-	session.add(Subject(person="3ps", text="ela"))
-	session.add(Subject(person="3ps", text="você"))
-	session.add(Subject(person="3ps", text="a gente"))
-	session.add(Subject(person="3pp", text="vocês"))
-	session.add(Subject(person="3pp", text="eles"))
-	session.add(Subject(person="3pp", text="elas"))
-	session.add(Subject(person="3pp", text="John e Mary"))
-	session.add(Subject(person="3pp", text="Lenore e Mary"))
-	session.add(Subject(person="3ps", text="Alex"))
-	session.add(Subject(person="1pp", text="Pele e eu"))
-	session.add(Subject(person="1pp", text="eu com minha familia"))
+	session.add(Subject(person="1ps", reflex='me',text="eu"))
+	session.add(Subject(person="1pp", reflex='me', text="nós"))
+	session.add(Subject(person="3ps", reflex='se', text="ele"))
+	session.add(Subject(person="3ps", reflex='se', text="ela"))
+	session.add(Subject(person="3ps", reflex='se', text="você"))
+	session.add(Subject(person="3ps", reflex='se', text="a gente"))
+	session.add(Subject(person="3pp", reflex='se', text="vocês"))
+	session.add(Subject(person="3pp", reflex='se', text="eles"))
+	session.add(Subject(person="3pp", reflex='se', text="elas"))
+	session.add(Subject(person="3pp", reflex='se', text="John e Mary"))
+	session.add(Subject(person="3pp", reflex='se', text="Lenore e Mary"))
+	session.add(Subject(person="3ps", reflex='se', text="Alex"))
+	session.add(Subject(person="1pp", reflex='nos', text="Pele e eu"))
+	session.add(Subject(person="1pp", reflex='nos', text="eu com minha familia"))
 
 
 	# Simple tenses
@@ -260,7 +259,7 @@ def load_db():
 
 
 	verbs= [
-		'ser', 'estar', 'ter', 'ir', 'vir','ficar',
+		'ser', 'estar', 'ter', 'ir', 'vir','ficar', 'poder',
 		'preferir', 'repetir','caber',
 		'ver', 'ouvir', 'olhar', 'ler','comer', 'assistir', 'gritar',
 		'querer', 'dizer', 'fazer', 'atender','acolher',

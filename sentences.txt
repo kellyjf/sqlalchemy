@@ -7,3 +7,4 @@
 7	4	Quando S1 V1, S2 V2.	eu você;ele ela;nós vocês	iri:ler,dormir,trabalhar irp:chegar,sair
 8	4	Enquanto S1 V1 o jornal, S2 V2 ioga ao seu lado	ele ela;ela ele;ele,ela eu,você,nós	iri:ler iri:fazer
 9	5	S1 não V1 quantos: V1 só que V2 muitos.	eu,ele,nós eles	ip:saber iri:ser
+10	5	Talvez S1 V1 R1 juntar a você da algum dia.	eu,ele,nós	sp:poder

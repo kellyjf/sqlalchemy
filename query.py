@@ -74,8 +74,10 @@ def quizline(sentence,tenseids,verbs):
 			odx=ndx+1
 			(vt,verb)=vlist[ndx]
 			correct=correct.replace(f"S{odx}",subj.text)
+			correct=correct.replace(f"R{odx}",subj.reflex)
 			correct=correct.replace(f"V{odx}",verb.conjugate(vt,subj))
 			question=question.replace(f"S{odx}",subj.text)
+			question=question.replace(f"R{odx}",subj.reflex)
 			if verb.id not in verbs:
 				question=question.replace(f"V{odx}",verb.conjugate(vt,subj))
 				
