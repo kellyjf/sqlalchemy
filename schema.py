@@ -101,6 +101,16 @@ class Category(Base):
 	def __repr__(self):
 		return f"Category({self.verb_id!r},{self.text!r})" 
 
+class Definition(Base):
+	__tablename__ = "definitions"
+	id = Column(Integer, primary_key=True)
+	category_id = Column(Integer, ForeignKey("verbs.id"))
+	text = Column(String)
+	example = Column(String)
+	def __repr__(self):
+		return f"Definition({self.category.text!r},{self.text!r})" 
+
+
 from sqlalchemy.orm import relationship
 Category.verb = relationship("Verb", back_populates="categories")
 Verb.categories = relationship("Category", back_populates="verb")

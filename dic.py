@@ -4,7 +4,7 @@
 import requests
 from lxml import html
 import sqlite3
-from schema import Category,Statistic, Subject, Verb, Tense, Conjugation, Sentence, Rule, State, Base, init
+from schema import Definition,Category,Statistic, Subject, Verb, Tense, Conjugation, Sentence, Rule, State, Base, init
 import os.path
 import re
 
@@ -43,6 +43,30 @@ def load_verb(verb):
 				for cat in clist:
 					text=" ".join(cat.strip().split(" ")[1:])
 					session.add(Category(verb_id=verb.id, text=text))
+		parts=tree.xpath("//span[@class='cl']")
+		for part in parts:
+			cat=part.text_content()
+			if cat:
+				cat=cat.replace("verbo ","")
+				cat=cat.replace("substantivo ","")
+				cat=cat.replace(" e ",", ").strip()
+				for ctype in cat.split(","):
+					ctype=ctype.strip()
+#					print("CAT",verb.id,ctype)
+					ecats={x.text:x for x in verb.categories}
+					rescat=ecats.get(ctype,Category(verb_id=verb.id,text=ctype))
+					session.add(rescat)
+			part=part.getnext()
+			while part is not None  and 'class' not in part.attrib:
+				content=part.text_content()
+				if ":" in content:
+					[define,example]=content.split(":")[0:2]
+				else:
+					[define,example]=[content,""]
+				session.add(Definition(category_id=rescat.id,text=define,example=example))
+
+				part=part.getnext()
+
 	session.commit()			
 
 
