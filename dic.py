@@ -26,6 +26,8 @@ def load_verb(verb):
 		web="por-2"
 	else:
 		web=verb.id
+		web=web.replace('ô','o')
+		web=web.replace('ç','c')
 	if not os.path.exists(f"dic/{web}.txt"):
 		r=requests.get(f"https://www.dicio.com.br/{web}/")
 		if r.status_code==200:

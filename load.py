@@ -50,19 +50,21 @@ personmap = {
 def load_verb(verb, infinitivo=""):
 	verbreg=True
 	category=""
-	if not infinitivo:
-		infinitivo=verb
-	if not os.path.exists(f"net/{verb}.txt"):
-		r=requests.get(f"https://www.conjugacao.com.br/verbo-{verb}/")
+	web=verb
+	web=web.replace('ô','o')
+	web=web.replace('ç','c')
+
+	if not os.path.exists(f"net/{web}.txt"):
+		r=requests.get(f"https://www.conjugacao.com.br/verbo-{web}/")
 		if r.status_code==200:
-			with open(f"net/{verb}.txt","wb") as fd:
+			with open(f"net/{web}.txt","wb") as fd:
 				fd.write(r.content)
 
-	if not os.path.exists(f"net/{verb}.txt"):
-		print(f"FAIL: {verb}")
+	if not os.path.exists(f"net/{web}.txt"):
+		print(f"FAIL: {verb}/{web}")
 		return
 
-	with open(f"net/{verb}.txt","rb") as fd:
+	with open(f"net/{web}.txt","rb") as fd:
 		tree=html.fromstring(fd.read())
 		parts=tree.xpath("//div[@class='info-v']")
 		for part in parts:
@@ -115,7 +117,7 @@ def load_verb(verb, infinitivo=""):
 					pid=ptext.split(" ")[-1]
 					person=personmap.get(pid,"False")
 					if person:
-						session.add(Conjugation(verb_id=infinitivo, tense_id=tkey, person=person, text=text))
+						session.add(Conjugation(verb_id=verb, tense_id=tkey, person=person, text=text))
 		session.add(Verb(id=infinitivo, regular=verbreg, gerund=gerund, past_part=past_part))
 
 def load_db():
@@ -288,7 +290,6 @@ def load_db():
 			verb=verb.strip()
 			print("Loading ",verb)
 			load_verb(verb)
-	load_verb('por','pôr')
 
 def load_rules():
 	for stat in session.query(Statistic).all():
