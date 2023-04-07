@@ -1,0 +1,698 @@
+*	name	Português												
+*	card-order	3												
+*	sound-auto-play	1												
+*	tts-voice	0,90,0,0,0												
+*	tts-mp3-voice	,P|pt-BR|Ricardo,,,												
+*	card-theme	Paper - Clear												
+*	advanced-layout	1												
+*	L1-layout-name	Pic to Sound												
+*	L1-active	1												
+*	L1-layout-string	T4,,,,,P1,|T3,,,,,P1,S2|T2 1 30,T5 0.7,,,,P2,|,,,,,,|,,,,,,												
+*	L2-layout-name	2 → 1												
+*	L2-layout-string	T4,,,,,P1,|T2,T3 0.5,,,,,S2|,,,,,,|,,,,,,|,,,,,,												
+*	L2-stat-direction	2												
+*	deck-stats-1	4770,4843,3768,0,73,188,0,0,120,0,145,0,0,197,63,99,177,0,141,23,91,27,34,96,155,0,114,55,138,0,0,121,0,503,0,0,25,0,0,15,0,0,0,0,0,0,3,28,0,24,0,4,0,0,7,14,0,0,13,23,0,0,12,0,3278,0,118,205,0,0,155,0,237,0,0,395,88,150,183,0,132,51,178,15,63,121,178,0,163,33,215,0,0,173,0,2827,0,95,179,0,0,134,0,222,0,0,364,78,113,147,0,115,42,149,14,56,106,149,0,128,31,196,0,0,147,0,1941,0,0,114,0,0,59,0,0,0,0,0,0,17,120,0,117,0,14,0,0,30,65,0,0,56,101,0,0,50,0,2214,0,43,66,0,0,26,0,127,0,0,223,55,47,61,0,23,19,52,13,45,58,70,0,78,15,127,0,0,87,0,107735,12,7013,15889,0,0,10707,0,17530,0,0,0,3989,4349,8544,0,10410,2567,8045,0,3157,6763,9011,0,7601,2934,14201,0,0,8465,0,4570,3854,908,833,3,2												
+*	deck-stats-2	4770,4782,0,138,0,147,81,94,124,149,0,0,0,107,81,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0,13,20,20,68,0,0,0,0,37,19,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,0,276,106,99,72,68,0,0,0,68,32,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66,0,254,96,92,70,53,0,0,0,38,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139,0,52,71,70,146,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0,226,82,91,70,50,0,0,0,38,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1956,0,1975,768,1504,1360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,270,241,0,0,0,0												
+Text 1	Text 2	Text 3	Text 4	Text 5	Picture 1	Sound 1	Category 1	Category 2	Sound 2	Statistics 1	Statistics 2	Picture 2	Ignore	Ignore
+bola	uma bola	bˈɔlæ	objeto utilizado em diversos esportes (futebol, handebol, vôlei, basquete e golfe, entre outros)		_zvijauelmkdz.jpg				tts_uma bola.mp3	2,0,8,8,8,9,786,2023-04-05 17:17,2023-05-08 11:17	2,0,5,5,5,5,56,2023-02-02 13:57,2023-02-04 21:35			
+fogo	o fogo	fˈoɡʊ	desenvolvimento simultâneo de calor, de luz e de chama produzido pela combustão viva de certos corpos, como a madeira, o carvão etc		_1sin9zozgg4e.jpg				tts_o fogo.mp3	2,0,7,7,7,7,519,2023-03-27 09:51,2023-04-07 08:52	2,0,5,5,5,5,58,2023-02-02 13:55,2023-02-04 23:37			
+gato	o gato, a gata	ɡˈatʊ	animal da espécie Felis silvestris catus, Ordem Mamalia, Família Felidade		_1940mfaf8af8.jpg				tts_o gato, a gata.mp3	2,0,7,7,7,7,517,2023-03-27 09:49,2023-04-06 23:00	2,0,5,5,5,5,59,2023-02-02 13:58,2023-02-05 00:35			
+mesa	uma mesa	mˈezæ	móvel usado como superfície para se alimentar, conversar, estudar; távola		_1silm25savof.jpg				tts_uma mesa.mp3	2,0,8,8,8,8,699,2023-03-30 08:31,2023-04-28 11:31	2,0,5,5,5,5,72,2023-02-02 13:58,2023-02-05 13:38			
+navio	o navio	navˈiʊ	embarcação de grande porte e tonelagem		_1smtq7ybgvat.jpg				tts_o navio.mp3	2,0,8,8,8,8,658,2023-03-30 08:31,2023-04-26 18:31	2,0,5,5,5,5,67,2023-02-02 13:57,2023-02-05 08:36			
+seta	uma seta	sˈɛtæ	flecha		_eqxup2csibk9.jpg				tts_uma seta.mp3	2,0,21,17,4,4,241,2023-03-30 08:19,2023-04-09 09:19	2,0,5,5,5,5,77,2023-02-02 13:57,2023-02-05 18:40			
+vaca	a vaca	vˈakæ	o mesmo que vaquinha		_13azhw5rkpxp.jpg				tts_a vaca.mp3	2,0,7,7,7,7,496,2023-03-27 09:42,2023-04-06 01:59	2,0,5,5,5,5,67,2023-02-02 13:58,2023-02-05 08:38			
+zebra	a zebra	zˈebræ	mamífero semelhante ao cavalo que se distingue pelo fato de ter listras pretas ou marrom escuras alternadas com brancas		_n4hjvniat9dw.jpg				tts_a zebra.mp3	2,0,8,8,8,9,687,2023-04-04 13:17,2023-05-03 04:17	2,0,5,5,5,5,62,2023-02-02 13:56,2023-02-05 03:37			
+rato	o rato, a rata	hˈatʊ, hˈatæ	pequeno roedor da família dos murídeos, gêneros Rattus, Mus		_3jklb3bk5rsq.jpg				tts_o rato, a rata.mp3	2,0,6,6,6,1,552,2023-03-21 09:50,2023-04-13 09:50	2,0,5,5,5,5,61,2023-02-02 13:54,2023-02-05 02:39			
+chave	a chave	ʃˈavi	objeto usado para abrir e fechar uma fechadura, algemas ou cadeado		_4g1p1keatlay.jpg				tts_a chave.mp3	2,0,8,8,8,8,709,2023-03-30 08:32,2023-04-28 21:32	2,0,5,5,5,5,63,2023-02-02 13:55,2023-02-05 04:38			
+janela	a jenela	ʒˌænˈɛlæ	buraco na parede, geralmente retangular, feito para entrar luz e ar		_10mdf5w7cmy7.jpg				tts_a jenela.mp3	2,0,14,12,5,6,392,2023-04-01 16:43,2023-04-18 00:43	2,0,6,5,3,1,66,2023-02-02 13:52,2023-02-05 07:38			
+tigre	o tigre, a tigresa	tʃˈiɡri, tʃˌiɡrˈezæ	grande felídeo de pele listrada		_1e4igp8zbgit.jpg				tts_o tigre, a tigresa.mp3	2,0,8,8,8,9,761,2023-04-05 17:18,2023-05-07 10:18	2,0,5,5,5,5,77,2023-02-02 13:58,2023-02-05 18:39			
+bonde	o bonde	bˈoŋdʒi	meio de transporte urbano, movido a eletricidade e sobre trilhos de ferro		_453u3pvkp2b7.jpg				tts_o bonde.mp3	2,0,10,9,4,5,330,2023-04-01 16:41,2023-04-15 10:41	2,0,5,5,5,5,67,2023-02-02 13:57,2023-02-05 08:40			
+dedo	o dedo	dˈedʊ	cada uma das partes articuladas em que terminam os pés e as mãos		_wedvk3md8d06_1.jpg				tts_o dedo.mp3	2,0,10,9,5,5,414,2023-03-27 09:49,2023-04-06 21:52	2,0,5,5,5,5,70,2023-02-02 13:56,2023-02-05 11:39			
+tomate	o tomate	tˌomˈatʃi	fruto do tomateiro – Lycopersicon esculentum		_1pqhck91tldn.jpg				tts_o tomate.mp3	2,0,8,8,8,8,699,2023-03-30 08:31,2023-04-28 11:31	2,0,5,5,5,5,65,2023-02-02 13:58,2023-02-05 06:40			
+pena	a pena	pˈenæ	cada um dos órgãos cutâneos que revestem o corpo das aves		_1i75y6f3f8rd.jpg				tts_a pena.mp3	2,0,6,6,6,1,562,2023-03-20 15:54,2023-04-13 01:54	2,0,6,6,6,6,85,2023-02-04 10:42,2023-02-07 23:42			
+coração	o coração	kˌoɾasˈɐ̃ʊ̃	órgão muscular que bombeia o sangue de certos animais		_jjug7pgur0x1.jpg				tts_o coração.mp3	2,0,8,8,8,9,642,2023-04-04 13:19,2023-05-01 07:19	2,0,5,5,5,5,85,2023-02-02 13:58,2023-02-06 02:40			
+morango	o morango	mˌoɾˈɐ̃ŋɡʊ	pequeno fruto de cor externa vermelha e gosto levemente ácido cuja planta é o morangueiro (Fragaria vesca)		_1x381ic41fmk.jpg				tts_o morango.mp3	2,0,7,7,7,7,549,2023-03-27 09:41,2023-04-09 15:03	2,0,5,5,5,5,73,2023-02-02 13:57,2023-02-05 14:40			
+unha	a unha	ˈũɲæ	estrutura composta por queratina presente na ponta dos dedos da maioria dos vertebrados terrestres		_ety22qh4i6z4.jpg				tts_a unha.mp3	2,0,8,8,8,9,624,2023-04-04 13:19,2023-04-30 13:19	2,0,5,5,5,5,64,2023-02-02 13:56,2023-02-05 05:38			
+alho	o alho	ɑʎu	planta bolbosa da família das Liliáceas com um cheiro forte e característico, espontânea ou cultivada, como o alho-ordinário utilizado em culinária		_10gf3kaf9ogt.jpg				tts_o alho.mp3	2,0,7,7,7,2,609,2023-03-22 17:18,2023-04-17 02:18	2,0,5,5,5,5,70,2023-02-02 13:54,2023-02-05 11:38			
+livro	o livro	lˈivrʊ	objeto feito de várias folhas de papel, organizadas em ordem e contendo um texto		_1fgw7r4jpb2p.jpg				tts_o livro.mp3	2,0,7,7,7,7,592,2023-03-27 09:52,2023-04-11 10:03	2,0,5,5,5,5,67,2023-02-02 13:57,2023-02-05 08:38			
+maçã	a maçã	masˈɐ̃	o fruto comestível da macieira		_1qymhufxn2sc.jpg				tts_a maçã.mp3	2,0,7,7,7,7,567,2023-03-27 09:42,2023-04-07 12:16	2,0,5,5,5,5,60,2023-02-02 13:57,2023-02-05 01:39			
+dente	o dente	dˈeɪŋtʃy	estrutura calcárea, dura, geralmente esmaltada, presente na boca dos animais vertebrados, usada para cortar, arrancar, triturar e moer alimentos, assim como para defesa e ataque		_1ic2eyafjmkn.jpg				tts_o dente.mp3	2,0,8,8,8,8,696,2023-03-30 08:32,2023-04-28 08:32	2,0,5,5,5,5,69,2023-02-02 13:56,2023-02-05 10:39			
+pinguim	o pinguim	piŋɡwˈiŋ	ave marinha da família Spheniscidae, de corpo fusiforme e asas atrofiadas (assim, incapazes de voar), sendo típica da Antárctida/Antártida e ilhas dos mares austrais		_1mn0favmeesk.jpg				tts_o pinguim.mp3	2,0,7,7,7,7,533,2023-03-27 09:50,2023-04-06 02:16	2,0,5,5,5,5,59,2023-02-02 13:54,2023-02-05 00:35			
+bomba	a bomba	bˈombæ	artefato explosivo usado como arma, empregado em guerras contra alvos militares ou civis, que pode ser lançado ou plantado		_1i9b9aalsgio.png				tts_a bomba.mp3	2,0,8,8,8,8,665,2023-03-30 08:32,2023-04-27 01:32	2,0,5,5,5,5,58,2023-02-02 13:55,2023-02-04 23:37			
+mundo	o mundo	mˈũŋdʊ	conjunto de espaço, corpos e seres, que a vista humana pode abranger		_1brfxlan8ik5.jpg				tts_o mundo.mp3	2,0,8,8,8,9,713,2023-04-04 13:17,2023-05-04 06:17	2,0,5,5,5,5,66,2023-02-02 13:55,2023-02-05 07:37			
+pai	o pai	paj	genitor; pessoa do sexo masculino ou animal macho que fornece seu código genético para a realização de uma gestação		_5hkpg1eh8bjn.jpg				tts_o pai.mp3	2,0,8,8,8,9,618,2023-04-01 22:05,2023-04-27 16:05	2,0,5,5,5,5,61,2023-02-02 13:55,2023-02-05 02:38			
+pau	o pau	paw	bastão de madeira		_9gqoiawde2a3.jpg				tts_o pau.mp3	2,0,7,7,7,7,586,2023-03-27 09:42,2023-04-11 04:04	2,0,5,5,5,5,74,2023-02-02 13:58,2023-02-05 15:39			
+mãe	a mãe	mˈɐ̃y	genitora; pessoa do sexo feminino ou animal fêmea que deu à luz no parto		_1edf9p91pqel.jpg				tts_a mãe.mp3	2,0,8,8,8,9,803,2023-04-05 17:18,2023-05-09 04:18	2,0,5,5,5,5,67,2023-02-02 13:56,2023-02-05 08:39			
+mão	a mão	mˈɐ̃ʊ̃	extremidade do membro anterior dos primatas, capaz de manipular objetos; parte do corpo semelhante ou análoga em outros animais		_5wm9brlduo58.png				tts_a mão.mp3	2,0,8,8,8,9,672,2023-04-05 17:18,2023-05-03 17:18	2,0,5,5,5,5,78,2023-02-02 13:57,2023-02-05 19:39			
+trem	o trem	trˈeɪŋ	meio de transporte ferroviário		_1syamdrtnbsa.jpg				tts_o trem.mp3	2,0,8,8,8,9,749,2023-04-04 13:19,2023-05-05 18:19	2,0,9,7,4,4,34,2023-02-04 10:36,2023-02-05 20:36			
+desculpar	desculpar	ʤɪskʊu'paɾ	perdoar	desculpar uma falta a alguém	_re4lzrwztiqw.jpg				tts_desculpar_2.mp3	2,0,8,8,8,9,579,2023-04-01 16:46,2023-04-25 19:46	2,0,8,7,6,6,58,2023-02-04 10:39,2023-02-06 20:39			
+dizer	dizer	ʤi'zeɾ	exprimir algo por palavras	dizer o que se pensa	_139u8oh5kroe.jpg				tts_dizer_2.mp3	2,0,17,14,8,9,513,2023-04-01 16:42,2023-04-23 01:42	2,0,5,5,5,5,78,2023-02-02 13:54,2023-02-05 19:39			
+falar	falar	fa'laɾ	exprimir-se por palavras	Ele fala francês.	_1kt3uqtleofd.jpg				tts_falar_2.mp3	2,0,7,7,7,7,523,2023-03-27 09:44,2023-04-07 05:00	2,0,5,5,5,5,67,2023-02-02 13:58,2023-02-05 08:38			
+pensar	pensar	pẽɪ̃'saɾ	formar pensamentos, refletir	Os animais não pensam.	_5lwshu8ajvrv.png				tts_pensar_2.mp3	2,0,11,9,2,3,137,2023-04-05 17:13,2023-04-11 10:13	2,0,5,5,5,5,65,2023-02-02 13:55,2023-02-05 06:37			
+fazer	fazer	fa'zeɾ	causar	Esse remédio não faz bem.	_iuuj2l10yq8w.jpg				tts_fazer_2.mp3	2,0,7,7,7,2,534,2023-03-24 13:25,2023-04-15 19:25	2,0,5,5,5,5,62,2023-02-02 13:58,2023-02-05 03:37			
+viver	viver	vi'veɾ	habitar, morar	viver no campo	_5i6gmnj0qzq8.jpg				tts_viver_2.mp3	2,0,8,8,8,9,697,2023-04-04 13:19,2023-05-03 14:19	2,0,7,6,4,4,91,2023-02-04 10:42,2023-02-08 05:42			
+ir à, para, de	ir à, para, de	iɾ	dirigir-se a um local		_f6mjdyxp46gl.jpg				tts_ir à, para, de_2.mp3	2,0,7,7,7,7,545,2023-03-27 09:48,2023-04-10 07:10	2,0,5,5,5,5,64,2023-02-02 13:56,2023-02-05 05:38			
+ficar	ficar	fi'kaɾ	não ir embora		_15d9roh4ovjl.jpg				tts_ficar_2.mp3	2,0,7,7,7,2,545,2023-03-22 17:17,2023-04-14 10:17	2,0,5,5,5,5,72,2023-02-02 13:55,2023-02-05 13:38			
+gostar	gostar	ɡos'taɾ	apreciar	gostar de nadar	_1id3rd1qk7b4.jpg				tts_gostar_2.mp3	2,0,7,7,7,7,574,2023-03-27 09:41,2023-04-07 19:16	2,0,5,5,5,5,62,2023-02-02 13:54,2023-02-05 03:38			
+amar	amar	a'maɾ	gostar muito de	amar os pais	_2pa2tfrghugf.jpg				tts_amar_2.mp3	2,0,7,7,7,7,560,2023-03-27 09:43,2023-04-10 02:03	2,0,5,5,5,5,68,2023-02-02 13:57,2023-02-05 09:38			
+chorar	chorar	ʃo'ɾaɾ	verter lágrimas		_1bkshez5dnon.jpg				tts_chorar_2.mp3	2,0,9,7,1,2,156,2023-04-05 17:19,2023-04-12 05:19	2,0,8,7,4,4,31,2023-02-04 10:36,2023-02-05 17:36			
+cumprir	cumprir	kum'pɾiɾ	observar, respeitar	cumprir uma ordem	_y2g6fnqlu0oo.jpg				tts_cumprir_2.mp3	2,0,7,7,7,7,550,2023-03-27 09:53,2023-04-08 08:00	2,0,5,5,5,5,77,2023-02-02 13:57,2023-02-05 18:39			
+aprender	aprender	apɾen'deɾ	instruir-se		_5ija0md82zyf.jpg				tts_aprender_2.mp3	2,0,7,7,7,7,545,2023-03-27 09:49,2023-04-08 10:51	2,0,8,7,4,4,37,2023-02-04 10:38,2023-02-05 23:38			
+perguntar	perguntar	peɾɡun'taɾ	fazer perguntas, interrogar		_j2omsqau3oim.png				tts_perguntar_2.mp3	2,0,8,8,8,8,640,2023-03-30 08:32,2023-04-26 00:32	2,0,5,5,5,5,81,2023-02-02 13:55,2023-02-05 22:40			
+coisa	uma coisa	koɪza	qualquer objeto, fato ou ideia		_2nzv0zqptwka.jpg				tts_uma coisa.mp3	2,0,7,7,7,2,572,2023-03-24 13:26,2023-04-17 09:26	2,0,5,5,5,5,66,2023-02-02 13:57,2023-02-05 07:39			
+muito	muito, muita	mũɪ̃tʊ,a	um grande número ou quantidade		_1mcg5xv0cvvx.jpg				tts_muito, muita.mp3	2,0,8,8,8,9,671,2023-04-04 13:19,2023-05-02 12:19	2,0,6,6,6,6,123,2023-02-04 10:42,2023-02-09 13:42			
+algum	algum, alguma	ɑʊ'ɡũʊ̃, ɑʊ'ɡuma	um dentre vários	Algum de vocês quer vir	_bkv7xypin6be.jpg				tts_algum, alguma.mp3	2,0,8,8,8,9,702,2023-04-04 13:19,2023-05-03 19:19	2,0,5,5,5,5,64,2023-02-02 13:58,2023-02-05 05:36			
+ensinar	ensinar	ẽɪ̃si'naɾ	transmitir conhecimentos a alguém		_vvprdjbfbiud.jpg				tts_ensinar_2.mp3	2,0,8,8,8,9,629,2023-04-04 13:17,2023-04-30 18:17	2,0,6,6,6,6,101,2023-02-04 10:42,2023-02-08 15:42			
+tirar	tirar	ʧi'ɾaɾ	fazer sair, retirar	as pessoas vão para lá para tirar fotos	_1md123gmrcyq.jpg				tts_tirar_2.mp3	2,0,13,11,4,5,366,2023-04-04 13:14,2023-04-19 19:14	2,0,9,7,4,4,35,2023-02-04 10:35,2023-02-05 21:35			
+comprar	comprar	kom'pɾaɾ	adquirir com dinheiro		_f6rrmm07ylzx.jpg				tts_comprar_2.mp3	2,0,7,7,7,7,540,2023-03-27 09:50,2023-04-09 06:04	2,0,5,4,4,3,57,2023-02-02 13:53,2023-02-04 22:37			
+pão	o pão	pɐ̃ʊ̃	alimento preparado com farinha, água e sal		_13nia8qeo77x.jpg				tts_o pão.mp3	2,0,8,8,8,8,679,2023-03-30 08:31,2023-04-27 15:31	2,0,5,4,0,0,80,2023-02-02 13:58,2023-02-05 21:40			
+ter	ter	teɾ	ter muito dinheiro		_1f1dq4v6lnkr.jpg				tts_ter_2.mp3	2,0,8,8,8,9,719,2023-04-04 13:19,2023-05-04 12:19	2,0,6,6,6,6,96,2023-02-04 10:41,2023-02-08 10:41			
+poder	poder	po'deɾ	possibilidade, capacidade	só brasilieros podem reclamar do Brasil	_jpncsmty60r2.jpg				tts_poder_2.mp3	2,0,8,7,1,2,443,2023-04-01 16:47,2023-04-20 03:47	2,0,5,5,5,5,81,2023-02-02 13:55,2023-02-05 22:40			
+reclamar	reclamar	xekla'maɾ	exigir, reivindicar, demandar		_1a4ar8snqz0m.jpg				tts_reclamar_2.mp3	2,0,9,8,2,2,584,2023-03-30 08:31,2023-04-23 16:31	2,0,8,7,4,4,28,2023-02-04 10:37,2023-02-05 14:37			
+aceitar	aceitar	aseɪˈtaɾ	receber o que é dado	mas não aceita que ninguém fale nada negativo deles	_5v4bbe4vcu1s.jpg				tts_aceitar_2.mp3	2,0,7,7,7,2,584,2023-03-24 13:26,2023-04-17 21:26	2,0,6,5,3,1,79,2023-02-02 13:52,2023-02-05 20:40			
+apontar	apontar	apon'taɾ	indicar com o dedo para	uma mãe que pode apontar os defeitos dos deus filhoes	_gd30mwxty8w7.jpg				tts_apontar_2.mp3	2,0,8,8,8,9,697,2023-04-05 17:18,2023-05-04 18:18	2,0,5,5,5,5,59,2023-02-02 13:56,2023-02-05 00:39			
+querer	querer	ke'ɾeɾ	ter vontade de, desejar		_zfbf9r6y34do.jpg				tts_querer_2.mp3	2,0,10,9,5,5,477,2023-03-30 08:28,2023-04-19 05:28	2,0,5,4,4,3,73,2023-02-02 13:53,2023-02-05 14:40			
+ouvir	ouvir	oʊ'viɾ	escutar		_5czzy948gutt_1.jpg				tts_ouvir_2.mp3	2,0,8,8,8,8,743,2023-03-30 08:31,2023-04-30 07:31	2,0,5,5,5,5,65,2023-02-02 13:57,2023-02-05 06:40			
+chegar	chegar	ʃe'ɡaɾ	alcançar um lugar	especialistas ainda não chegaram a um acordo	_d7ylpoo8zn2o.jpg				tts_chegar_2.mp3	2,0,6,6,6,1,566,2023-03-24 13:26,2023-04-17 03:26	2,0,6,6,6,6,109,2023-02-04 10:42,2023-02-08 23:42			
+deixar	deixar	deɪ'ʃaɾ	permitir	outra coisa que deixa o brasileiro incomodado	_161fa4dq7qpt.jpg				tts_deixar_2.mp3	2,0,8,8,8,9,628,2023-04-01 16:45,2023-04-27 20:45	2,0,5,5,5,5,75,2023-02-02 13:56,2023-02-05 16:39			
+saber	saber	sa'beɾ	estar informado de	não sabe que a capital do Brasil é Brasilia	_1jzbd677wxc2.jpg				tts_saber_2.mp3	2,0,7,7,7,0,502,2023-03-16 09:59,2023-04-06 07:59	2,0,5,5,5,5,65,2023-02-02 13:57,2023-02-05 06:39			
+jogar	jogar	ʒo'ɡaɾ	participar de um jogo ou esporte		_17tadpfe96cg.jpg				tts_jogar_2.mp3	2,0,7,7,7,2,550,2023-03-22 17:18,2023-04-14 15:18	2,0,5,5,5,5,60,2023-02-02 13:57,2023-02-05 01:36			
+levar	levar	le'vaɾ	transportar junto		_1urhksqagdld.jpg				tts_levar_2.mp3	2,0,8,8,8,9,793,2023-04-05 17:17,2023-05-08 18:17	2,0,5,5,5,5,60,2023-02-02 13:56,2023-02-05 01:37			
+ligar	ligar	li'ɡaɾ	dar atenção ou importância a	Eu não ligo para futbol	_q3b8c1xbrtvu.jpg				tts_ligar_2.mp3	2,0,11,10,4,5,272,2023-04-01 16:38,2023-04-13 00:38	2,0,8,7,4,4,33,2023-02-04 10:37,2023-02-05 19:37			
+entender	entender	enten'deɾ	compreender o significado	compreender o significado	_1f4ecrxjfzac.jpg				tts_entender_2.mp3	2,0,8,8,8,9,576,2023-04-01 16:46,2023-04-25 16:46	2,0,5,5,5,5,64,2023-02-02 13:55,2023-02-05 05:38			
+ajudar	ajudar	aʒu'daɾ	prestar auxílio a	Ela me ajudou a limpar a casa.	_u7biocsnxxu9.jpg				tts_ajudar_2.mp3	2,0,8,8,8,8,555,2023-03-30 08:32,2023-04-22 11:32	2,0,5,5,5,5,61,2023-02-02 13:57,2023-02-05 02:37			
+comer	comer	ko'meɾ	ingerir alimentos	Não é saudável comer muito.	_1hvjela0jegf.jpg				tts_comer_2.mp3	2,0,7,7,7,0,518,2023-03-16 10:00,2023-04-07 00:00	2,0,5,5,5,5,62,2023-02-02 13:57,2023-02-05 03:36			
+diante	diante	ʤɪ'ɐnʧɪ	à frente de, perante	estar diante de uma nova situação	_1bsykhaer3ui.jpg				tts_diante_2.mp3	2,0,8,8,8,9,688,2023-04-04 13:19,2023-05-03 05:19	2,0,5,5,5,5,58,2023-02-04 10:39,2023-02-06 20:39			
+então	então	en'tɐ̃ʊ̃	nesse ou naquele momento	Percebi, então, que havia me enganado.	_oeebig82n13q.jpg				tts_então_2.mp3	2,0,7,7,7,0,489,2023-03-17 18:04,2023-04-07 03:04	2,0,6,5,5,5,68,2023-02-04 10:42,2023-02-07 06:42			
+ainda	ainda	a'inda	além disso; também	E ainda é preciso fazer esse trabalho.	_1s36gmt11u2j.jpg				tts_ainda_2.mp3	2,0,8,8,8,9,783,2023-04-05 17:18,2023-05-08 08:18	2,0,10,7,4,4,16,2023-02-04 10:36,2023-02-05 02:36			
+brincar	brincar	bɾiŋ'kaɾ	jogar, divertir-se	As crianças brincam na areia	_1k93uokg83dc.jpg				tts_brincar_2.mp3	2,0,8,8,8,9,597,2023-04-01 16:46,2023-04-26 13:46	2,0,5,5,5,5,59,2023-02-04 10:40,2023-02-06 21:40			
+leite	o leite	leɪʧɪ	líquido branco produzido pelos mamíferos	leite de vaca	_zzacs54keget.jpg				tts_o leite.mp3	2,0,8,8,8,9,646,2023-04-01 16:46,2023-04-28 14:46	2,0,5,5,5,5,79,2023-02-04 10:42,2023-02-07 17:42			
+atrás	atrás	a'tɾas	na retaguarda	Eu vou à frente e ele vai atrás.	_jt44ak7hp7wn.jpg				tts_atrás_2.mp3	2,0,8,8,8,9,702,2023-04-04 19:12,2023-05-04 01:12	2,0,5,5,5,5,62,2023-02-04 10:41,2023-02-07 00:41			
+depressa	depressa	de'pɾɛsa	rapidamente	Caminhava depressa porque estava atrasada	_1iuz0dv7olku.jpg				tts_depressa_2.mp3	2,0,11,10,4,5,375,2023-04-01 16:41,2023-04-17 07:41	2,0,6,5,5,5,74,2023-02-04 10:42,2023-02-07 12:42			
+flor	uma flor	floɾ	parte colorida da planta	um ramo de flores	_l6rbyvndzhu5.jpg				tts_uma flor.mp3	2,0,9,8,1,2,153,2023-04-01 16:45,2023-04-08 01:45	2,0,5,5,5,5,59,2023-02-04 10:40,2023-02-06 21:40			
+perto	perto	pɛɾtʊ	a pouca distância	O correio fica aqui perto.	_z620sk3beh62.jpg				tts_perto_2.mp3	2,0,8,8,8,9,701,2023-04-04 13:19,2023-05-03 18:19	2,0,6,5,5,5,67,2023-02-04 10:40,2023-02-07 05:40			
+xícara	a xícara	ʃikaɾa	recipiente para tomar líquidos, chávena	uma xícara de café	_2i0gdn7fh7vt.jpg				tts_a xícara.mp3	2,0,9,8,8,1,498,2023-03-16 09:57,2023-04-06 03:57	2,0,7,6,5,5,31,2023-02-04 10:38,2023-02-05 17:38			
+copo	um copo	kɔpʊ	recipiente para se tomar algo	um copo de cristal	_ja388422r4na.jpg				tts_um copo.mp3	2,0,7,7,7,0,551,2023-03-14 21:16,2023-04-06 20:16	2,0,5,5,5,5,68,2023-02-04 10:40,2023-02-07 06:40			
+frio	frio, fria	fɾiʊ, fria	que se mantém em temperatura baixa	A sopa está fria.	_otx3z6a5uh81.jpg				tts_frio, fria.mp3	2,0,7,7,7,0,494,2023-03-16 17:50,2023-04-06 07:50	2,0,5,5,5,5,67,2023-02-04 10:40,2023-02-07 05:40			
+quente	quente	kenʧɪ	que tem uma temperatura elevada	um chá quente	_19k7euz0lc0c.jpg				tts_quente_2.mp3	2,0,7,7,7,0,506,2023-03-17 18:04,2023-04-07 20:04	2,0,6,5,5,5,74,2023-02-04 10:42,2023-02-07 12:42			
+tempo	o tempo	tempʊ	estado da atmosfera	O tempo fechou.	_1kei3uj2fmfr.jpg				tts_o tempo.mp3	2,0,8,8,8,8,509,2023-03-30 08:29,2023-04-20 13:29	2,0,6,5,5,5,79,2023-02-04 10:42,2023-02-07 17:42			
+entrar em	entrar em	en'tɾaɾ	passar para dentro	entrar em um café	_14nge061tllu.jpg				tts_entrar em_2.mp3	2,0,10,9,8,3,554,2023-03-22 17:15,2023-04-14 19:15	2,0,7,6,5,5,31,2023-02-04 10:37,2023-02-05 17:37			
+achar	achar	a'ʃaɾ	encontrar, descobrir	O que você acha?	_zuos6c7mvy20.jpg				tts_achar_2.mp3	2,0,7,7,7,0,553,2023-03-14 21:15,2023-04-06 22:15	2,0,5,5,5,5,66,2023-02-04 10:42,2023-02-07 04:42			
+acabar	acabar	aka'baɾ	chegar ao término de algo	A estrada acaba ali.	_xhop1n3iqhfg.jpg				tts_acabar_2.mp3	2,0,14,12,6,7,439,2023-04-04 13:17,2023-04-22 20:17	2,0,5,5,5,5,61,2023-02-04 10:40,2023-02-06 23:40			
+lembrar	lembrar	lem'bɾaɾ	recordar	lembrar os tempos passados	_xe6yaxdpm76h.jpg				tts_lembrar_2.mp3	2,0,13,11,4,5,245,2023-04-01 16:38,2023-04-11 21:38	2,0,9,6,2,2,29,2023-02-04 10:36,2023-02-05 15:36			
+devagar	devagar	deva'ɡaɾ	lentamente	andar devagar	_1nxog95juq1m.jpg				tts_devagar_2.mp3	2,0,8,8,8,8,521,2023-03-30 08:30,2023-04-21 01:30	2,0,5,5,5,5,74,2023-02-04 10:42,2023-02-07 12:42			
+andar	andar	ɐn'daɾ	deslocar-se a pé, caminhar	Ela anda quilômetros todos os dias	_1ozqi539npgc.jpg				tts_andar_2.mp3	2,0,8,8,8,9,722,2023-04-04 13:19,2023-05-04 15:19	2,0,6,5,3,3,56,2023-02-04 10:38,2023-02-06 18:38			
+cão	o cão	kɐ̃ʊ̃	animal doméstico	O cão é um animal fiel.	_135g5002e4gp.jpg				tts_o cão.mp3	2,0,8,8,8,9,621,2023-04-05 17:18,2023-05-01 14:18	2,0,3,3,3,3,40,2023-02-04 10:39,2023-02-06 02:39			
+lição	uma lição	li'sɐ̃ʊ̃	aula em que se aprende algo	fazer a lição de casa	_ydvi0y145yg1.jpg				tts_uma lição.mp3	2,0,8,8,9,10,543,2023-03-30 08:32,2023-04-08 00:59	2,0,6,4,4,4,14,2023-02-04 10:36,2023-02-05 00:36			
+ação	uma ação	a'sɐ̃ʊ̃	forma de agir	Sua ação foi observada.	_gkr2daqo5v44.jpg				tts_uma ação.mp3	2,0,8,8,8,9,684,2023-04-01 16:46,2023-04-30 04:46	2,0,4,4,4,4,59,2023-02-04 10:40,2023-02-06 21:40			
+ônibus	o ônibus	onibus	grande veículo para transporte coletivo de passageiros	pegar o ônibus	_zlmpd3de2dnf.jpg				tts_o ônibus.mp3	2,0,7,7,7,0,589,2023-03-17 18:05,2023-04-11 07:05	2,0,3,3,3,3,36,2023-02-04 10:39,2023-02-05 22:39			
+pegar	pegar	pe'ɡaɾ	segurar, apanhar	pegar a chave do carro	_dv2yfbwklilx.jpg				tts_pegar_2.mp3	2,0,10,9,9,4,463,2023-03-20 15:53,2023-04-08 22:53	2,0,5,3,1,1,10,2023-02-04 10:40,2023-02-04 20:40			
+doente	doente	dʊ'enʧɪ	pessoa que tem problemas de saúde	Os doentes devem procurar ajuda médica.	_snn5qetws364.jpg				tts_doente_2.mp3	2,0,7,7,7,0,538,2023-03-16 10:00,2023-04-07 20:00	2,0,4,4,4,4,64,2023-02-04 10:41,2023-02-07 02:41			
+aberto	aberto, aberta	a'bɛɾtʊ,a	que permite entradas e saídas	A porta está aberta.	_12umnkav60ld_1.jpg				tts_aberto, aberta.mp3	2,0,8,8,8,9,674,2023-04-01 16:46,2023-04-29 18:46	2,0,5,4,3,3,69,2023-02-04 10:40,2023-02-07 07:40			
+tomar	tomar	to'maɾ	pegar, segurar	tomar o doce da criança	_1xpzcyduhov3.jpg				tts_tomar_2.mp3	2,0,8,8,8,9,714,2023-04-05 17:18,2023-05-05 11:18	2,0,4,3,3,3,39,2023-02-04 10:39,2023-02-06 01:39			
+lápis	o lápis	lapis	objeto utilizado para escrever	escrever a lápis	_1cho4hbzzl3o.jpg				tts_o lápis.mp3	2,0,7,7,7,2,542,2023-03-22 17:16,2023-04-14 07:16	2,0,5,4,4,4,19,2023-02-04 10:37,2023-02-05 05:37			
+escrever	escrever	eskɾe'veɾ	representar por letras	escrever uma carta	_1ljg4jntz565.jpg				tts_escrever_2.mp3	2,0,24,18,6,7,343,2023-04-04 13:14,2023-04-18 20:14	2,0,7,4,1,1,8,2023-02-04 10:39,2023-02-04 18:39			
+irmão	o irmão	iɾ'mɐ̃ʊ̃	que tem muita semelhança com outro	almas irmãs	_1xpxhu1renb5.jpg				tts_o irmão.mp3	2,0,8,8,8,9,581,2023-04-01 16:46,2023-04-25 21:46	2,0,4,4,4,4,66,2023-02-04 10:40,2023-02-07 04:40			
+irma	uma irma	iɾ'mɐ̃	filha dos mesmos pais que outro	A irmã dele é minha amiga.	_1jpp3pk2lkf7.jpg				tts_uma irma.mp3	2,0,8,8,8,9,643,2023-04-01 16:46,2023-04-28 11:46	2,0,4,4,4,4,53,2023-02-04 10:38,2023-02-06 15:38			
+até	até	a'tɛ	designa o limite	ir até a praia	_lyjqji99yla9.jpg				tts_até_2.mp3	2,0,7,7,7,2,562,2023-03-22 17:17,2023-04-15 03:17	2,0,4,4,4,4,58,2023-02-04 10:41,2023-02-06 20:41			
+casado	casado, casada	ka'zadʊ,a	unido com outra pessoa pelo casamento	estar casada com um médico	_1wzjg7p8fevi.jpg				tts_casado, casada.mp3	2,0,7,7,7,2,607,2023-03-22 17:18,2023-04-17 00:18	2,0,4,4,4,4,65,2023-02-04 10:40,2023-02-07 03:40			
+abrir	abrir	a'bɾiɾ	tirar ou desviar o que impede de passar	abrir uma porta	_1lf3a4j2sul5.jpg				tts_abrir_2.mp3	2,0,7,7,7,0,498,2023-03-17 18:04,2023-04-07 12:04	2,0,3,3,3,3,36,2023-02-04 10:38,2023-02-05 22:38			
+estudar	estudar	estu'daɾ	esforçar-se para aprender	Ele estuda muito.	_16qvopeewd7g.jpg				tts_estudar_2.mp3	2,0,11,10,9,10,537,2023-04-04 13:18,2023-04-26 22:18	2,0,3,3,3,3,37,2023-02-04 10:39,2023-02-05 23:39			
+esforçar-se	esforçar-se	esfoɾ'saɾsɪ	usar todas as forças para conseguir alguma coisa	A menina não se esforçava para aprender as regras.	_e0at677bh2ib.jpg				tts_esforçar-se_2.mp3	2,0,7,7,7,0,527,2023-03-16 09:59,2023-04-07 08:59	2,0,6,3,1,1,18,2023-02-04 10:42,2023-02-05 04:42			
+chamar-se	chamar-se	ʃa'maɾsɪ	ter como nome	Ela se chama Cristina.	_1s8posql0rvq.jpg				tts_chamar-se_2.mp3	2,0,7,7,7,2,534,2023-03-22 17:18,2023-04-13 23:18	2,0,4,4,4,4,64,2023-02-04 10:41,2023-02-07 02:41			
+papel	o papel	pa'pɛʊ	folha que serve para escrever, embrulhar	papel de carta	_y0id0qmjzg7k.jpg				tts_o papel.mp3	2,0,7,7,7,2,628,2023-03-24 13:26,2023-04-19 17:26	2,0,4,4,4,4,57,2023-02-04 10:40,2023-02-06 19:40			
+guardar	guardar	ɡʊaɾ'daɾ	vigiar para defender	guardar um prisioneiro	_9pz1ruvm1nat.jpg				tts_guardar_2.mp3	2,0,12,11,5,6,405,2023-04-04 13:14,2023-04-21 10:14	2,0,5,4,4,4,17,2023-02-04 10:36,2023-02-05 03:36			
+demais	demais	de'maɪs	em excesso	trabalhar demais	_15cv0i8tshfy.jpg				tts_demais_2.mp3	2,0,7,7,7,2,594,2023-03-24 13:25,2023-04-18 07:25	2,0,4,3,3,3,38,2023-02-04 10:38,2023-02-06 00:38			
+perante	perante	pe'ɾɐnʧɪ	diante de, em frente de	estar perante o público	_12ifwce1ulvu.jpg				tts_perante_2.mp3	2,0,10,8,8,1,495,2023-03-16 17:51,2023-04-06 08:51	2,0,3,3,3,3,34,2023-02-04 10:37,2023-02-05 20:37			
+medo	o medu	medʊ	sentimento de inquietação perante eventual perigo	Eles têm medo de altura	_17fs0e7rq4h6.jpg				tts_o medu.mp3	2,0,7,7,7,2,613,2023-03-22 17:18,2023-04-17 06:18	2,0,3,3,3,3,34,2023-02-04 10:36,2023-02-05 20:36			
+acordar	acordar	akoɾ'daɾ	despertar	Eu tenho que acordar cedo amanhã	_1ee9lvf1lj1e.jpg				tts_acordar_2.mp3	2,0,7,7,7,0,531,2023-03-14 21:15,2023-04-06 00:15	2,0,4,3,1,1,11,2023-02-04 10:40,2023-02-04 21:40			
+depois	depois	de'poɪs	em seguida	Falamos depois.	_hf2oq11mxsdb.jpg				tts_depois_2.mp3	2,0,10,9,6,1,556,2023-03-25 20:16,2023-04-18 00:16	2,0,5,3,1,1,8,2023-02-04 10:41,2023-02-04 18:41			
+esquecer	esquecer	eske'seɾ	não se lembrar de	esquecer o nome de alguém	_io41h7kdair6.jpg				tts_esquecer_2.mp3	2,0,14,11,10,11,692,2023-04-05 17:17,2023-05-04 13:17	2,0,6,3,1,1,8,2023-02-04 10:43,2023-02-04 18:43			
+dar	dar	daɾ	oferecer	dar um presente ao filho	_1vqu6q7nq67m.jpg				tts_dar_2.mp3	2,0,7,7,7,2,583,2023-03-21 09:50,2023-04-14 16:50	2,0,3,3,3,3,38,2023-02-04 10:35,2023-02-06 00:35			
+dica	uma dica	ʤika	indicação de algo	dar uma dica a alguém	_e6yymzrf40xi.jpg				tts_uma dica.mp3	2,0,10,9,8,3,547,2023-03-24 13:26,2023-04-16 08:26	2,0,4,3,1,1,9,2023-02-04 10:38,2023-02-04 19:38			
+padrão	o padrão	pa'dɾɐ̃ʊ̃	motivo decorativo	um padrão de tapete	_n8zmqg6dfliu.png				tts_o padrão.mp3	2,0,7,7,7,0,530,2023-03-14 21:14,2023-04-05 23:14	2,0,4,3,1,1,11,2023-02-04 10:41,2023-02-04 21:41			
+pedir	pedir	pe'ʤiɾ	dizer a alguém o que se quer	para pedir permissão	_155gnee70nv9.jpg				tts_pedir_2.mp3	2,0,10,9,9,10,651,2023-04-01 16:43,2023-04-28 19:43	2,0,3,3,3,3,38,2023-02-04 10:39,2023-02-06 00:39			
+chover	chover	ʃo'veɾ	cair água em gotas do céu	No verão chove muito.	_kdyhw174uguc.jpg				tts_chover_2.mp3	2,0,8,8,8,9,656,2023-04-04 13:17,2023-05-01 21:17	2,0,3,3,3,3,34,2023-02-04 10:37,2023-02-05 20:37			
+tocar	tocar	to'kaɾ	pôr a mão ou o dedo em; pegar;  fazer soar	tocar piano	_1k8lparkwvdj.jpg				tts_tocar_2.mp3	2,0,7,7,7,2,633,2023-03-20 15:54,2023-04-16 00:54	2,0,3,3,3,3,34,2023-02-04 10:35,2023-02-05 20:35			
+soar	soar	sʊ'aɾ	emitir som	A campainha soou.	_1ot8ju0hetvy.jpg				tts_soar_2.mp3	2,0,7,7,7,0,520,2023-03-18 14:10,2023-04-09 06:10	2,0,3,3,3,3,39,2023-02-04 10:39,2023-02-06 01:39			
+trazer	trazer	tɾa'zeɾ	levar para algum lugar	Traga seus filhos!	_1le7uwrlmrun.jpg				tts_trazer_2.mp3	2,0,7,7,7,0,507,2023-03-16 10:00,2023-04-06 13:00	2,0,0,0,0,0,19,2023-02-04 10:21,2023-02-05 05:21			
+sempre	sempre	sempɾɪ	todo o tempo		_1bjhxw7bl0cx.jpg				tts_sempre_2.mp3	2,0,7,7,7,2,619,2023-03-22 17:18,2023-04-17 12:18	2,0,0,0,0,0,19,2023-02-04 10:21,2023-02-05 05:21			
+criança	uma criança	kɾi'ɐ̃sa	menino ou menina pequena	Ele ainda não tem dez anos. É uma criança.	_1nsgp22jb10k.jpg				tts_uma criança.mp3	2,0,7,7,7,2,608,2023-03-24 13:26,2023-04-18 21:26	2,0,0,0,0,0,22,2023-02-04 10:21,2023-02-05 08:21			
+algo	algo	ɑʊɡʊ	alguma coisa, qualquer coisa	Perguntar algo a alguém.	_eqdb486rj0w6.jpg				tts_algo_2.mp3	2,0,7,7,7,0,531,2023-03-14 21:16,2023-04-06 00:16	2,0,0,0,0,0,18,2023-02-04 10:21,2023-02-05 04:21			
+algum	algum, alguma	ɑʊ'ɡũʊ̃, ɑʊ'ɡuma	um dentre vários	Algum de vocês quer vir?	_hc75ihjao3wy.jpg				tts_algum, alguma.mp3	2,0,8,8,8,8,582,2023-03-30 08:29,2023-04-23 14:29	2,0,0,0,0,0,19,2023-02-04 10:21,2023-02-05 05:21			
+abaixo	abaixo	a'baɪʃʊ	em local menos alto, embaixo		_q08u5ziylv14.jpg				tts_abaixo_2.mp3	2,0,14,11,1,2,151,2023-04-01 16:45,2023-04-07 23:45	2,0,0,0,0,0,20,2023-02-04 10:21,2023-02-05 06:21			
+olhar	olhar	o'ʎaɾ	dirigir os olhos para	olhar o mar	_obaq92994s8k.jpg				tts_olhar_2.mp3	2,0,12,10,7,2,488,2023-03-22 17:18,2023-04-12 01:18	2,0,0,0,0,0,19,2023-02-04 10:21,2023-02-05 05:21			
+assistir	assistir	asis'ʧiɾ	estar presente em		_16lsfbl3w4pv.jpg				tts_assistir_2.mp3	2,0,10,9,6,1,451,2023-03-20 15:52,2023-04-08 10:52	2,0,0,0,0,0,18,2023-02-04 10:21,2023-02-05 04:21			
+no entanto	no entanto	en'tɐntʊ	porém, apesar disso	O hotel não é bom, no entanto há outros piores.	_go94e1m3qf6e.jpg				tts_no entanto_2.mp3	2,0,21,16,5,6,115,2023-04-01 22:05,2023-04-06 17:05	2,0,0,0,0,0,19,2023-02-04 10:32,2023-02-05 05:32			
+regra	uma regra	xɛɡɾa	princípio, norma	uma regra de gramática	_12nsuwyokvpo.jpg				tts_uma regra.mp3	2,0,8,8,8,9,608,2023-04-05 17:18,2023-05-01 01:18	2,0,0,0,0,0,18,2023-02-04 10:27,2023-02-05 04:27			
+apesar	apesar	ape'zaɾ	não obstante	Ele come a sopa, apesar de não gostar.	_1kqrws2igxs1.jpg				tts_apesar_2.mp3	2,0,19,12,1,2,36,2023-04-01 16:47,2023-04-03 04:47	2,0,0,0,0,0,21,2023-02-04 10:28,2023-02-05 07:28			
+ver	ver	veɾ	usar o sentido da vista, avistar		_74io892s3qib.jpg				tts_ver_2.mp3	2,0,8,8,8,9,634,2023-04-05 17:18,2023-05-02 03:18	2,0,0,0,0,0,22,2023-02-04 10:26,2023-02-05 08:26			
+ontem	ontem	ontẽɪ̃	no dia anterior a hoje	Ontem não saí.	_zpeaw4zm6l08.jpg				tts_ontem_2.mp3	2,0,8,8,8,9,659,2023-04-05 17:18,2023-05-03 04:18	2,0,0,0,0,0,18,2023-02-04 10:25,2023-02-05 04:25			
+agora	agora	a'ɡɔɾa	neste momento	Vou sair agora.	_8j2nygcd666m.jpg				tts_agora_2.mp3	2,0,8,8,8,9,652,2023-04-04 13:19,2023-05-01 17:19	2,0,0,0,0,0,20,2023-02-04 10:26,2023-02-05 06:26			
+acontecer	acontecer	akonte'seɾ	ocorrer, ter lugar	O acidente aconteceu ontem.	_fhz82dvbmcpv.jpg				tts_acontecer_2.mp3	2,0,17,13,9,10,580,2023-04-04 13:18,2023-04-28 17:18	2,0,0,0,0,0,21,2023-02-04 10:32,2023-02-05 07:32			
+sair	sair	sa'iɾ	deixar um local	sair de casa	_u93lxljscwc8.jpg				tts_sair_2.mp3	2,0,7,7,7,2,617,2023-03-22 17:18,2023-04-17 10:18	2,0,0,0,0,0,21,2023-02-04 10:26,2023-02-05 07:26			
+onde	onde	onʤɪ	serve para interrogar sobre o lugar	Onde você está?	_1j20pjs5eftb.jpg				tts_onde_2.mp3	2,0,8,8,8,9,600,2023-04-04 13:17,2023-04-29 13:17	2,0,0,0,0,0,21,2023-02-04 10:26,2023-02-05 07:26			
+alguém	alguém	ɑʊ'ɡẽɪ̃	alguma pessoa	Vem aí alguém.	_16zbyzyd59st.jpg				tts_alguém_2.mp3	2,0,12,10,9,4,480,2023-03-20 15:52,2023-04-09 15:52	2,0,0,0,0,0,20,2023-02-04 10:28,2023-02-05 06:28			
+cascata	uma cascata	kas'kata	queda de água entre rochedos		_1qr5psvcla41.jpg				tts_uma cascata.mp3	2,0,10,8,6,1,468,2023-03-20 15:54,2023-04-09 03:54	2,0,0,0,0,0,21,2023-02-04 10:30,2023-02-05 07:30			
+pedra	uma pedra	pɛdɾa	matéria dura que se encontra no solo	uma casa de pedra	_wn1tmpx2v6pm.jpg				tts_uma pedra.mp3	2,0,15,12,6,1,442,2023-03-25 20:16,2023-04-13 06:16	2,0,0,0,0,0,18,2023-02-04 10:33,2023-02-05 04:33			
+ponte	uma ponte	ponʧɪ	construção que permite passar por cima de um lugar	uma ponte sobre o rio Pinheiros	_110kus6jvs65.jpg				tts_uma ponte.mp3	2,0,15,12,5,0,404,2023-03-26 20:29,2023-04-12 16:29	2,0,0,0,0,0,18,2023-02-04 10:32,2023-02-05 04:32			
+esquerda	a esquerda	es'keɾda			_837cy3d95iti.jpg				tts_a esquerda.mp3	2,0,14,11,8,3,539,2023-03-25 20:16,2023-04-17 07:16	2,0,0,0,0,0,18,2023-02-04 10:31,2023-02-05 04:31			
+direita	a direita	ʤi'ɾeɪta			_s2wcj5tsjqao.jpg				tts_a direita.mp3	2,0,9,8,8,3,468,2023-03-20 15:54,2023-04-09 03:54	2,0,0,0,0,0,22,2023-02-04 10:32,2023-02-05 08:32			
+alto	o alto	ɑʊtʊ	o ponto mais elevado	o alto da montanha	_1ry5l28ys3w3.jpg				tts_o alto.mp3	2,0,7,7,7,2,564,2023-03-22 17:17,2023-04-15 05:17	2,0,0,0,0,0,20,2023-02-04 10:31,2023-02-05 06:31			
+caneta	uma caneta	ka'neta	objeto que serve para escrever	O menino escreve com lápis e caneta.	_t5nyfyjfis3l.jpg				tts_uma caneta.mp3	2,0,11,10,5,5,412,2023-03-27 09:52,2023-04-10 17:24	2,0,0,0,0,0,20,2023-02-04 10:34,2023-02-05 06:34			
+caderno	o caderno	ka'dɛɾnʊ	conjunto de folhas de papel unidas	caderno de português	_xjvd5hwc49fg.jpg				tts_o caderno.mp3	2,0,8,8,8,9,729,2023-04-04 13:19,2023-05-04 22:19	2,0,0,0,0,0,21,2023-02-04 10:33,2023-02-05 07:33			
+prédio	o prédio	pɾɛʤɪʊ	edifício	um prédio de doze andares	_11fhugvd2fzf.jpg				tts_o prédio.mp3	2,0,24,18,6,7,305,2023-04-04 13:12,2023-04-17 06:12	2,0,0,0,0,0,21,2023-02-04 10:34,2023-02-05 07:34			
+escada	uma escada	es'kada	conjunto de degraus por onde se sobe e desce	subir as escadas	_d6ifh9midrmc.jpg				tts_uma escada.mp3	2,0,9,8,8,3,554,2023-03-25 20:16,2023-04-17 22:16	2,0,0,0,0,0,18,2023-02-04 10:34,2023-02-05 04:34			
+conjunto	o conjunto	kõʊ̃'ʒuntʊ	aquilo que forma um todo	um conjunto de talheres	_1b14qdm9uj5f.jpg				tts_o conjunto.mp3	2,0,8,8,8,8,574,2023-03-30 08:29,2023-04-23 06:29	2,0,0,0,0,0,21,2023-02-04 10:35,2023-02-05 07:35			
+colher	uma colher	ko'ʎɛɾ	talher para tomar líquidos ou para comer alimentos pouco consistentes		_85l8ptr22vgn.png				tts_uma colher.mp3	2,0,13,11,5,6,290,2023-04-01 16:40,2023-04-13 18:40	2,0,0,0,0,0,22,2023-02-04 10:34,2023-02-05 08:34			
+garfo	o garfo	ɡaɾfʊ	talher com dentes com o qual se leva os alimentos à boca	tomar o remédio com uma colher de chá	_12hm6a6zsg2j.jpg				tts_o garfo.mp3	2,0,7,7,7,0,501,2023-03-16 09:59,2023-04-06 06:59	2,0,0,0,0,0,20,2023-02-04 10:35,2023-02-05 06:35			
+faca	uma faca	faka	instrumento que corta	cortar a carne com a faca	_1wtcnnq4t61g.jpg				tts_uma faca.mp3	2,0,11,10,9,9,533,2023-03-30 08:30,2023-04-21 13:30	2,0,0,0,0,0,18,2023-02-04 10:34,2023-02-05 04:34			
+cadeira	uma cadeira	ka'deɪɾa	objeto que serve para se sentar	sentar-se na cadeira	_1gp9fo4o57aa.jpg				tts_uma cadeira.mp3	2,0,16,12,10,11,568,2023-04-04 19:13,2023-04-28 11:13	2,0,0,0,0,0,21,2023-02-04 10:35,2023-02-05 07:35			
+apenas	apenas	a'penas	somente	Quero apenas falar com vôce	_e4go0spqsr33.jpg				tts_apenas_2.mp3	2,0,11,10,9,9,669,2023-03-30 08:31,2023-04-27 05:31				
+juntar	juntar	ʒun'taɾ	acrescentar	juntar dados ao processo	_fabohn7fj161.png				tts_juntar_2.mp3	2,0,14,12,7,7,474,2023-03-30 08:28,2023-04-19 02:28				
+antes	antes	ɐnʧɪs	há muito tempo	Agora já não é como antes.	_1u3aw5ygf158.jpg				tts_antes_2.mp3	2,0,11,9,9,10,603,2023-04-01 16:46,2023-04-26 19:46				
+aviso	o aviso	a'vizʊ	advertência	um aviso da polícia	_ort59n641jns.png				tts_o aviso.mp3	2,0,10,9,9,4,566,2023-03-22 17:17,2023-04-15 07:17				
+aula	uma aula	ɑʊla	lição	uma aula de ginástica	_du267vdpox6e.jpg				tts_uma aula.mp3	2,0,8,8,8,9,681,2023-04-04 13:19,2023-05-02 22:19				
+frase	uma frase	fɾazɪ	grupo de palavras com sentido	uma frase longa e complicada	_l9ek597fcjti.jpg				tts_uma frase.mp3	2,0,7,7,7,0,558,2023-03-17 18:05,2023-04-10 00:05				
+opção	uma opção	opɪ'sɐ̃ʊ̃	escolha	fazer uma opção	_1gm786vo4jzy.jpg				tts_uma opção.mp3	2,0,7,7,7,7,528,2023-03-27 09:47,2023-04-09 14:10				
+conhecer	conhecer	koɲe'seɾ	ter visto, ouvido ou sentido algo	conhecer uma cidade	_7i3o1c3kymzi.jpg				tts_conhecer_2.mp3	2,0,10,9,9,10,651,2023-04-04 13:18,2023-05-01 16:18				
+desistir	desistir	dezis'ʧiɾ	cancelar	desistir do voo	_10ti7qwzw2as.jpg				tts_desistir_2.mp3	2,0,15,12,4,5,244,2023-04-01 16:39,2023-04-11 20:39				
+arrumar	arrumar	axu'maɾ	organizar, arranjar	arrumar os livros por ordem	_11tu23qz8mim.jpg				tts_arrumar_2.mp3	2,0,12,10,9,10,707,2023-04-01 22:05,2023-05-01 09:05				
+quarto	o quarto	kʊaɾtʊ	cômodo da casa onde se dorme	arrumar o quarto	_12yr2csl2z2q.jpg				tts_o quarto.mp3	2,0,11,10,4,5,412,2023-04-04 13:16,2023-04-21 17:16				
+cansado	cansado, cansada	kɐ̃'sadʊ,a	fatigado	Trabalhei muito. Estou cansado.	_17lqu13pehp8.jpg				tts_cansado, cansada.mp3	2,0,7,7,7,0,543,2023-03-14 21:16,2023-04-06 12:16				
+encher	encher	ẽɪ̃'ʃeɾ	ocupar todo o espaço	encher um vaso com terra	_1c3wmptft3uv.jpg				tts_encher_2.mp3	2,0,13,11,4,5,404,2023-04-01 16:40,2023-04-18 12:40				
+prato	o prato	pɾatʊ	recipiente onde se põe a comida	um prato de cerâmica	_wrl1m4mfkr9x.jpg				tts_o prato.mp3	2,0,12,9,9,9,580,2023-03-30 08:29,2023-04-23 12:29				
+palestra	uma palestra	pa'lɛstɾa	conferência	dar uma palestra	_1voq4a9vb65n.jpg				tts_uma palestra.mp3	2,0,18,14,4,5,381,2023-04-04 19:12,2023-04-20 16:12				
+lixo	o lixo	liʃʊ	aquilo que se joga fora por não prestar	jogar o lixo na lixeira	_vv5gqpc45y1x.jpg				tts_o lixo.mp3	2,0,8,8,8,9,631,2023-04-01 16:46,2023-04-27 23:46				
+costa	uma costa	kɔsta	a parte de trás do tronco	estar deitado de costas	_1vnq29mv7h5n.jpg				tts_uma costa.mp3	2,0,14,12,7,8,581,2023-04-04 13:18,2023-04-28 18:18				
+chutar	chutar	ʃu'taɾ	dar um pontapé, um chute em	chutar a bola	_ugtequwn6prx.jpg				tts_chutar_2.mp3	2,0,11,10,9,10,578,2023-04-01 16:44,2023-04-25 18:44				
+balde	o balde	bɑʊʤɪ	recipiente grande para líquidos	um balde cheio de água	_18rhb5nszc65.jpg				tts_o balde.mp3	2,0,15,12,7,8,599,2023-04-04 13:17,2023-04-29 12:17				
+segurar	segurar	seɡu'ɾaɾ	agarrar, não deixar cair	segurar a bandeira	_13qfz3rzrp3y.jpg				tts_segurar_2.mp3	2,0,23,18,6,6,265,2023-03-30 08:25,2023-04-10 09:25				
+embora	embora	em'bɔɾa	ainda que, apesar de	Ele é bom aluno, embora não estude muito.	_1s8p3jke0sll.jpg				tts_embora_2.mp3	2,0,20,14,4,5,260,2023-04-01 16:40,2023-04-12 12:40				
+prestar	prestar	pɾes'taɾ	dispensar, fornecer	prestar um serviço	_26tqli1bfrsu.jpg				tts_prestar_2.mp3	2,0,7,7,7,2,533,2023-03-22 17:18,2023-04-13 22:18				
+sentar	sentar	sen'taɾ	assentar-se, tomar assento	Estou cansada, vou sentar.	_18gfa57vlg06.jpg				tts_sentar_2.mp3	2,0,8,8,8,3,588,2023-03-24 13:26,2023-04-18 01:26				
+voltar	voltar	voʊ'taɾ	regressar, retornar	Ela ainda não voltou.	_17afn3hotx89.jpg				tts_voltar_2.mp3	2,0,9,9,9,10,574,2023-04-01 16:46,2023-04-25 14:46				
+caminho	o caminho	ka'miɲʊ	passagem entre dois lugares	o caminho mais curto para a escola	_1h7uhn5d0f8j.jpg				tts_o caminho.mp3	2,0,8,8,8,3,510,2023-03-22 17:18,2023-04-12 23:18				
+tonto	tonto, tonta	ton'tʊ, ton'ta	bobo, pateta	uma pessoa tonta	_1701jwp75yud.jpg				tts_tonto, tonta.mp3	2,0,9,9,9,10,608,2023-04-01 16:46,2023-04-27 00:46				
+abraçar	abraçar	abɾa'saɾ	apertar-se contra o corpo de outro	Os namorados abraçaram-se.	_b62pnl8ib4hf.jpg				tts_abraçar_2.mp3	2,0,14,12,2,3,249,2023-04-05 17:15,2023-04-16 02:15				
+apertar	apertar	apeɾ'taɾ	pressionar	apertar o botão; Precisou apertar o cinto para não se endividar.	_x8dvad4m8zqt.png				tts_apertar_2.mp3	2,0,15,13,6,7,482,2023-04-01 22:05,2023-04-22 00:05		_19l5idqzjin1.jpg		
+tão	tão	tɐ̃ʊ̃	como	Ele é tão alto como ela.	_163m0f73etpp.jpg				tts_tão_2.mp3	2,0,8,8,8,3,541,2023-03-22 17:18,2023-04-14 06:18				
+rapaz	o rapaz	xa'pas	jovem do sexo masculino	um bom rapaz	_1xhhfy520149.jpg				tts_o rapaz.mp3	2,0,8,8,8,3,486,2023-03-21 09:50,2023-04-10 15:50				
+amanhã	amanhã	amɐ'ɲɐ̃	o dia seguinte, o futuro	o dia seguinte, o futuro	_1g2le9ihprjy.jpg				tts_amanhã_2.mp3	2,0,8,8,8,3,545,2023-03-22 17:17,2023-04-14 10:17				
+moça	uma moça	mˈosæ	pessoa jovem biologicamente do sexo feminino; mulher jovem	Minha irmã é uma moça linda e jovem.	_cwnu97v74a9o.jpg				tts_uma moça.mp3	2,0,15,13,4,5,284,2023-04-01 16:39,2023-04-13 12:39				
+pairar	pairar	paɪ'ɾaɾ	estar suspenso no ar	Um cheiro de flores paira pelo campo.	_v80pb2mqk7ik.jpg				tts_pairar_2.mp3	2,0,15,12,8,8,546,2023-03-30 08:29,2023-04-22 02:29				
+mercado	o mercado	meɾ'kadʊ	lugar onde se compram coisas	ir ao mercado para fazer compras	_450m2x4i14fi.jpg				tts_o mercado.mp3	2,0,8,8,8,1,496,2023-03-17 18:05,2023-04-07 10:05				
+cheio	cheio	ʃeɪʊ	completo	O ônibus está cheio.	_1cj4xkprieqo.jpg				tts_cheio_2.mp3	2,0,12,11,5,6,463,2023-04-01 16:42,2023-04-20 23:42				
+aprovar	aprovar	apɾo'vaɾ	aceitar, passar	aprovar no exame	_1wswu6rjmqe6.jpg				tts_aprovar_2.mp3	2,0,8,8,8,3,472,2023-03-22 17:17,2023-04-11 09:17				
+descobrir	descobrir	ʤɪsko'bɾiɾ	encontrar, revelar	descobrir um novo caminho	_1v0ymzdzjme4.jpg				tts_descobrir_2.mp3	2,0,9,8,6,1,563,2023-03-22 17:17,2023-04-15 04:17				
+encontrar	encontrar	eŋkon'tɾaɾ	descobrir, achar	encontrar algo que estava perdido	_19yt0q8ur9js.png				tts_encontrar_2.mp3	2,0,15,12,9,10,564,2023-04-04 13:18,2023-04-28 01:18				
+recuperar	recuperar	xekupe'ɾaɾ	readquirir, recobrar	recuperar as forças	_te84twnuy5gu.jpg				tts_recuperar_2.mp3	2,0,9,9,9,10,655,2023-04-05 17:18,2023-05-03 00:18				
+prazer	o prazer	pɾa'zeɾ	sentimento agradável	dar prazer a alguém	_13ocdftgv02r.jpg				tts_o prazer.mp3	2,0,12,11,10,11,577,2023-04-01 16:43,2023-04-25 17:43				
+agradável	agradável	aɡɾa'daveʊ	que dá prazer	uma pessoa agradável	_1i8kr2c3i0x4.jpg				tts_agradável_2.mp3	2,0,12,11,4,4,249,2023-03-30 08:19,2023-04-09 17:19				
+mostrar	mostrar	mos'tɾaɾ	explicar, demonstrar	mostrar o funcionamento de algo	_pwbmchvc6s6b.jpg				tts_mostrar_2.mp3	2,0,14,11,3,4,249,2023-04-01 16:38,2023-04-12 01:38				
+manter	manter	mɐn'teɾ	conservar, permanecer com	manter os braços cruzados	_15o0q1d9do2h.jpg				tts_manter_2.mp3	2,0,16,13,5,6,133,2023-04-04 13:10,2023-04-10 02:10				
+rachadura	uma rachadura	xaʃa'duɾa	abertura estreita, fenda	uma rachadura na parede	_1r6l6v2hgzcj.jpg				tts_uma rachadura.mp3	2,0,11,10,9,10,639,2023-04-01 16:45,2023-04-28 07:45				
+sorriso	o sorriso	so'xizʊ	manifestação de alegria com movimento dos lábios	um sorriso contagiante	_1e8qcbmdc0dq.png				tts_o sorriso.mp3	2,0,12,11,6,6,458,2023-03-30 08:30,2023-04-18 10:30				
+rosto	o rosto	xostʊ	cara, face	o rosto de alguém	_14ecrwx25ndt.jpg				tts_o rosto.mp3	2,0,8,8,8,1,543,2023-03-16 17:52,2023-04-08 08:52				
+impedir	impedir	impe'ʤiɾ	proibir, opor-se a	Os pais dela impedem-na de sair à noite.	_15zyomdvhk31.jpg				tts_impedir_2.mp3	2,0,19,15,5,5,321,2023-03-27 09:43,2023-04-09 05:28				
+esconder	esconder	eskon'deɾ	pôr num lugar em que não se possa descobrir	esconder algo debaixo da cama	_5ovkiq1w0qnz.jpg				tts_esconder_2.mp3	2,0,33,23,7,8,371,2023-04-04 13:14,2023-04-20 00:14				
+parecer	parecer	paɾe'seɾ	ter o aspecto de	Eles parecem contentes.	_19it4f70wl50.jpg				tts_parecer_2.mp3	2,0,21,15,4,4,167,2023-03-30 08:18,2023-04-06 07:18				
+buscar	buscar	bus'kaɾ	procurar	buscar uma palavra no dicionário	_3rven9ye10uo.jpg				tts_buscar_2.mp3	2,0,8,8,8,1,533,2023-03-16 09:59,2023-04-07 14:59				
+pagar	pagar	pa'ɡaɾ	dar dinheiro em troca de algo	pagar dez reais por um livro	_jb73jxhulgk6.jpg				tts_pagar_2.mp3	2,0,8,8,8,3,498,2023-03-20 15:54,2023-04-10 09:54				
+enquanto	enquanto	eŋ'kʊantʊ	ao mesmo tempo em que, durante	refletir enquanto se anda	_mq42rhhzimvm.jpg				tts_enquanto_2.mp3	2,0,11,10,9,4,494,2023-03-24 13:26,2023-04-14 03:26				
+pedaço	o pedaço	pe'dasʊ	parte de um todo	um pedaço de carne	_twawquj9n0wf.jpg				tts_o pedaço.mp3	2,0,21,13,1,1,230,2023-03-30 08:27,2023-04-08 22:27				
+morar	morar	mo'ɾaɾ	habitar	morar na cidade	_uor9j68vihih.jpg				tts_morar_2.mp3	2,0,7,7,7,2,533,2023-03-22 17:17,2023-04-13 22:17				
+ler	ler	leɾ	conhecer as letras do alfabeto e juntá-las em palavras	ler o jornal	_a7vqnoa4gd3l.jpg				tts_ler_2.mp3	2,0,7,7,7,2,476,2023-03-24 13:26,2023-04-13 09:26				
+pois	pois	poɪs	porque, visto que	Ele não pode vir pois está cansado.	_1htiitn0wnyl.jpg				tts_pois_2.mp3	2,0,10,9,9,4,505,2023-03-22 17:16,2023-04-12 18:16				
+trabalhar	trabalhar	tɾaba'ʎaɾ	efetuar um trabalho	trabalhar em um projeto	_1snp599mnc7h.jpg				tts_trabalhar_2.mp3	2,0,7,7,7,0,488,2023-03-16 10:00,2023-04-05 18:00				
+cedo	cedo	sedʊ	antes do tempo	Eles vieram mais cedo do que combinado.	_1abxcpmvu7lk.jpg				tts_cedo_2.mp3	2,0,12,10,5,5,412,2023-03-27 09:43,2023-04-06 19:51				
+tarde	tarde	taɾʤɪ	depois do tempo previsto	O avião chegou tarde.	_1cufug1fgwfz.jpg				tts_tarde_2.mp3	2,0,8,8,8,9,622,2023-04-04 13:19,2023-04-30 11:19				
+dúvida	uma dúvida	duvida	ato de não ter a certeza	ter dúvidas sobre algo	_d40xkti40j0s.jpg				tts_uma dúvida.mp3	2,0,8,8,8,9,638,2023-04-05 17:18,2023-05-02 07:18				
+vir	vir	vir	caminhar para o lugar onde se está	Venha cá!	_1ert2z2lrw4p.jpg				tts_vir_2.mp3	2,0,8,8,8,9,661,2023-04-01 16:44,2023-04-29 05:44				
+pôr	pôr	poɾ	colocar em um lugar	pôr o livro em cima da mesa	_lea3egbpscr1.jpg				tts_pôr_2.mp3	2,0,7,7,7,0,527,2023-03-16 09:59,2023-04-07 08:59				
+bolo	o bolo	bolʊ	doce feito com farinha, açúcar e ovos	bolo de chocolate	_k3x2o7npd8g8.jpg				tts_o bolo.mp3	2,0,7,7,7,0,508,2023-03-17 18:04,2023-04-07 22:04				
+castelo	o castelo	kas'tɛlʊ	residência fortificada com altas muralhas e torres		_3suoblqgd4mt.jpg				tts_o castelo.mp3	2,0,8,8,8,3,543,2023-03-22 17:15,2023-04-14 08:15				
+menino	o menino, a menina	me'ninʊ,me'nina	criança do sexo masculino/feminino; garota	menino travesso; menina bonita	_1qcxnt1ndg8n.jpg				tts_o menino, a menina.mp3	2,0,8,8,8,3,473,2023-03-20 15:53,2023-04-09 08:53				
+interessar-se	interessar-se	inteɾe'saɾ	despertar a atenção de	um filme que me interessa	_qfugtj4d52dk.jpg				tts_interessar-se_2.mp3	2,0,12,11,5,6,461,2023-04-04 13:17,2023-04-23 18:17				
+apelido	o apelido	ape'lidʊ	nome de família, sobrenome	O nome próprio dele é Rui e o apelido é Marques.	_1dbpm2uo7vns.jpg				tts_o apelido.mp3	2,0,18,14,4,5,363,2023-04-05 17:13,2023-04-20 20:13				
+idade	uma idade	i'daʤɪ	tempo de vida de algo ou alguém	Qual é a sua idade?	_15i6k8u5u6o6.jpg				tts_uma idade.mp3	2,0,12,11,4,5,275,2023-04-01 16:38,2023-04-13 03:38				
+passar-se	passar-se	pa'saɾ	decorrer, acontescer, ocorrer	é uma história que se passa nos Estados Unidos	_l1519o6y35iu.jpg				tts_passar-se_2.mp3	2,0,15,13,4,4,183,2023-03-30 08:19,2023-04-06 23:19				
+nadador	o nadador, a nadadora	nada'doɾ, nada'doɾa	pessoa que pratica natação		_cbg1hvtaukqe.jpg				tts_o nadador, a nadadora.mp3	2,0,12,11,4,4,239,2023-03-30 08:26,2023-04-09 07:26				
+amável	amável	a'maveʊ	simpático, delicado	uma pessoa amável	_1mjabqxjoa4b.jpg				tts_amável_2.mp3	2,0,23,17,2,3,104,2023-04-04 13:08,2023-04-08 21:08				
+ótimo	ótimo, ótima	ɔʧimʊ, ɔʧima	muito bom, excelente	um ótimo livro	_u1bck21qs4bj.jpg				tts_ótimo, ótima.mp3	2,0,11,9,8,3,524,2023-03-24 13:24,2023-04-15 09:24				
+fome	a fome	fɔmɪ	necessidade de comer	Eu tenho fome	_z8axvbh3lx53.jpg				tts_a fome.mp3	2,0,10,9,8,9,601,2023-04-04 13:17,2023-04-29 14:17				
+sede	a sede	sɛʤɪ	necessidade de beber	O calor me dá sede.	_7w4zl7bihu8o.png				tts_a sede.mp3	2,0,12,11,5,6,399,2023-04-01 16:41,2023-04-18 07:41				
+calor	o calor	ka'loɾ	temperatura elevada	No verão, o calor é grande.	_1o5fmx8xyqw2.jpg				tts_o calor.mp3	2,0,8,8,8,3,480,2023-03-24 13:24,2023-04-13 13:24				
+sentir-se	sentir-se	sen'ʧiɾ	ter uma sensação psicológica	Eu sinto-me nervoso	_hh4blvvfsgku.jpg				tts_sentir-se_2.mp3	2,0,18,15,6,7,554,2023-04-04 13:18,2023-04-27 15:18				
+manteiga	a manteiga	mɐn'teɪɡa	gordura do leite	pão com manteiga	_1pdokqah3bpi.jpg				tts_a manteiga.mp3	2,0,18,13,4,5,269,2023-04-01 16:39,2023-04-12 21:39				
+queijo	o queijo	keɪʒʊ	produto feito a partir do leite	uma fatia de queijo	_1mlf7xplo6us.jpg				tts_o queijo.mp3	2,0,9,9,9,10,622,2023-04-01 16:45,2023-04-27 14:45				
+almoçar	almoçar	ɑʊmo'saɾ	comer na refeição do meio-dia	Ela almoça às 13h.	_1t0zzk7j5iif.jpg				tts_almoçar_2.mp3	2,0,13,11,9,9,591,2023-03-30 08:29,2023-04-23 23:29				
+apagar	apagar	apa'ɡaɾ	extinguir, desligar	apagar a televisão	_1ias3e6kcosl.jpg				tts_apagar_2.mp3	2,0,8,8,8,3,478,2023-03-22 17:15,2023-04-11 15:15				
+curtir	curtir	kuɾ'ʧiɾ	(fam) desfrutar, gostar muito de alguma coisa ou de alguém	Ele curte muito essa menina!	_1eonji4mzq21.png				tts_curtir_2.mp3	2,0,8,8,8,3,562,2023-03-22 17:15,2023-04-15 03:15				
+apressar-se	apressar-se	apɾe'saɾsɪ	dar-se pressa, aviar-se, despachar-se.		_1pfwij5n5so6.jpg				tts_apressar-se_2.mp3	2,0,8,8,8,3,506,2023-03-20 15:54,2023-04-10 17:54				
+alcance	alcançar	ɑʊkɐ̃'saɾ	atingir um objetivo	Ele alcançou uma boa posição	_ld8ot10ln1wg.jpg				tts_alcançar.mp3	2,0,13,10,9,9,584,2023-03-30 08:30,2023-04-23 16:30				
+procurar	procurar	pɾoku'ɾaɾ	tentar encontrar, buscar	procurar um número de telefone	_1boxltalzfjh.jpg				tts_procurar_2.mp3	2,0,8,8,8,3,487,2023-03-20 15:53,2023-04-09 22:53				
+mudar	mudar	mu'daɾ	transformar; ir viver em outro lugar	mudar a cor das paredes; mudar o lugar da cama	_15yfk4cjd5t3.jpg				tts_mudar_2.mp3	2,0,16,13,5,0,401,2023-03-24 13:23,2023-04-10 06:23		_gz16yyx8vf3e.jpg		
+pesquisar	pesquisar	peski'zaɾ	procurar informação, investigar	pesquisar as origens do homem	_1ulkphstp600.jpg				tts_pesquisar_2.mp3	2,0,18,14,3,1,241,2023-03-27 09:30,2023-04-05 21:27				
+rascunho	o rascunho	xas'kuɲʊ	esboço prévio de texto ou desenho	fazer um rascunho inicial	_1s8rj5b4zrwi.png				tts_o rascunho.mp3	2,0,16,12,6,1,404,2023-03-24 13:24,2023-04-10 09:24				
+pequeno	pequeno	<span style="color: #1D2A57;">pe'kenʊ</span>	que tem um tamanho reduzido	uma cidade pequena	_1syx5kf8exg1.jpg				tts_pequeno_2.mp3	2,0,10,9,6,1,478,2023-03-25 20:15,2023-04-14 18:15				
+colocar	colocar	kolo'kaɾ	pôr num lugar	colocar o livro na estante	_hgu8j8petsfe.jpg				tts_colocar_2.mp3	2,0,7,7,7,2,459,2023-03-22 17:15,2023-04-10 20:15				
+soletrar	soletrar	sole'tɾaɾ	ler letra por letra	soletrar uma palavra	_8j0f7btgjcue.jpg				tts_soletrar_2.mp3	2,0,11,10,8,9,634,2023-04-05 17:17,2023-05-02 03:17				
+tal	tal	tɑʊ	designa algo ou alguém, em substituição a este, esta, isto, esse, essa, isso, aquele, aquela, aquilo	na rua tal	_1grmp5hcc58w.jpg				tts_tal_2.mp3	2,0,7,7,7,2,474,2023-03-21 09:49,2023-04-10 03:49				
+seguir	seguir	se'ɡiɾ	ir atrás de alguém ou algo	seguir o guia	_1pd3qp8m9in0.jpg				tts_seguir_2.mp3	2,0,13,11,8,3,460,2023-03-22 17:16,2023-04-10 21:16				
+acompanhar	acompanhar	akompa'ɲaɾ	ir com alguém	acompanhar alguém numa viagem	_182bwcnh8joi.jpg				tts_acompanhar_2.mp3	2,0,8,8,8,9,613,2023-04-05 17:16,2023-05-01 06:16				
+novamente	novamente	Novamente perdi o jogo	indica repetição de um ato ocorrido anteriormente, de novo	Novamente perdi o jogo	_9x52mmbmrr05.jpg				tts_novamente_2.mp3	2,0,15,12,7,2,417,2023-03-20 15:50,2023-04-07 00:50				
+obter	obter	obɪ'teɾ	conseguir, atingir	obter uma autorização de saída	_16sugepa2pp5.jpg				tts_obter_2.mp3	2,0,8,8,8,9,710,2023-04-04 13:17,2023-05-04 03:17				
+lugar	o lugar	lu'ɡaɾ	local	Ela vive num lugar bonito.	_s3mmtehyw03w.jpg				tts_o lugar.mp3	2,0,10,9,8,3,510,2023-03-22 17:17,2023-04-12 23:17				
+linha	uma linha	liɲa	traço; fio utilizado para costurar	costurar a bainha com linha preta	_z55ja6f94dw9.jpg				tts_uma linha.mp3	2,0,11,10,7,8,567,2023-04-01 16:44,2023-04-25 07:44				
+significar	significar	siɡɪnifi'kaɾ	querer dizer	O que significa essa palavra?	_fyk91umd43qw.jpg				tts_significar_2.mp3	2,0,7,7,7,2,532,2023-03-20 15:54,2023-04-11 19:54				
+velho	velho, velha	vɛʎʊ, vɛʎa	que tem muita idade	um homem velho	_16iaoq7nbjvp.jpg				tts_velho, velha.mp3	2,0,11,10,4,4,248,2023-03-30 08:26,2023-04-09 16:26				
+traçar	traçar	tɾa'saɾ	representar por meio de traços	traçar uma reta	_1v6y63m4uwxq.jpg				tts_traçar_2.mp3	2,0,18,14,4,3,263,2023-03-27 09:37,2023-04-05 19:13				
+reta	uma reta	xɛta	a menor distância entre dois pontos	traçar uma reta	_l0kyf3i9lqgc.jpg				tts_uma reta.mp3	2,0,7,7,7,2,556,2023-03-25 20:16,2023-04-18 00:16				
+limpar	limpar	lim'paɾ	tornar limpo, tirar a sujeira de	limpar a casa	_pq1atqk230p3.jpg				tts_limpar_2.mp3	2,0,8,8,8,8,591,2023-03-30 08:31,2023-04-23 23:31				
+tornar	tornar	toɾ'naɾ	transformar, converter em	tornar o mundo melhor	_6wv5l91aj0pz.jpg				tts_tornar_2.mp3	2,0,10,9,8,3,490,2023-03-20 15:53,2023-04-10 01:53				
+sujeira	uma sujeira	su'ʒeɪɾa	impureza, imundície	uma casa cheia de sujeira	_7g28yc01ej5p.jpg				tts_uma sujeira.mp3	2,0,17,13,1,2,138,2023-04-04 13:18,2023-04-10 07:18				
+crescer	crescer	kɾe'seɾ	desenvolver-se	as crianças crescem	_bowyx8mwgcja.jpg				tts_crescer_2.mp3	2,0,18,13,4,4,320,2023-03-30 08:26,2023-04-12 16:26				
+atravessar	atravessar	atɾave'saɾ	transpor, passar	atravessar a rua	_1gifamgc591r.jpg				tts_atravessar_2.mp3	2,0,17,13,5,6,208,2023-04-01 16:39,2023-04-10 08:39				
+fazenda	uma fazenda	fa'zenda	propriedade rural, rancho	Tomar conta de uma fazenda é um trabalho exigente.	_rjftzqbet8gn.jpg				tts_uma fazenda.mp3	2,0,7,7,7,7,459,2023-03-27 09:41,2023-04-06 17:09				
+desenhar	desenhar	deze'ɲaɾ	fazer desenhos	Ele desenhou um barco.	_nync18f6qx7u.jpg				tts_desenhar_2.mp3	2,0,9,8,6,1,425,2023-03-24 13:23,2023-04-11 06:23				
+carregar	carregar	kaxe'ɡaɾ	colocar a carga em	carregar um caminhão com mercadorias	_10p7crx8b1fy.jpg				tts_carregar_2.mp3	2,0,17,13,8,9,555,2023-04-01 16:43,2023-04-24 19:43				
+caminhão	o caminhão	caminhão	carro grande geralmente utilizado no transporte de cargas; camião	Agora podemos carregar o caminhão com a mercadoria.	_1c3wou416qk1.jpg				tts_o caminhão.mp3	2,0,15,12,2,3,133,2023-04-04 19:12,2023-04-10 08:12				
+bolsa	uma bolsa	boʊsa	acessório feminino de mão para carregar pequenas coisas	bolsa a tiracolo	_13s59u3873j7.jpg				tts_uma bolsa.mp3	2,0,6,6,6,1,503,2023-03-25 20:15,2023-04-15 19:15				
+após	após	a'pɔs	depois de	Após a guerra, a paz.	_rehkwclyvhzq.jpg				tts_após_2.mp3	2,0,11,9,9,4,464,2023-03-22 17:15,2023-04-11 01:15				
+aposentar-se	aposentar-se	apozen'taɾsɪ	retirar-se do serviço com a manutenção do ordenado	Aposentou-se há dois anos.	_1amrphbluvn6.jpg				tts_aposentar-se_2.mp3	2,0,10,9,8,8,650,2023-03-30 08:30,2023-04-26 10:30				
+farda	uma farda	faɾda	uniforme	a farda do policial	_1wejd6bvn7r8.jpg				tts_uma farda.mp3	2,0,9,8,4,3,316,2023-03-27 09:35,2023-04-06 17:23				
+ladrão	o ladrão	la'dɾɐ̃ʊ̃	pessoa que rouba, gatuno	prender o ladrão	_hmpkwucighu9.jpg				tts_o ladrão.mp3	2,0,10,9,8,9,569,2023-04-01 16:44,2023-04-25 09:44				
+desabar	desabar	deza'baɾ	abater, cair, desmoronar-se	A parede desabou.	_yxf9i5jrd7g0.jpg				tts_desabar_2.mp3	2,0,17,12,0,0,302,2023-03-27 09:51,2023-04-06 03:23				
+loja	uma loja	lɔʒa	estabelecimento onde se vendem produtos	uma loja de roupas	_18q14as9zm1w.jpg				tts_uma loja.mp3	2,0,6,6,6,1,506,2023-03-22 17:16,2023-04-12 19:16				
+agir	agir	a'ӡiɾ	fazer alguma coisa	É preciso agir depressa.	_9wiiama1zixr.jpg				tts_agir_2.mp3	2,0,6,6,6,1,593,2023-03-22 17:31,2023-04-16 10:31				
+forma	uma forma	fɔɾma	aspecto de uma coisa abstrata	formas similares de raciocínio	_1xffrfa0mzvk.png				tts_uma forma.mp3	2,0,6,6,6,1,588,2023-03-22 17:17,2023-04-16 05:17				
+abordagem	uma abordagem	aboɾ'daʒẽɪ̃	todo tipo de aproximação	a abordagem de alguém na rua	_mrott7585w2q.jpg				tts_uma abordagem.mp3	2,0,9,8,4,3,297,2023-03-27 09:35,2023-04-05 22:23				
+mandar	mandar	mɐn'daɾ	ordenar	mandar alguém fazer algo	_1emxqcfnpr2h.png				tts_mandar_2.mp3	2,0,6,6,6,1,475,2023-03-22 17:16,2023-04-11 12:16				
+ferimento	o ferimento	feɾi'mentʊ	ato ou efeito de ferir	um ferimento de guerra	_1107hjd90jrj.jpg				tts_o ferimento.mp3	2,0,15,12,6,1,397,2023-03-22 17:13,2023-04-08 06:13				
+leve	leve	lɛvɪ	sem gravidade	um ferimento leve	_5vmiy5r6eljm.jpg				tts_leve_2.mp3	2,0,9,8,8,3,486,2023-03-21 09:50,2023-04-10 15:50				
+golpe	o golpe	ɡɔʊpɪ	choque, ação desleal	A morte do amigo foi um grande golpe para ela.	_zo6rzdw91ys1.jpg				tts_o golpe.mp3	2,0,7,7,7,7,454,2023-03-27 09:52,2023-04-06 12:10				
+ganhar	ganhar	ɡa'ɲaɾ	conseguir algo pelo trabalho	ganhar a vida trabalhando	_o5t2e273v3ci.png				tts_ganhar_2.mp3	2,0,10,8,8,3,465,2023-03-20 15:52,2023-04-09 00:52				
+ambiente	ambiente	ɐmbɪ'enʧɪ	relativo à atmosfera circundante	o meio ambiente	_yjb7hpfhzbr0.jpg				tts_ambiente_2.mp3	2,0,14,11,7,8,488,2023-04-04 13:15,2023-04-24 21:15				
+pular	pular	pu'laɾ	dar saltos	pular de alegria	_meho81em3ys8.jpg				tts_pular_2.mp3	2,0,13,11,4,4,256,2023-03-30 08:26,2023-04-10 00:26				
+aumentar	aumentar	ɑʊmen'taɾ	crescer	Os preços estão aumentando.	_dljdll5o8c8i.png				tts_aumentar_2.mp3	2,0,21,13,9,10,477,2023-04-05 17:16,2023-04-25 14:16				
+afastar	afastar	afas'taɾ	distanciar	afastar o prato	_1gb0ken67gpp.jpg				tts_afastar_2.mp3	2,0,11,9,9,10,564,2023-04-04 13:17,2023-04-28 01:17				
+compartilhar	compartilhar	kompaɾʧi'ʎaɾ	partilhar algo com alguém	Compartilharam um pedaço de bolo.	_xzhi1cdqxayy.jpg				tts_compartilhar_2.mp3	2,0,6,6,6,1,510,2023-03-20 15:54,2023-04-10 21:54				
+conseguir	conseguir	kõʊ̃se'ɡiɾ	ser capaz de	conseguir fazer algo	_nnkbte7s47lr.jpg				tts_conseguir_2.mp3	2,0,10,8,8,3,464,2023-03-20 15:52,2023-04-08 23:52				
+partilhar	partilhar	paɾʧi'ʎaɾ	fazer a divisão de	partilhar os lucros com alguém	_52jou93xneap.jpg				tts_partilhar_2.mp3	2,0,12,9,1,2,139,2023-04-01 16:47,2023-04-07 11:47				
+cuidar	cuidar	kʊɪ'daɾ	tratar de, ter cuidado com	cuidar dos filhos	_17l92j5tusm5.jpg				tts_cuidar_2.mp3	2,0,6,6,6,1,453,2023-03-20 15:53,2023-04-08 12:53				
+certeza	certeza	seɾ'teza	o que se sabe de forma certa	Isso é certeza: viajamos amanhã.	_s258xleai0ke.jpg				tts_certeza_2.mp3	2,0,8,8,8,9,636,2023-04-05 17:18,2023-05-02 05:18				
+capaz	o capaz	ka'pas	apto, competente para	ser capaz de fazer algo	_1qrgmx4hsvva.jpg				tts_o capaz.mp3	2,0,12,10,5,6,213,2023-04-04 13:13,2023-04-13 10:13				
+sobrar	sobrar	so'bɾaɾ	ficar em excesso	sobrar dinheiro	_fncqn5c7va9p.jpg				tts_sobrar_2.mp3	2,0,13,10,1,2,150,2023-04-01 16:45,2023-04-07 22:45				
+concordar	concordar	koŋkoɾ'daɾ	aceitar, estar de acordo com	Concordo com o que ele fez	_w9t8o31ragi5.jpg				tts_concordar_2.mp3	2,0,9,8,8,3,513,2023-03-24 13:25,2023-04-14 22:25				
+apresentar	apresentar	apɾezen'taɾ	dar a conhecer pessoas a outras	apresentar os concorrentes	_1t80zpgli1cf.jpg				tts_apresentar_2.mp3	2,0,6,6,6,1,524,2023-03-22 17:16,2023-04-13 13:16				
+bondade	uma bondade	bon'daʤɪ	grande generosidade, benevolência	Sua bondade comoveu a todos.	_17hw7bteui9x.jpg				tts_uma bondade.mp3	2,0,16,12,6,7,452,2023-04-05 17:15,2023-04-24 13:15				
+apoiar	apoiar	apoɪ'aɾ	dar apoio ou ajuda a	apoiar uma atividade cultural	_pn676h4aq7uh.jpg				tts_apoiar_2.mp3	2,0,13,11,5,6,415,2023-04-01 16:43,2023-04-18 23:43				
+jejuar	jejuar	ʒeʒʊ'aɾ	não comer voluntariamente	jejuar na sexta-feira santa	_arsk93v3cpjl.jpg				tts_jejuar_2.mp3	2,0,6,6,6,1,520,2023-03-21 09:49,2023-04-12 01:49				
+sofrer	sofrer	so'fɾeɾ	ser vítima de	sofrer uma decepção	_16bvpfvcxb0n.jpg				tts_sofrer_2.mp3	2,0,16,13,6,6,322,2023-03-30 08:26,2023-04-12 18:26				
+caridade	uma caridade	kaɾi'daʤɪ	bondade, generosidade	fazer caridade	_kvpg1yywvycn.jpg				tts_uma caridade.mp3	2,0,17,13,2,3,315,2023-04-01 16:41,2023-04-14 19:41				
+jurar	jurar	ʒu'ɾaɾ	afirmar com certeza	Ele jurou cumprir a sua missão	_16i6h9ztdza8.jpg				tts_jurar_2.mp3	2,0,9,8,8,8,566,2023-03-30 08:30,2023-04-22 22:30				
+sozinho	sozinho	sɔ'ziɲʊ	que não tem companhia, por si mesmo	falar sozinho	_58iioira1eob.jpg				tts_sozinho_2.mp3	2,0,9,8,6,1,357,2023-03-24 13:24,2023-04-08 10:24				
+pedido	o pedido	pe'ʤidʊ	ato de dizer a alguém o que se quer	um pedido de informação	_1x2v417ud7yz.jpg				tts_o pedido.mp3	2,0,12,10,9,10,537,2023-04-01 16:44,2023-04-24 01:44				
+amado	amado, amada	ˌæmˈadʊ, ˌæmˈadæ	a quem se tem amor	o meu pai era amado	_eb6raotnxgbq.jpg				tts_amado, amada.mp3	2,0,8,8,8,9,619,2023-04-04 13:17,2023-04-30 08:17				
+praticar	praticar	pɾaʧi'kaɾ	exercer, fazer	praticar um esporte	_1sgefbhqgmf4.jpg				tts_praticar_2.mp3	2,0,6,6,6,1,577,2023-03-24 13:26,2023-04-17 14:26				
+controlar	controlar	kontɾo'laɾ	dominar, ter poder sobre	controlar uma situação	_7znh9tby3fk9.jpg				tts_controlar_2.mp3	2,0,9,8,8,8,532,2023-03-30 08:29,2023-04-21 12:29				
+roubar	roubar	xoʊ'baɾ	apropriar-se de algo alheio	roubar dinheiro do banco	_18sm71e37htb.jpg				tts_roubar_2.mp3	2,0,12,10,7,2,427,2023-03-24 13:24,2023-04-11 08:24				
+acreditar	acreditar	akɾeʤi'taɾ	aceitar o que se diz	Ele acredita no que lhe dizem.	_zlxigem0n2jn.jpg				tts_acreditar_2.mp3	2,0,16,13,6,7,367,2023-04-01 16:40,2023-04-16 23:40				
+arrasado	arrasado, arrasada	axa'zadʊ, axa'zada	destruído, que está em estado de depressão	um edifício arrasado	_bzbsm82pk5vk.png				tts_arrasado, arrasada.mp3	2,0,14,9,7,2,401,2023-03-20 15:52,2023-04-06 08:52				
+assustar	assustar	asus'taɾ	causar medo a	O tiro assustou-me.	_1lw8i8c84v0a.jpg				tts_assustar_2.mp3	2,0,13,11,7,7,513,2023-03-30 08:28,2023-04-20 17:28				
+ameaçar	ameaçar	amɪa'saɾ	dar sinal de que se vai fazer algo mau	Ele ameaçou denunciá-lo à polícia.	_1nb9qt5a3uiv.jpg				tts_ameaçar_2.mp3	2,0,19,14,8,3,430,2023-03-26 20:28,2023-04-13 18:28				
+haver	haver	a'veɾ	existir, ter existência	Há muitos alunos na classe.	_113wn5xcf56x.jpg				tts_haver_2.mp3	2,0,8,8,8,9,612,2023-04-05 17:16,2023-05-01 05:16				
+apaixonar	apaixonar	apaɪʃo'naɾ	inspirar paixão a alguém	Suas teorias apaixonam os jovens.	_12lghcaz8xnj.jpg				tts_apaixonar_2.mp3	2,0,6,6,6,1,492,2023-03-24 13:23,2023-04-14 01:23				
+paixão	uma paixão	paɪ'ʃɐ̃ʊ̃	grande amor	grande amor	_idwk1phqvhcu.jpg				tts_uma paixão.mp3	2,0,9,8,8,3,486,2023-03-22 17:15,2023-04-11 23:15				
+derrubar	derrubar	dexu'baɾ	fazer cair	EUA recuperam 'destroços significativos', incluindo sensor, de balão chinês derrubado	_2uv7dux8rv4u.jpg				tts_derrubar_2.mp3	2,0,14,11,2,2,499,2023-03-30 08:29,2023-04-20 03:29				
+desde	desde	dezʤɪ	a partir do momento em que	Desde que fiquei doente, ainda não saí.	_12uuuqh12o1g.jpg				tts_desde_2.mp3	2,0,10,9,9,10,581,2023-04-05 17:18,2023-04-29 22:18				
+rotina	uma rotina	xo'ʧina	repetição dos mesmos atos, hábitos	a rotina cotidiana	_1b0laga7ksed.jpg				tts_uma rotina.mp3	2,0,9,8,7,2,455,2023-03-26 20:28,2023-04-14 19:28				
+indicar	indicar	inʤi'kaɾ	mostrar, apontar	indicar uma direção	_ew3ksx5itfru.jpg				tts_indicar_2.mp3	2,0,6,6,6,1,471,2023-03-24 13:24,2023-04-13 04:24				
+oposto	oposto	o'postʊ	oposto	opiniões opostas	_qni4okxfcfng.jpg				tts_oposto_2.mp3	2,0,8,8,8,9,623,2023-04-01 22:05,2023-04-27 21:05				
+academia	uma academia	akade'mia	local onde se praticam esportes	No final da tarde, vou à academia.	_x5p121590pr2.jpg				tts_uma academia.mp3	2,0,8,8,8,9,612,2023-04-04 13:17,2023-04-30 01:17				
+detalhe	o detalhe	de'taʎɪ	coisa de pouca importância	É apenas um mero detalhe.	_mpzwp0cee2j0.jpg				tts_o detalhe.mp3	2,0,7,7,7,7,479,2023-03-27 09:51,2023-04-07 13:09				
+engraçado	engraçado, engraçada	eŋɡɾa'sadʊ, eŋɡɾa'sada	divertido, que tem graça	uma piada engraçada	_6j7umqqwd9m8.jpg				tts_engraçado, engraçada.mp3	2,0,18,13,7,7,420,2023-03-30 08:28,2023-04-16 20:28				
+nunca	nunca	nuŋka	nenhuma vez, em nenhum momento	Ele nunca se deita cedo.	_2pptqlun6zba.jpg				tts_nunca_2.mp3	2,0,6,6,6,1,496,2023-03-24 13:24,2023-04-14 05:24				
+raramente	raramente	xˌaɾæmˈeɪŋtʃy	de forma rara, pouco frequente		_1pynz9r2jtq7.jpg				tts_raramente_2.mp3	2,0,6,6,6,1,576,2023-03-25 20:16,2023-04-18 20:16				
+de manhã	de manhã	dʒy mɐ̃ɲˈɐ̃	pela manhã		_16d4iorn2qjz.jpg				tts_de manhã_2.mp3	2,0,6,6,6,1,556,2023-03-25 20:15,2023-04-18 00:15				
+à tarde	à tarde	ˌaː tˈaɾədʒy	pela tarde		_1b1zssrdwc2a.jpg				tts_à tarde_2.mp3	2,0,10,9,6,6,487,2023-03-30 08:29,2023-04-19 15:29				
+à noite	à noite	ˌaː nˈoɪtʃy	pela noite		_1kn2gksk42au.jpg				tts_à noite_2.mp3	2,0,9,8,8,9,580,2023-04-01 16:44,2023-04-25 20:44				
+às segundas	às segundas	ˌaːs sˌeɡˈũŋdæs	o que acontece todo segunda		_12g4rpwil6bh.jpg				tts_às segundas_2.mp3	2,0,7,7,7,7,570,2023-03-30 08:29,2023-04-23 02:29				
+aos sábados	aos sábados	aʊs sˈabædʊs	o que acontece todo sabado		_15gv24vkuzxq.jpg				tts_aos sábados_2.mp3	2,0,9,8,4,3,364,2023-03-27 09:38,2023-04-08 17:22				
+normalmente	normalmente	nˌoɾəmaʊmˈeɪŋtʃy	de modo normal, simples		_10ohaqawbf89.jpg				tts_normalmente_2.mp3	2,0,7,7,7,7,543,2023-03-30 08:29,2023-04-21 23:29				
+frequentemente	frequentemente	fɾekʊenʧɪ'menʧɪ	muitas vezes	ir frequentemente ao médico	_14vjlxifcwfj.jpg				tts_frequentemente_2.mp3	2,0,6,6,6,1,478,2023-03-22 17:15,2023-04-11 15:15				
+sugerir	sugerir	suʒe'ɾiɾ	dar sugestão a, propor	sugerir um lugar	_5oziaa7r1fih.jpg				tts_sugerir_2.mp3	2,0,13,11,4,4,289,2023-03-30 08:25,2023-04-11 09:25				
+conversar	conversar	kõʊ̃veɾ'saɾ	falar com alguém	conversar ao telefone	_1uqe4xlq94ul.jpg				tts_conversar_2.mp3	2,0,6,6,6,1,480,2023-03-20 15:54,2023-04-09 15:54				
+quase	quase	kʊazɪ	aproximadamente	São quase seis horas.	_1t72c34roby7.png				tts_quase_2.mp3	2,0,6,6,6,1,428,2023-03-20 15:51,2023-04-07 11:51				
+lado	o lado	ladʊ	lugar ou parte que fica à esquerda ou à direita de algo	o lado direito da casa	_1ry4pc5kxn53.jpg				tts_o lado.mp3	2,0,6,6,6,1,476,2023-03-22 17:15,2023-04-11 13:15				
+estrutura	uma estrutura	estɾu'tuɾa	organização dos elementos de um todo	a estrutura da sociedade	_n1jdan5ksqbb.jpg				tts_uma estrutura.mp3	2,0,12,10,4,4,220,2023-03-30 08:19,2023-04-08 12:19				
+sobre	sobre	sobɾɪ	a respeito de	falar sobre cinema	_cz8mwv9diqxx.jpg				tts_sobre_2.mp3	2,0,7,7,7,7,469,2023-03-27 09:52,2023-04-06 07:04				
+quando	quando	kʊɐndʊ	em que época, em que data	Quando ele chega?	_ps1vovg0vhbe.png				tts_quando_2.mp3	2,0,6,6,6,1,522,2023-03-22 17:16,2023-04-13 11:16				
+frequência	uma frequência	fɾe'kʊẽɪ̃sɪa	repetição de um fato de forma sistemática	a frequência dos ataques	_zbiuqlp6slfj.jpg				tts_uma frequência.mp3	2,0,6,6,6,1,447,2023-03-20 15:53,2023-04-08 06:53				
+viajar	viajar	vɪa'ʒaɾ	sair de viagem	viajar nas férias	_f8lcmkwcm7yx.jpg				tts_viajar_2.mp3	2,0,9,8,7,2,509,2023-03-26 20:29,2023-04-17 01:29				
+cachorro	o cachorro	ka'ʃoxʊ	animal doméstico, cão	passear com os cachorros	_1pf0n61tkd8i.jpg				tts_o cachorro.mp3	2,0,16,12,1,2,243,2023-04-04 13:16,2023-04-14 16:16				
+sugestão	uma sugestão	suʒes'tɐ̃ʊ̃	proposta, conselho	fazer uma sugestão	_j7p6bdzr7sv6.jpg				tts_uma sugestão.mp3	2,0,7,7,7,7,609,2023-03-30 08:29,2023-04-24 17:29				
+atingir	atingir	aʧĩ'ʒiɾ	alcançar	atingir os objetivos	_aijly8wm6sc0.jpg				tts_atingir_2.mp3	2,0,9,8,8,8,474,2023-03-30 08:30,2023-04-19 02:30				
+passear	passear	pasɪ'aɾ	andar ao ar livre	sair no domingo para passear	_k2q06ubdlxw6.jpg				tts_passear_2.mp3	2,0,8,8,8,9,515,2023-04-01 16:44,2023-04-23 03:44				
+falhar	falhar	fa'ʎaɾ	não funcionar	O motor falhou.	_9ye7f6kcmi1w.jpg				tts_falhar_2.mp3	2,0,13,11,4,5,266,2023-04-01 16:38,2023-04-12 18:38				
+quebrar	quebrar	ke'bɾaɾ	partir, fraturar; romper, desfazer	quebrar um osso	_3jrdl1mjoql1.jpg				tts_quebrar_2.mp3	2,0,6,6,6,1,519,2023-03-26 20:28,2023-04-17 11:28				
+bagunça	uma bagunça	ba'ɡũsa	situação de desordem	a bagunça da sala	_j55q2dkmla7j.jpg				tts_uma bagunça.mp3	2,0,9,8,8,8,436,2023-03-30 08:28,2023-04-17 12:28				
+receber	receber	xese'beɾ	aceitar o que foi dado, enviado; acolher, hospedar	receber as visitas	_1k7wviuz4qiw.jpg				tts_receber_2.mp3	2,0,11,9,6,7,396,2023-04-01 16:40,2023-04-18 04:40				
+acolher	acolher	ako'ʎeɾ	proteger, dar proteção a	acolher os refugiados	_5ubb8567dkc5.jpg				tts_acolher_2.mp3	2,0,18,12,2,3,122,2023-04-04 13:10,2023-04-09 15:10				
+provocar	provocar	pɾovo'kaɾ	desafiar, levar alguém a agir	provocar alguém para um combate	_18viq5yqce5q.jpg				tts_provocar_2.mp3	2,0,6,6,6,1,401,2023-03-24 13:24,2023-04-10 06:24				
+confusão	uma confusão	kõʊ̃fu'zɐ̃ʊ̃	desordem, engano	As crianças fizeram muita confusão.	_thp036udqyum.jpg				tts_uma confusão.mp3	2,0,7,7,7,7,497,2023-03-30 08:29,2023-04-20 01:29				
+desafiar	desafiar	dezafɪ'aɾ	aliciar alguém a fazer algo	desafiar alguém para uma briga	_100rai4tka12.jpg				tts_desafiar_2.mp3	2,0,9,8,8,3,512,2023-03-25 20:14,2023-04-16 04:14				
+vestir-se	vestir-se	ves'ʧiɾ	colocar roupa em	vestir o bebê	_18zt3n5kw7q2.jpg				tts_vestir-se_2.mp3	2,0,13,11,4,4,181,2023-03-30 08:24,2023-04-06 21:24				
+jantar	jantar	ʒɐn'taɾ	comer ao anoitecer	Ele janta às oito da noite.	_1iv2kt0nwoq4.jpg				tts_jantar_2.mp3	2,0,10,9,7,8,513,2023-04-01 16:43,2023-04-23 01:43				
+anoitecer	anoitecer	anoɪte'seɾ	cair a noite, escurecer	Está anoitecendo. O sol já se pôs.	_1q6s5yi3nlyx.jpg				tts_anoitecer_2.mp3	2,0,12,10,4,5,271,2023-04-04 13:12,2023-04-15 20:12				
+amanhecer	amanhecer	amɐɲe'seɾ	a aurora, o nascer do dia	Nos trópicos amanhece muito cedo.	_16umz8dmp2ny.jpg				tts_amanhecer_2.mp3	2,0,7,7,7,7,503,2023-03-30 08:28,2023-04-20 07:28				
+ampliar	ampliar	ɐmplɪ'aɾ	aumentar, alargar	uma ótima escolha para ampliar seu vocabulário	_128y1zl9lovx.jpg				tts_ampliar_2.mp3	2,0,15,12,8,8,343,2023-03-30 08:27,2023-04-13 15:27				
+escolha	escolha	es'koʎa	preferência por uma coisa entre outras	fazer uma escolha entre várias coisas	_11iqga81t783.jpg				tts_escolha_2.mp3	2,0,15,12,7,8,363,2023-04-04 13:16,2023-04-19 16:16				
+rede	uma rede	xeʤɪ	conjunto de pessoas ou estabelecimentos que se comunicam entre si	uma rede bancária	_1dqui0uoz65v.jpg				tts_uma rede.mp3	2,0,14,11,8,9,482,2023-04-05 17:17,2023-04-25 19:17				
+além de	além de	a'lẽɪ̃	ademais de	Além de cantar, ele também dança.	_cepy07qpr869.jpg				tts_além de_2.mp3	2,0,6,6,6,1,416,2023-03-24 13:23,2023-04-10 21:23				
+entregar	entregar	entɾe'ɡaɾ	fazer chegar algo a alguém	entregar a correspondência	_eb9hwmy43end.jpg				tts_entregar_2.mp3	2,0,13,10,8,9,405,2023-04-01 16:42,2023-04-18 13:42				
+atividade	uma atividade	aʧivi'daʤɪ	funcionamento, operação	O comércio já está em atividade às oito da manhã.	_9i4czij2zpw6.jpg				tts_uma atividade.mp3	2,0,6,6,6,1,411,2023-03-24 13:23,2023-04-10 16:23				
+atração	uma atração	atɾa'sɐ̃ʊ̃	ação de atrair	a atração das moléculas	_5g6xf4i8utgc.jpg				tts_uma atração.mp3	2,0,7,7,7,8,491,2023-04-01 16:44,2023-04-22 03:44				
+bicicleta	uma bicicleta	bisi'klɛta	veículo de duas rodas	andar de bicicleta	_6d5xxf5rbwu0.jpg				tts_uma bicicleta.mp3	2,0,9,8,8,8,395,2023-03-30 08:28,2023-04-15 19:28				
+pedalar	pedalar	peda'laɾ	fazer mover os pedais de	para quem gosta de pedalar	_8vc5u9haohb4.jpg				tts_pedalar_2.mp3	2,0,6,6,6,1,393,2023-03-24 13:24,2023-04-09 22:24				
+paisagens	uma paisagens	paɪ'zaʒẽɪ̃	extensão de território que se avista, panorama	que oferecem belas paisagens naturais e um bom desafio para ciclistas mais experientes	_yla26va7wgwe.jpg				tts_uma paisagens.mp3	2,0,10,8,1,2,71,2023-04-05 17:17,2023-04-08 16:17				
+luva	uma luva	luva	peça de vestuário para a mão	usar luvas no inverno	_xa0u5lj04x2y.jpg				tts_uma luva.mp3	2,0,10,9,5,5,271,2023-03-30 08:26,2023-04-10 15:26				
+capacete	o capacete	kapa'seʧɪ	cobertura que protege a cabeça	capacete para moto	_1bdxaep9gn54.jpg				tts_o capacete.mp3	2,0,12,9,8,3,425,2023-03-25 20:15,2023-04-12 13:15				
+local	o local	lo'kɑʊ	lugar	O bicicletário é um local específico para estacionar bicicletas com segurança	_rws9x6xdpbze.png				tts_o local.mp3	2,0,9,8,4,4,295,2023-03-30 08:27,2023-04-11 15:27				
+aconselhar	aconselhar	akõʊ̃se'ʎaɾ	dizer a alguém o que deve fazer	O médico aconselhou-a a operar-se.	_jejldn9ln0ln.jpg				tts_aconselhar_2.mp3	2,0,20,14,6,7,159,2023-04-05 17:12,2023-04-12 08:12				
+estrada	uma estrada	es'tɾada	via terrestre que serve de ligação entre diferentes pontos	a estrada principal	_16ubg4q6t2zj.jpg				tts_uma estrada.mp3	2,0,9,8,8,8,388,2023-03-30 08:28,2023-04-15 12:28				
+cênico	cênico, cênica	sɛ.ni.ku	das paisagem		_ykstn1us4uor.jpg				tts_cênico, cênica.mp3	2,0,6,6,6,1,536,2023-03-26 20:29,2023-04-18 04:29				
+deslumbrante	deslumbrante	ʤɪzlum'bɾɐnʧɪ	que causa fascínio, fascinante	um vestido deslumbrante	_1lesahgil7t6.jpg				tts_deslumbrante_2.mp3	2,0,14,11,8,9,351,2023-04-01 16:43,2023-04-16 07:43				
+trilha	uma trilha	tɾiʎa	caminho entre a vegetação	uma trilha perto da praia	_1cep4436z386.jpg				tts_uma trilha.mp3	2,0,9,8,8,8,463,2023-03-30 08:28,2023-04-18 15:28				
+percurso	o percurso	peɾ'kuɾsʊ	caminho, trajeto	fazer o percurso de ônibus	_1ws6u501j9zx.png				tts_o percurso.mp3	2,0,8,7,7,2,338,2023-03-22 17:14,2023-04-05 19:14				
+vista	uma vista	vista	aquilo que se vê, paisagem	uma vista linda da cidade	_1vkb36mm4jjr.jpg				tts_uma vista.mp3	2,0,7,7,7,7,467,2023-03-30 08:29,2023-04-18 19:29				
+espetacular	espetacular	espetaku'laɾ	que impressiona pela beleza, grandiosidade ou luxo	com vistas espetaculares do nascer ou pôr do sol e um terreno desafiador para ciclistas mais experientes.	_1gftwew0bopz.jpg				tts_espetacular_2.mp3	2,0,9,8,8,8,493,2023-03-30 08:28,2023-04-19 21:28				
+cachoeira	uma cachoeira	kaʃʊ'eɪɾa	queda d’água no percurso de um rio	a beleza da cachoeira	_1l8e03ztmcip.jpg				tts_uma cachoeira.mp3	2,0,16,12,8,9,444,2023-04-04 13:15,2023-04-23 01:15				
+relacionar	relacionar	xelasɪo'naɾ	estabelecer relação entre	que pode ter informações sobre eventos ou atividades relacionadas a bicicleta na cidade.	_85pjsed14qk7.jpg				tts_relacionar_2.mp3	2,0,10,8,2,2,237,2023-03-30 08:26,2023-04-09 05:26				
+acaso	o acaso	a'kazʊ	o que acontece sem ser previsto	Nos encontramos por acaso na rua.	_1w8eacydcsys.jpg				tts_o acaso.mp3	2,0,16,11,8,3,370,2023-03-22 17:13,2023-04-07 03:13				
+alavanca	uma alavanca	alavɐŋ'ka	levantar ou mover um objeto com auxílio de uma alavanca	Alavanca de câmbio	_1vybz3fokwxv.jpg				tts_uma alavanca.mp3	2,0,23,17,7,8,223,2023-04-05 17:15,2023-04-15 00:15				
+parar	parar	pa'ɾaɾ	não continuar, cessar	parar o trabalho	_558tnqogj3hl.jpg				tts_parar_2.mp3	2,0,10,9,8,8,402,2023-03-30 08:28,2023-04-16 02:28				
+afiado	afiado, afiada	afi'adʊ,afi'ada	que corta bem	uma faca bem afiada	_1c4a4vm4ofgw.jpg				tts_afiado, afiada.mp3	2,0,20,14,1,2,99,2023-04-01 16:41,2023-04-05 19:41				
+coroa	uma coroa	ko'ɾoa	ornamento circular		_73tuwvbe35p5.jpg				tts_uma coroa.mp3	2,0,12,10,7,8,483,2023-04-04 13:15,2023-04-24 16:15				
+corrente	uma corrente	ko'xenʧɪ	cadeia de argolas	Os presos tinham correntes nos pés.	_m7aea1wuuyzy.jpg				tts_uma corrente.mp3	2,0,14,10,8,9,454,2023-04-01 16:43,2023-04-20 14:43				
+câmbio	o câmbio	kɐmbɪʊ	troca de uma moeda por outra		_j8m5rtqze38f.jpg				tts_o câmbio.mp3	2,0,6,6,6,7,572,2023-04-04 19:12,2023-04-28 15:12				
+guidão	o guidão	ɡidˈɐ̃ʊ̃	nas bicicletas e motocicletas, a barra dianteira com dois punhos usada para, com o auxílio das mãos, se guiar pelo caminho		_1rx630j7gt6w.jpg				tts_o guidão.mp3	2,0,7,7,7,7,511,2023-03-30 08:29,2023-04-20 15:29				
+freio	o freio	fɾeɪʊ	mecanismo de um veículo que diminui a velocidade ou para o veículo	regular o freio do carro	_1kloebjqlmkq.jpg				tts_o freio.mp3	2,0,9,8,6,7,547,2023-04-05 17:16,2023-04-28 12:16				
+quadro	o quadro	kʊadɾʊ	cena de um espetáculo		_124jg8drqphx.jpg				tts_o quadro.mp3	2,0,9,8,7,8,490,2023-04-05 17:16,2023-04-26 03:16				
+selim	o selim	selˈiŋ	assento de uma bicicleta ou motocicleta		_j177h6oudfu2.jpg				tts_o selim.mp3	2,0,9,8,8,8,422,2023-03-30 08:29,2023-04-16 22:29				
+roda	uma roda	xɔda	peça redonda que permite circular		_px9eb4p612mt.jpg				tts_uma roda.mp3	2,0,12,10,4,4,220,2023-03-30 08:19,2023-04-08 12:19				
+raio	o raio	xaɪʊ	distância entre o centro de um círculo e a sua circunferência	the radius of the circle	_1hch6gvia9n9.jpg				tts_o raio.mp3	2,0,7,7,7,7,486,2023-03-30 08:28,2023-04-19 14:28				
+pedivela	o pedivela	pˌedʒivˈɛlæ	o conjunto formado pelas duas peças que conectam os pedais às coroas		_1no2wx1g85u6.jpg				tts_o pedivela.mp3	2,0,20,15,6,6,294,2023-03-30 08:26,2023-04-11 14:26				
+assunto	o assunto	a'suntʊ	tema, questão	O assunto do filme é político.	_3wcxg8qp58bd.jpg				tts_o assunto.mp3	2,0,12,10,5,5,357,2023-03-27 09:41,2023-04-10 17:27				
+peça	uma peça	pɛsa	coisa, objeto que faz parte de um todo	as peças do jogo de xadrez	_16fwlj5a3cro.jpg				tts_uma peça.mp3	2,0,9,8,7,2,420,2023-03-26 20:28,2023-04-13 08:28				
+destaque	o destaque	ʤɪs'takɪ	pôr em evidência	Deve-se pôr em destaque as partes fundamentais do texto.	_18dyos9vl0k9.jpg				tts_o destaque.mp3	2,0,9,8,8,3,395,2023-03-26 20:28,2023-04-12 07:28				
+dormir	dormir	doɾ'miɾ	estar em estado de sono	dormir oito horas	_40ed2652ou6b.jpg				tts_dormir_2.mp3	2,0,7,7,7,7,412,2023-03-30 08:28,2023-04-16 12:28				
+arrancar	arrancar	axɐŋ'kaɾ	pôr-se em movimento; ter início, começar; tirar com força, desenraizar	Escolha um óleo com viscosidade que se ajuste com a temperatura ambiente quando arrancar com o motor a frio.	_1y0402ndfpn9.jpg				tts_arrancar_2.mp3	2,0,19,13,2,3,133,2023-04-04 19:12,2023-04-10 08:12				
+cegar	cegar	se'ɡaɾ	tirar a visão de	A catarata o cegou.	_608kkzjl6h06.jpg				tts_cegar_2.mp3	2,0,11,8,1,2,149,2023-04-01 16:45,2023-04-07 21:45				
+bastante	bastante	bas'tɐnʧɪ	em quantidade suficiente	Tome bastante água.	_1fdcgfygocat.jpg				tts_bastante_2.mp3	2,0,9,8,8,9,556,2023-04-05 17:16,2023-04-28 21:16				
+recurso	o recurso	xe'kuɾsʊ	meio, alternativa	Você pode encontrar recursos on-line para ajudá-lo a aprender o alfabeto.	_tn24cinxoz8b.jpg				tts_o recurso.mp3	2,0,12,10,4,4,174,2023-03-30 08:19,2023-04-06 14:19				
+construir	construir	kõʊ̃stɾʊ'iɾ	edificar	começando com o básico, como os pronomes, verbos e conjugações, você poderá construir uma base sólida	_p8gvk1wzyxg7.jpg				tts_construir_2.mp3	2,0,5,5,5,0,410,2023-03-22 17:14,2023-04-08 19:14				
+confortável	confortável	kõʊ̃foɾ'taveʊ	cômodo	um sofá confortável	_dn6fcogm0dj3.jpg				tts_confortável_2.mp3	2,0,7,7,7,8,479,2023-04-01 16:43,2023-04-21 15:43				
+parceiro	o parceiro, a parceria	pˌaɾəsˈeɪɾʊ, pˌaɾəseɪɾˈoæ	alguém com quem se dança	Minha parceira preferida para o tango ainda não chegou.	_4v6216dx399f.png				tts_o parceiro, a parceria.mp3	2,0,20,12,8,9,404,2023-04-05 17:16,2023-04-22 13:16				
+boa sorte	boa sorte	bˈoæ sˈɔɾətʃy	expressão de desejo de felicidades	Boa sorte nos estudos!	_9c9ln13uj0e5.png				tts_boa sorte_2.mp3	2,0,8,7,7,2,347,2023-03-22 17:14,2023-04-06 04:14				
+corrigir	corrigir	koxi'ʒiɾ	emendar os erros	corrigir os erros de ortografia	_3xud4uo35nsw.jpg				tts_corrigir_2.mp3	2,0,5,5,5,0,363,2023-03-22 17:14,2023-04-06 20:14				
+emendar	emendar	emen'daɾ	corrigir, melhorar	Era imperativo emendar a recente Constituição para ajustar-se ao que mandara ler	_1w7q1ofbk0q2.png				tts_emendar_2.mp3	2,0,20,14,2,3,160,2023-04-04 13:11,2023-04-11 05:11				
+melhorar	melhorar	meʎo'ɾaɾ	sentir-se melhor	melhorar a qualidade de um produto	_1imfyybqbfx0.jpg				tts_melhorar_2.mp3	2,0,11,9,5,0,309,2023-03-25 20:14,2023-04-07 17:14				
+piorar	piorar	pɪo'ɾaɾ	tornar pior	piorar as condições	_jf7t2rt2d53l.jpg				tts_piorar_2.mp3	2,0,17,13,6,6,244,2023-03-30 08:19,2023-04-09 12:19				
+odiar	odiar	oʤɪ'aɾ	detestar, ter ódio por	odiar um lugar	_dzijghbmrgsd.jpg				tts_odiar_2.mp3	2,0,9,8,4,3,263,2023-03-27 09:34,2023-04-06 19:28				
+explicar	explicar	espli'kaɾ	fazer compreender	explicar uma equação	_zzbk5z0dq273.jpg				tts_explicar_2.mp3	2,0,7,7,7,7,395,2023-03-30 08:28,2023-04-15 19:28				
+ligação	uma ligação	liɡa'sɐ̃ʊ̃	relação entre coisas ou pessoas	uma ligação telefônica	_ltopfh9i9g3u.jpg				tts_uma ligação.mp3	2,0,10,8,2,2,242,2023-03-30 08:26,2023-04-09 10:26				
+corrida	uma corrida	ko'xida	ação de andar muito depressa	dar uma corrida pelas ruas	_oiugy44vig3l.jpg				tts_uma corrida.mp3	2,0,13,10,3,3,201,2023-03-30 08:23,2023-04-07 17:23				
+atrapalhar	atrapalhar	atɾapa'ʎaɾ	causar estorvo a	atrapalhar alguém no trabalho	_smpjbgllhkre.jpg				tts_atrapalhar_2.mp3	2,0,9,8,7,7,369,2023-03-30 08:26,2023-04-14 17:26				
+brilhar	brilhar	bɾi'ʎaɾ	cintilar, reluzir	O sol brilha.	_1gvze0kqjn9u.png				tts_brilhar_2.mp3	2,0,6,6,6,7,462,2023-04-04 13:15,2023-04-23 19:15				
+ninguém	ninguém	niŋ'ɡẽɪ̃	nenhuma pessoa	Não falar com ninguém.	_anwljkonojfs.jpg				tts_ninguém_2.mp3	2,0,6,6,6,7,445,2023-04-01 16:43,2023-04-20 05:43				
+árvore	uma árvore	aɾvoɾɪ	planta com tronco, ramos e folhas	No quintal há várias árvores frutíferas.	_1singnob50z7.jpg				tts_uma árvore.mp3	2,0,11,9,5,0,299,2023-03-25 20:13,2023-04-07 07:13				
+brisa	uma brisa	bɾiza	vento leve	a brisa da tarde	_1uccg44pcrxv.jpg				tts_uma brisa.mp3	2,0,8,7,7,2,300,2023-03-24 13:22,2023-04-06 01:22				
+esquina	uma esquina	es'kina	cruzamento de vias	a esquina da rua	_1n8e35p9s5xx.jpg				tts_uma esquina.mp3	2,0,11,9,6,7,329,2023-04-01 16:40,2023-04-15 09:40				
+tanto	tanto, tanta	tɐntʊ, tɐnta	exprime grande quantidade		_100ib5udjunu.jpg				tts_tanto, tanta.mp3	2,0,6,6,6,7,438,2023-04-01 16:41,2023-04-19 22:41				
+estreito	estreito, estreita	es'tɾeɪtʊ	com pouco espaço, apertado	um corredor estreito	_1vsuy0xd1ci5.jpg				tts_estreito, estreita.mp3	2,0,9,8,8,9,436,2023-04-01 16:42,2023-04-19 20:42				
+comprido	comprido, comprida	kom'pridʊ, kom'pɾida	extenso, longo	cabelos compridos	_ba87u5zd7jrx.jpg				tts_comprido, comprida.mp3	2,0,18,13,6,7,231,2023-04-04 13:12,2023-04-14 04:12				
+longo	longo, longa	loŋɡʊ, loŋɡa	que dura muito	um filme longo	_qdfathc69r0f.jpg				tts_longo, longa.mp3	2,0,6,6,6,7,399,2023-04-01 16:41,2023-04-18 07:41				
+frequentar	frequentar	fɾekʊen'taɾ	ir muitas vezes a um local	frequentar os concertos da cidade	_5dly9pcjjb8p.jpg				tts_frequentar_2.mp3	2,0,5,5,5,0,388,2023-03-24 13:22,2023-04-09 17:22				
+verão	o verão	ve'ɾɐ̃ʊ̃	uma das quatro estações do ano, entre a primavera e o outono	um verão muito quente	_55nrs9hsq5e1.jpg				tts_o verão.mp3	2,0,6,6,6,7,429,2023-04-04 13:16,2023-04-22 10:16				
+inverno	o inverno	ĩ'vɛɾnʊ	uma das quatro estações do ano, entre o outono e a primavera	O inverno é a estação mais fria do ano.	_1ov2amls5yp8.jpg				tts_o inverno.mp3	2,0,6,6,6,7,540,2023-04-04 13:18,2023-04-27 01:18				
+estação	uma estação	esta'sɐ̃ʊ̃	cada uma das quatro divisões do ano	Em São Paulo, o inverno é a estação mais fria.	_9nae4cf408di.jpg				tts_uma estação.mp3	2,0,9,8,4,4,198,2023-03-30 08:19,2023-04-07 14:19				
+perceber	perceber	peɾse'beɾ	Adquirir conhecimento por meio dos sentid	Percebi que me tinha enganado.	_1hodxbxzeldj.png				tts_perceber_2.mp3	2,0,9,8,7,8,420,2023-04-04 13:15,2023-04-22 01:15				
+talvez	talvez	tɑʊˈves	é possível que, porventura, quiçá	Talvez não possa comparecer.	_s5rfdjdd0hxm.jpg				tts_talvez_2.mp3	2,0,6,6,6,7,497,2023-04-04 13:15,2023-04-25 06:15				
+enganar	enganar	eŋɡa'naɾ	fazer crer a alguém algo que não é verdade	A marcas que sejam susceptíveis de enganar o público, por exemplo no que respeita à natureza, à qualidade ou à proveniência	_1vp90hmns3wx.jpg				tts_enganar_2.mp3	2,0,15,12,5,5,236,2023-03-30 08:26,2023-04-09 04:26				
+comparecer	comparecer	kompaɾe'seɾ	apresentar-se pessoalmente		_2oeal47uh2va.jpg				tts_comparecer_2.mp3	2,0,16,12,7,8,368,2023-04-05 17:13,2023-04-21 01:13				
+alugar	alugar	alu'ɡaɾ	adquirir algo temporariamente	Ele alugou uma bicicleta.	_jxbreu4eldny.jpg				tts_alugar_2.mp3	2,0,9,8,8,9,509,2023-04-04 13:16,2023-04-25 18:16				
+adquirir	adquirir	aʤɪki'ɾiɾ	comprar, tornar-se proprietário de	adquirir uma propriedade	_1q3jtc3dpbim.jpg				tts_adquirir_2.mp3	2,0,5,5,5,0,390,2023-03-26 20:28,2023-04-12 02:28				
+esperar	esperar	espe'ɾaɾ	estar à espera de, aguardar	Quem espera sempre alcança.	_ossk527bxn3n.jpg				tts_esperar_2.mp3	2,0,10,8,7,2,264,2023-03-25 20:12,2023-04-05 20:12				
+calado	calado, calada	kˌalˈadʊ, kˌalˈada	tácito, silencioso	Ela permaneceu calada durante toda a reunião.	_1riy95g5e4g8.jpg				tts_calado, calada.mp3	2,0,16,11,7,8,367,2023-04-04 13:13,2023-04-19 20:13				
+soprar	soprar	so'pɾaɾ	encher de ar	soprar um balão	_6ndzcykd8l12.jpg				tts_soprar_2.mp3	2,0,14,11,4,4,175,2023-03-30 08:17,2023-04-06 15:17				
+custar	custar	kus'taɾ	ter um certo preço	O livro custa vinte reais.	_at6mpa1zm2m3.jpg				tts_custar_2.mp3	2,0,6,6,6,7,555,2023-04-05 17:17,2023-04-28 20:17				
+lotado	lotado, lotada	lˌotˈadʊ, lˌotˈada	cheio	Não havia assentos vagos porque o voo estava lotado.	_tr4nz5tvnntw.jpg				tts_lotado, lotada.mp3	2,0,7,6,1,2,135,2023-04-04 13:17,2023-04-10 04:17				
+aproveitar	aproveitar	apɾoveɪ'taɾ	gozar, utilizar	aproveitar bem as férias	_1pkwhbw4e9p7.jpg				tts_aproveitar_2.mp3	2,0,12,9,7,2,323,2023-03-26 20:27,2023-04-09 07:27				
+tentar	tentar	ten'taɾ	procurar realizar algo, empenhar-se para	tentar escrever um livro	_2zqcfbjxiork.jpg				tts_tentar_2.mp3	2,0,16,13,5,6,244,2023-04-05 17:15,2023-04-15 21:15				
+cardápio	o cardápio	kaɾ'dapɪʊ	relação das iguarias disponíveis para consumo em bares e restaurantes	pedir o cardápio	_1raw6uxlv0gd.jpg				tts_o cardápio.mp3	2,0,10,8,8,9,398,2023-04-04 13:16,2023-04-21 03:16				
+envergonhado	envergonhado,envergonhada	ẽɪ̃veɾɡo'ɲadʊ, ẽɪ̃veɾɡo'ɲada	com vergonha	O menino estava envergonhado por ter mentido para os pais.	_1ji3vzqusb4v.jpg				tts_envergonhado,envergonhada.mp3	2,0,8,7,7,2,297,2023-03-24 13:22,2023-04-05 22:22				
+estranho	estranho, estranha	es'tɾɐɲʊ, es'tɾɐɲʊa	esquisito	Há muitas criaturas estranhas nas profundezas do oceano.	_fcn6cpy3fu6w.jpg				tts_estranho, estranha.mp3	2,0,5,5,5,0,370,2023-03-22 17:14,2023-04-07 03:14				
+conta	uma conta	konta	cálculo aritmético	A conta está certa.	_g62qroh8gj7v.jpg				tts_uma conta.mp3	2,0,15,11,2,3,104,2023-04-04 13:10,2023-04-08 21:10				
+atender	atender	aten'deɾ	responder ao telefone	Liguei para minha mãe, mas ela não atendeu o telefone.	_1c3luyevn0zu.jpg				tts_atender_2.mp3	2,0,14,10,4,4,213,2023-03-30 08:24,2023-04-08 05:24				
+desligar	desligar	ʤɪzli'ɡaɾ	interromper o funcionamento de	desligar a televisão da tomada	_5txri1lussnd.jpg				tts_desligar_2.mp3	2,0,8,7,7,2,388,2023-03-24 13:23,2023-04-09 17:23				
+esquisito	esquisito, esquisita	eski'zitʊ,eski'zita	que é estranho, fora do comum	Ele realmente é um cara esquisito, mas eu o adoro.	_zuyjkhyhqnp5.jpg				tts_esquisito, esquisita.mp3	2,0,16,11,7,7,279,2023-03-30 08:26,2023-04-10 23:26				
+segredo	o segredo	se'ɡɾedʊ	aquilo que não se pode revelar, sigilo	guardar um segredo	_1izlk47yu8in.jpg				tts_o segredo.mp3	2,0,5,5,5,0,437,2023-03-25 20:14,2023-04-13 01:14				
+apostar	apostar	apos'taɾ	arriscar em algo	apostar num cavalo	_1deluxrv4oso.jpg				tts_apostar_2.mp3	2,0,8,7,5,0,249,2023-03-26 20:27,2023-04-06 05:27				
+fornecer	fornecer	foɾne'seɾ	abstecer, equipar, dar	fornecer carne ao supermercado	_cgau5lzwgm6c.jpg				tts_fornecer_2.mp3	2,0,6,6,6,7,507,2023-04-04 13:17,2023-04-25 16:17				
+abastecer	abastecer	abaste'seɾ	fornecer o necessário	abastecer o país de eletricidade	_1776ca4ezt0m.jpg				tts_abastecer_2.mp3	2,0,5,5,5,0,345,2023-03-24 13:22,2023-04-07 22:22				
+teor	o teor	ʧɪ'oɾ	Proporção em que, num composto, está cada um dos elementos componentes; percentagem	Este alimento tem baixo teor de gordura saturada; teor de álcool	_zmdhu9xvmui1.jpg				tts_o teor.mp3	2,0,6,6,6,7,422,2023-04-01 16:41,2023-04-19 06:41				
+queimar	queimar	keɪ'maɾ	consumir pelo fogo	queimar o lixo	_i86lq8hh59n3.jpg				tts_queimar_2.mp3	2,0,8,7,7,2,342,2023-03-26 20:28,2023-04-10 02:28				
+começar	começar	kome'saɾ	ter início	A conferência começou às seis da tarde.	_bnurrt0u75ye.jpg				tts_começar_2.mp3	2,0,8,7,7,2,265,2023-03-25 20:13,2023-04-05 21:13				
+acrescentar	acrescentar	akɾesen'taɾ	juntar mais, adicionar	É preciso acrescentar água ao café.	_8r59mxp6wh6i.jpg				tts_acrescentar_2.mp3	2,0,24,17,6,7,146,2023-04-05 17:12,2023-04-11 19:12				
+traseiro	traseiro, traseira	tɾaˈzeɪɾʊ, tɾaˈzeɪɾa	que está atrás	sentar no banco traseiro	_1uhfezfpyike.jpg				tts_traseiro, traseira.mp3	2,0,11,8,1,2,121,2023-04-04 13:18,2023-04-09 14:18				
+gastar	gastar	ɡas'taɾ	dissipar	gastar muito dinheiro	_18y038rp6hq6.jpg				tts_gastar_2.mp3	2,0,8,7,7,2,312,2023-03-25 20:15,2023-04-07 20:15				
+divertir-se	divertir-se	ʤiveɾ'ʧiɾ	distrair	O palhaço divertiu as crianças.	_10ogqxktbp7g.jpg				tts_divertir-se_2.mp3	2,0,5,5,5,0,325,2023-03-24 13:22,2023-04-07 02:22				
+escuro	escuro, escura	es'kuɾʊ, es'kuɾa	em que não há luz	um dia escuro	_1y02c08uudd0.jpg				tts_escuro, escura.mp3	2,0,9,7,1,2,56,2023-04-04 13:12,2023-04-06 21:12				
+barulho	o barulho	ba'ɾuʎʊ	som muito alto	Não posso trabalhar com barulho.	_7pmnbkbysvb3.png				tts_o barulho.mp3	2,0,11,9,8,9,336,2023-04-04 13:13,2023-04-18 13:13				
+repente	o repente	xe'penʧɪ	movimento súbito		_34gp2gw7qykq.jpg				tts_o repente.mp3	2,0,5,5,5,0,412,2023-03-25 20:15,2023-04-12 00:15				
+compreender	compreender	kompɾɪen'deɾ	entender	compreender as explicações do professor	_119hvojdyv5h.jpg				tts_compreender_2.mp3	2,0,8,7,7,2,331,2023-03-25 20:15,2023-04-08 15:15				
+esticar	esticar	esʧi'kaɾ	distender	esticar um elástico	_yufxakuy8ki9.jpg				tts_esticar_2.mp3	2,0,9,8,8,9,420,2023-04-05 17:17,2023-04-23 05:17				
+idoso	idoso, idosa	i'dozʊ,i'dɔza	que tem muita idade	um repente de raiva	_10nkcjqqu7hu.jpg				tts_idoso, idosa.mp3	2,0,5,5,5,0,301,2023-03-24 13:23,2023-04-06 02:23				
+portaria	a portaria	poɾta'ɾia	recepção de um edifício	deixar um pacote na portaria	_1u8xfn5eqje4.jpg				tts_a portaria.mp3	2,0,19,13,6,6,167,2023-03-30 08:18,2023-04-06 07:18				
+campainha	a campainha	kɐmpa'iɲa	objeto sonoro para chamada ou alarme	tocar a campainha da porta	_gndjkgvqj9av.jpg				tts_a campainha.mp3	2,0,15,12,6,7,254,2023-04-01 16:38,2023-04-12 06:38				
+merecer	merecer	meɾe'seɾ	ser digno de, estar em condições de	merecer um prêmio /castigo	_1ejirmfancai.jpg				tts_merecer_2.mp3	2,0,5,5,5,0,328,2023-03-24 13:22,2023-04-07 05:22				
+desajeitado	desajeitado, desajeitada	dezaʒeɪ'tadʊ,dezaʒeɪ'tada	que não tem habilidade	uma criança desajeitada	_jex8jnwen3jh.jpg				tts_desajeitado, desajeitada.mp3	2,0,14,9,1,2,109,2023-04-04 13:15,2023-04-09 02:15				
+dianteiro	dianteiro	ʤɪɐn'teɪɾʊ, ʤɪɐn'teɪɾa	que está na frente	a roda dianteira do carro	_5s5p8zfqd12k.jpg				tts_dianteiro_2.mp3	2,0,5,5,5,0,327,2023-03-24 13:22,2023-04-07 04:22				
+altura	uma altura	ɑʊ'tuɾa	dimensão em sentido vertical	a altura de uma pessoa	_1j17v8vmr64o.png				tts_uma altura.mp3	2,0,10,8,2,3,262,2023-04-01 16:39,2023-04-12 14:39				
+conclusão	uma conclusão	koŋklu'zɐ͂ʊ̃	fim de algo	a conclusão do trabalho	_1gqtas3fb6ms.jpg				tts_uma conclusão.mp3	2,0,6,6,6,7,395,2023-04-01 16:41,2023-04-18 03:41				
+funcionário	o funcionário , a funcionária	fũsɪo'naɾɪʊ,fũsɪo'naɾɪa	empregado	o funcionário de uma empresa	_fq3o3m7jmukf.jpg				tts_o funcionário , a funcion_469_2.mp3	2,0,6,6,6,6,347,2023-03-30 08:27,2023-04-13 19:27				
+logo	logo	lɔɡʊ	em breve	Não demore! Volte logo!	_8y5mzt4ypafl.jpg				tts_logo_2.mp3	2,0,10,9,5,6,253,2023-04-05 17:13,2023-04-16 06:13				
+maluco	maluco, maluca	ma'lukʊ, ma'luka	que não tem juízo	Aqueles malucos invadiram a pista.	_17k4tgc3jn4s.jpg				tts_maluco, maluca.mp3	2,0,9,8,8,9,491,2023-04-05 17:17,2023-04-26 04:17				
+empresa	uma empresa	em'pɾeza	organização econômica que fornece bens e serviços	uma empresa comercial	_1o80kddtz0ev.jpg				tts_uma empresa.mp3	2,0,6,6,6,7,408,2023-04-04 13:17,2023-04-21 13:17				
+pretender	pretender	pɾeten'deɾ	querer, desejar	pretender fazer algo	_170yde1km4yg.jpg				tts_pretender_2.mp3	2,0,11,9,6,1,238,2023-03-26 20:28,2023-04-05 18:28				
+juízo	o juízo	ʒʊ'izʊ	ter bom senso	Ele sempre demonstrou ter juízo.	_1ieq1xtb5iom.jpg				tts_o juízo.mp3	2,0,5,5,5,0,349,2023-03-24 13:22,2023-04-08 02:22				
+tanto fazer	tanto fazer	tˈɐ̃ŋtʊ fazˈer	desimportar se fato ocorre e/ou aquilo que dele decorre	Se deu saudade, pra mim tanto faz	_11mt2rzhvp67.jpg				tts_tanto fazer_2.mp3	2,0,5,5,5,0,290,2023-03-25 20:14,2023-04-06 22:14				
+costumar	costumar	kostu'maɾ	ser comum, habitual	O que você costuma comer?	_13v6t5irx7xx.jpg				tts_costumar_2.mp3	2,0,9,8,5,6,252,2023-04-01 16:40,2023-04-12 04:40				
+dirigir	dirigir	ʤiɾi'ӡiɾ	guiar e orientar algo ou alguém	dirigir uma empresa	_16spe9zlpirq.jpg				tts_dirigir_2.mp3	2,0,6,6,6,6,361,2023-03-30 08:27,2023-04-14 09:27				
+doer	doer	dʊ'eɾ	ter ou sentir dor	Minha cabeça está doendo.	_4v4dh7wemlpl.jpg				tts_doer_2.mp3	2,0,6,6,6,6,337,2023-03-30 08:27,2023-04-13 09:27				
+ciúme	o ciúme	sɪ'umɪ	sentimento de posse relativo à pessoa amada	ter ciúmes do sucesso dos colegas	_783py5ftar2r.jpg				tts_o ciúme.mp3	2,0,8,7,6,6,296,2023-03-30 08:27,2023-04-11 16:27				
+namorado	o namorado, a namorada	namo'ɾadʊ, namo'ɾada	pessoa com quem se tem relação amorosa	O namorado dela é muito simpático.	_1hfxw2468cpp.jpg				tts_o namorado, a namorada.mp3	2,0,9,8,5,6,244,2023-04-01 16:38,2023-04-11 20:38				
+dever	dever	de'veɾ	ser necessário	Deve lavar as mãos antes de comer.	_4m39fof9wbx4.jpg				tts_dever_2.mp3	2,0,5,5,5,0,329,2023-03-25 20:15,2023-04-08 13:15				
+sonhar	sonhar	so'ɲaɾ	ter imagens e sons durante o sono	Ontem sonhei que estava voando.	_2r5fvgbkvnbm.jpg				tts_sonhar_2.mp3	2,0,6,6,6,6,324,2023-03-30 08:27,2023-04-12 20:27				
+vida	uma vida	vida	tempo desde o nascimento até a morte		_1pqtgkf63w50.jpg				tts_uma vida.mp3	2,0,5,5,5,0,325,2023-03-25 20:15,2023-04-08 09:15				
+sobrinho	um sobrinho, uma sobrinha	so'bɾiɲʊ, so'bɾiɲa	filho de irmão ou irmã, cunhado ou cunhada	.	_76t1pd4ujia5.jpg				tts_um sobrinho, uma sobrinha.mp3	2,0,6,6,6,7,319,2023-04-01 16:40,2023-04-14 23:40				
+neto	um neto, uma neta	nɛtʊ, nɛta	filho de filha ou filho, em relação aos avós	Os avós brincam com os netos	_r7s87rgwknx0.jpg				tts_um neto, uma neta.mp3	2,0,6,6,6,6,331,2023-03-30 08:27,2023-04-13 03:27				
+descansar	descansar	ʤɪskɐ̃'saɾ	repousar	Depois de caminhar, ela gosta de descansar.	_1obtusyhgjnp.jpg				tts_descansar_2.mp3	2,0,30,19,2,3,56,2023-04-05 17:12,2023-04-08 01:12				
+morrer	morrer	mo'xeɾ	perder a vida, falecer	O doente morreu.	_c90etenz4wde.jpg				tts_morrer_2.mp3	2,0,6,6,6,7,309,2023-04-01 16:39,2023-04-14 13:39				
+paredão	o paredão	paɾe'dɐ̃ʊ̃	grande parede, muralha	encontrar um paredão no fim da estrada	_1xn6y1g6a8og.jpg				tts_o paredão.mp3	2,0,7,6,2,3,198,2023-04-04 13:12,2023-04-12 19:12				
+fogão	o fogão	fo'ɡɐ̃ʊ̃	aparelho que serve para cozinhar	um fogão a gás	_146mlzm0gsj1.jpg				tts_o fogão.mp3	2,0,11,8,6,6,154,2023-03-30 08:14,2023-04-05 18:14				
+relógio	o relógio	xe'lɔʒɪʊ	instrumento usado para marcar o tempo	um relógio de parede	_g8a989gkj7sz.jpg				tts_o relógio.mp3	2,0,6,6,6,6,322,2023-03-30 08:27,2023-04-12 18:27				
+estante	uma estante	es'tɐnʧɪ	móvel com prateleiras	arrumar os livros na estante	_133hr6297hz4.jpg				tts_uma estante.mp3	2,0,9,7,7,7,238,2023-03-30 08:26,2023-04-09 06:26				
+panela	uma panela	pa'nɛla	recipiente para cozinhar	pôr a panela no fogo	_1gifdzpdk97r.jpg				tts_uma panela.mp3	2,0,6,6,6,6,258,2023-03-30 08:26,2023-04-10 02:26				
+garrafa	uma garrafa	ɡa'xafa	vasilha de vidro com gargalo utilizada para armazenar líquidos	uma garrafa de vinho	_1pir7f9zgi7v.jpg				tts_uma garrafa.mp3	2,0,8,7,7,8,260,2023-04-01 16:38,2023-04-12 12:38				
+gaveta	uma gaveta	ɡa'veta	compartimento de móvel onde se guardam coisas	fechar a gaveta à chave	_16fw4sodoh5x.jpg				tts_uma gaveta.mp3	2,0,18,12,3,4,153,2023-04-05 17:12,2023-04-12 02:12				
+torneira	uma torneira	toɾ'neɪɾa	dispositivo ligado a um cano que permite o escoamento de líquido, gás	a torneira da pia	_bzmlygly5l5d.jpg				tts_uma torneira.mp3	2,0,12,10,5,6,156,2023-04-04 13:11,2023-04-11 01:11				
+caixa	uma caixa	kaɪʃa	recipiente onde se guardam coisas	uma caixa de leite	_63nzpqdfkufs.jpg				tts_uma caixa.mp3	2,0,6,6,6,6,301,2023-03-30 08:27,2023-04-11 21:27				
+trocar	trocar	tɾo'kaɾ	dar uma coisa por outra	trocar de roupa	_15q2xuu7061t.jpg				tts_trocar_2.mp3	2,0,6,6,6,6,352,2023-03-30 08:28,2023-04-14 00:28				
+combinar	combinar	kombi'naɾ	marcar, planejar	combinar um encontro com os amigos	_asqkvgrdtxd6.jpg				tts_combinar_2.mp3	2,0,8,7,7,8,327,2023-04-04 13:15,2023-04-18 04:15				
+assar	assar	a'saɾ	cozinhar no forno	assar um frango	_yb1f7htsrax7.jpg				tts_assar_2.mp3	2,0,8,7,7,8,292,2023-04-04 13:14,2023-04-16 17:14				
+apavorar	apavorar	apavo'ɾaɾ	causar terror, pavor	A crise apavora.	_bmilrce5g15a.jpg				tts_apavorar_2.mp3	2,0,11,8,7,7,257,2023-03-30 08:25,2023-04-10 01:25				
+lata	uma lata	lata	recipiente metálico	uma lata de sardinhas	_12xgr2azvl7i.jpg				tts_uma lata.mp3	2,0,6,6,6,7,368,2023-04-01 16:39,2023-04-17 00:39				
+gritar	gritar	ɡɾi'taɾ	dizer em voz alta	gritar palavrões; Gritava muito por causa da dor.	_1o316sm99m1r.jpg				tts_gritar_2.mp3	2,0,6,6,6,7,396,2023-04-04 13:13,2023-04-21 01:13				
+caminhada	uma caminhada	kami'ɲada	passeio a pé	fazer uma caminhada	_117g4l04nvkn.jpg				tts_uma caminhada.mp3	2,0,8,7,6,7,322,2023-04-04 13:12,2023-04-17 23:12				
+mata	uma mata	mata	pequena floresta	uma mata de pinheiros	_12eawo8eyv1l.jpg				tts_uma mata.mp3	2,0,6,6,6,7,364,2023-04-04 13:14,2023-04-19 17:14				
+atalho	o atalho	a'taʎʊ	caminho mais curto	tomar um atalho para chegar mais depressa	_lce7qu08twzz.jpg				tts_o atalho.mp3	2,0,10,8,2,3,166,2023-04-05 17:12,2023-04-12 15:12				
+mochila	uma mochila	mo'ʃila	bolsa com alças que se leva nas costas	mochila escolar	_af74zguqg0xb.jpg				tts_uma mochila.mp3	2,0,8,7,7,8,327,2023-04-04 13:14,2023-04-18 04:14				
+amedrontar	amedrontar	amedɾon'taɾ	causar medo a	O cão amedrontou a criança.	_9xsyr8nv4urj.jpg				tts_amedrontar_2.mp3	2,0,10,8,6,6,192,2023-03-30 08:18,2023-04-07 08:18				
+pó	o pó	pɔ	partículas muito finas de terra, poeira	varrer o pó	_tpio0ww9c1cx.jpg				tts_o pó.mp3	2,0,6,6,6,6,261,2023-03-30 08:26,2023-04-10 05:26				
+pegada	uma pegada	pe'ɡada	marca de pé no solo	deixar pegadas na areia	_hsppvaxthyr4.jpg				tts_uma pegada.mp3	2,0,6,6,6,6,281,2023-03-30 08:24,2023-04-11 01:24				
+escova	uma escova	es'kova	utensílio com filamentos para limpar, pentear	uma escova para os cabelos	_1kw4mefv4azx.jpg				tts_uma escova.mp3	2,0,6,6,6,7,377,2023-04-04 13:14,2023-04-20 06:14				
+sanita	uma sanita	sɐ.ˈni.tɐ	vaso sanitário, toalete		_qg9hrondow67.jpg				tts_uma sanita.mp3	2,0,6,6,6,7,318,2023-04-04 13:14,2023-04-17 19:14				
+toalha	uma toalha	to'aʎa	pano para secar o corpo	toalha de rosto /banho	_jmmx9dniein4.jpg				tts_uma toalha.mp3	2,0,6,6,6,7,356,2023-04-01 22:04,2023-04-16 18:04				
+pente	o pente	penʧɪ	utensílio com dentes que serve para pentear	desembaraçar os cabelos com um pente	_1uljzoihu5ss.jpg				tts_o pente.mp3	2,0,10,8,2,3,213,2023-04-04 13:13,2023-04-13 10:13				
+trancar	trancar	tɾɐŋ'kaɾ	fechar com chave	trancar a porta	_1i7w9uhzn8kc.jpg				tts_trancar_2.mp3	2,0,8,7,6,6,178,2023-03-30 08:18,2023-04-06 18:18				
+enfraquecer	enfraquecer	ẽɪ̃fɾake'seɾ	ficar fraco	A gripe me enfraquece.	_8clvhqtrxbkd.jpg				tts_enfraquecer_2.mp3	2,0,17,9,7,8,273,2023-04-04 13:13,2023-04-15 22:13				
+feio	feio, feia	feɪʊ, feɪa	desagradável à vista	Ela está usando um vestido muito feio.	_xs494606n3hd.jpg				tts_feio, feia.mp3	2,0,6,6,6,7,373,2023-04-05 17:14,2023-04-21 06:14				
+checar	checar	ʃe'kaɾ	fazer uma verificação em	Checou os valores cobrados.	_vccg0e3vvkez.jpg				tts_checar_2.mp3	2,0,7,6,6,6,182,2023-03-30 08:18,2023-04-06 22:18				
+provar	provar	pɾo'vaɾ	demonstrar	provar a inocência de alguém	_v9gbmbbqkm70.jpg				tts_provar_2.mp3	2,0,6,6,6,7,265,2023-04-04 13:13,2023-04-15 14:13				
+adormecer	adormecer	adoɾme'seɾ	cair no sono	adormecer de cansaço	_15dox9bbo8sg.jpg				tts_adormecer_2.mp3	2,0,6,6,6,7,302,2023-04-04 13:14,2023-04-17 03:14				
+acenar	acenar	ase'naɾ	fazer sinal com a cabeça ou as mãos	Ele acenou em sinal de aprovação.	_15zzfu67noxe.png				tts_acenar_2.mp3	2,0,13,10,3,4,55,2023-04-04 13:06,2023-04-06 20:06				
+escurecer	escurecer	eskuɾe'seɾ	começar a anoitecer	Começa a escurecer.	_1dny366miugg.jpg				tts_escurecer_2.mp3	2,0,6,6,6,6,262,2023-03-30 08:26,2023-04-10 06:26				
+avistar	avistar	avis'taɾ	ver ao longe	avistar as montanhas no horizonte	_1hql977nbo26.jpg				tts_avistar_2.mp3	2,0,6,6,6,7,279,2023-04-04 13:12,2023-04-16 04:12				
+aceso	aceso, aceso	a'sezʊ,a'seza	que ilumina	A luz está acesa.	_12rypyy2afs1.jpg				tts_aceso, aceso.mp3	2,0,7,6,1,2,85,2023-04-04 13:15,2023-04-08 02:15				
+bosque	o bosque	bɔskɪ	conjunto de árvores e arbustos	passear no bosque	_14rgxldxokb7.jpg				tts_o bosque.mp3	2,0,9,8,7,8,260,2023-04-05 17:13,2023-04-16 13:13				
+redor	o redor	xe'dɔɾ	posição do que contorna algo	ir para o redor de algo	_e3l3lhjo962k.jpg				tts_o redor.mp3	2,0,7,6,6,6,169,2023-03-30 08:17,2023-04-06 09:17				
+entrevistar	entrevistar	entɾevis'taɾ	fazer perguntas a	entrevistar um político	_1ey1a342en8j.jpg				tts_entrevistar_2.mp3	2,0,6,6,6,7,384,2023-04-04 13:13,2023-04-20 13:13				
+encorajar	encorajar	eŋkoɾa'ʒaɾ	estimular, animar	encorajar uma pessoa a fazer algo	_7y1w4h10hsnq.jpg				tts_encorajar_2.mp3	2,0,9,8,5,6,175,2023-04-04 13:11,2023-04-11 20:11				
+sinal	o sinal	/si'nɑʊ	som, gesto que indica algo	dar o sinal de partida	_k7hbm3eji8t9.png				tts_o sinal.mp3	2,0,6,6,6,7,336,2023-04-05 17:14,2023-04-19 17:14				
+deslocar	deslocar	ʤɪzlo'kaɾ	desarticular, mudar de um lugar para outro	deslocar o ombro	_17n7nr3bj7gu.jpg				tts_deslocar_2.mp3	2,0,6,6,6,6,273,2023-03-30 08:26,2023-04-10 17:26				
+pescoço	o pescoço	pes'kosʊ	parte do corpo entre o tronco e a cabeça	ter um pescoço comprido	_13a70p740m86.jpg				tts_o pescoço.mp3	2,0,15,10,7,8,239,2023-04-05 17:15,2023-04-15 16:15				
+tela	uma tela	tɛla	monitor de computador	uma tela de cinema	_ijp8tjonlbjx.jpg				tts_uma tela.mp3	2,0,8,7,5,6,205,2023-04-01 16:38,2023-04-10 05:38				
+escravo	o escravo, a escrava	es'kɾavʊ, es'kɾava	pessoa submetida a algo ou alguém	o trabalho forçado dos escravos	_1inhsx3oi450.jpg				tts_o escravo, a escrava.mp3	2,0,17,12,2,3,52,2023-04-04 13:04,2023-04-06 17:04				
+resgatar	resgatar	xezɡa'taɾ	salvar alguém, ajudar	resgatar as vítimas do acidente	_1hmq8i0zktlr.jpg				tts_resgatar_2.mp3	2,0,6,6,6,7,333,2023-04-04 13:13,2023-04-18 10:13				
+faixa	uma faixa	faɪʃa	série de listras pintadas no pavimento de uma rua		_1rhzh4qlxmor.jpg				tts_uma faixa.mp3	2,0,15,10,1,2,41,2023-04-04 13:13,2023-04-06 06:13				
+ombro	o ombro	ombɾʊ	parte superior do braço junto à omoplata	Encolheu os ombros diante da situação.	_1p4ao264subt.jpg				tts_o ombro.mp3	2,0,6,6,6,6,290,2023-03-30 08:26,2023-04-11 10:26				
+encolher	encolher	eŋko'ʎeɾ	diminuir de tamanho	As calças encolheram quando foram lavadas.	_xse59xg2n3ko.jpg				tts_encolher_2.mp3	2,0,7,6,5,5,189,2023-03-30 08:23,2023-04-07 05:23				
+vontade	uma vontade	von'taʤɪ	desejo	ter vontade de sair	_1a78ggb2ff79.jpg				tts_uma vontade.mp3	2,0,7,6,6,6,207,2023-03-30 08:19,2023-04-07 23:19				
+torcida	uma torcida	toɾ'sida	desejo de que um time ganhe uma partida, um campeonato	o grito de torcida do time	_1mpj295js5g5.jpg				tts_uma torcida.mp3	2,0,16,11,6,7,95,2023-04-04 13:08,2023-04-08 12:08				
+campeonato	o campeonato	kɐmpɪo'natʊ	provas de uma competição	um campeonato de tênis	_5cdst5gf0kc1.jpg				tts_o campeonato.mp3	2,0,11,9,6,6,176,2023-03-30 08:18,2023-04-06 16:18				
+equipe	uma equipe	e'kipɪ	grupo de pessoas que se unem na prática de um esporte	a equipe de natação do clube	_kwe9dv5u8322.jpg				tts_uma equipe.mp3	2,0,10,8,6,6,167,2023-03-30 08:15,2023-04-06 07:15				
+nadar	nadar	na'daɾ	percorrer uma distância na água	nadar dois quilômetros	_rjh5ve2sliay.jpg				tts_nadar_2.mp3	2,0,6,6,6,7,368,2023-04-04 13:14,2023-04-19 21:14				
+mergulhar	mergulhar	meɾ'ɡuʎaɾ	afundar-se	mergulhar na piscina	_14bwsjog0ujx.jpg				tts_mergulhar_2.mp3	2,0,10,8,7,8,270,2023-04-04 13:13,2023-04-15 19:13				
+piscina	uma piscina	pi'sina	grande reservatório de água onde se pode nadar	nadar na piscina	_kl6btrenczvl.jpg				tts_uma piscina.mp3	2,0,6,6,6,7,309,2023-04-04 13:14,2023-04-17 10:14				
+reservatório	o reservatório	xezeɾva'tɔɾɪʊ	depósito de água	um reservatório de água	_s145dbkcdg15.jpg				tts_o reservatório.mp3	2,0,7,6,6,6,194,2023-03-30 08:17,2023-04-07 10:17				
+empregar	empregar	empɾe'ɡaɾ	dar trabalho a	empregar muitas pessoas	_1emoalnncmfy.jpg				tts_empregar_2.mp3	2,0,7,6,6,6,171,2023-03-30 08:18,2023-04-06 11:18				
+aldeia	uma aldeia	ɑʊ'deɪa	pequena vila	Eles vivem em uma aldeia.	_18en1ocd08b8.jpg				tts_uma aldeia.mp3	2,0,9,8,5,6,180,2023-04-04 13:12,2023-04-12 01:12				
+pertencer	pertencer	peɾtẽɪ̃'seɾ	ser propriedade de	Este livro me pertence.	_na80vmz9wjuy.jpg				tts_pertencer_2.mp3	2,0,17,11,4,5,88,2023-04-04 13:07,2023-04-08 05:07				
+portanto	portanto	poɾ'tɐntʊ	indica consequência lógica	Estou doente, portanto não posso sair.	_3o82jhgsmut2.jpg				tts_portanto_2.mp3	2,0,6,6,6,7,382,2023-04-05 17:15,2023-04-21 15:15				
+coitado	coitado, coitada	koɪ'tadʊ, koɪ'tada	infeliz, miserável	Coitado, perdeu tudo o que tinha.	_7kul7v5lffkd.jpg				tts_coitado, coitada.mp3	2,0,14,11,6,7,104,2023-04-04 13:09,2023-04-08 21:09				
+acender	acender	asen'deɾ	pôr fogo em algo	acender uma fogueira	_12xna585ubgv.jpg				tts_acender_2.mp3	2,0,8,6,6,6,155,2023-03-30 08:18,2023-04-05 19:18				
+virar	virar	vi'ɾaɾ	mudar de posição	virar à direita	_2mx2uq3rc0nu.jpg				tts_virar_2.mp3	2,0,5,5,5,5,221,2023-03-30 08:19,2023-04-08 13:19				
+curvar	curvar	kuɾ'vaɾ	arquear	curvar as costas	_10v67zw6rskn.jpg				tts_curvar_2.mp3	2,0,7,6,6,6,193,2023-03-30 08:19,2023-04-07 09:19				
+agarrar	agarrar	aɡa'xaɾ	apanhar e segurar na mão	Ela agarrou o meu braço.	_1ry8tks0rdse.jpg				tts_agarrar_2.mp3	2,0,15,11,7,8,163,2023-04-05 17:13,2023-04-12 12:13				
+afetar	afetar	afe'taɾ	produzir lesão em	O tiro afetou-lhe o coração.	_kz53k0p7fvh0.jpg				tts_afetar_2.mp3	2,0,8,7,6,6,159,2023-03-30 08:14,2023-04-05 23:14				
+acervo	o acervo	a'seɾvʊ	patrimônio de um indivíduo ou de uma instituição	o acervo de um museu	_9lczj46act7l.jpg				tts_o acervo.mp3	2,0,9,7,7,8,258,2023-04-05 17:15,2023-04-16 11:15				
+desbravar	desbravar	ʤɪzbɾa'vaɾ	explorar	desbravar novos territórios	_7q5pwp3chajw.jpg				tts_desbravar_2.mp3	2,0,7,6,6,6,240,2023-03-30 08:19,2023-04-09 08:19				
+sabedoria	uma sabedoria	sabedo'ɾia	conhecimento, saber;  sensatez	O conhecimento de línguas é a porta para a sabedoria.	_sxhhx3mjti8d.jpg				tts_uma sabedoria.mp3	2,0,7,6,6,7,189,2023-04-01 16:38,2023-04-09 13:38				
+alegar	alegar	ale'ɡaɾ	apresentar em defesa	alegar falta de provas	_ykb3b409ss00.jpg				tts_alegar_2.mp3	2,0,8,7,6,7,182,2023-04-04 13:13,2023-04-12 03:13				
+tomada	uma tomada	toˈmada	dispositivo para ligar um aparelho elétrico	ligar a televisão na tomada	_5n4j0iegtgj4.jpg				tts_uma tomada.mp3	2,0,5,5,5,5,185,2023-03-30 08:18,2023-04-07 01:18				
+afogar	afogar	afo'ɡaɾ	matar dentro da água	O criminoso afogou o homem na banheira.	_1teyeoxp73vf.jpg				tts_afogar_2.mp3	2,0,5,5,5,5,177,2023-03-30 08:17,2023-04-06 17:17				
+valer	valer	va'leɾ	ter o valor de	Esse quadro vale uma fortuna.	_36yvovis3x70.jpg				tts_valer_2.mp3	2,0,5,5,5,5,223,2023-03-30 08:23,2023-04-08 15:23				
+comodidade	uma comodidade	komoʤi'daʤɪ	conforto	a comodidade da casa	_15p2qgqgs6ea.jpg				tts_uma comodidade.mp3	2,0,5,5,5,5,173,2023-03-30 08:17,2023-04-06 13:17				
+caro	caro, cara	kaɾʊ,kaɾa	que custa muito dinheiro	um automóvel caro	_z53ikd9qlxwh.jpg				tts_caro, cara.mp3	2,0,5,5,5,5,251,2023-03-30 08:19,2023-04-09 19:19				
+barato	barato, barata	ba'ɾatʊ, ba'ɾata	que custa pouco dinheiro	roupa barata	_7qyzp2zw92a9.jpg				tts_barato, barata.mp3	2,0,9,8,5,6,160,2023-04-04 13:11,2023-04-11 05:11				
+preguiçoso	preguiçoso, preguiçosa	pɾe'ɡisozʊ, pɾe'ɡisoza	indolente, que tem preguiça	Não sair e ver netflix é preguiçoso.	_1djy4b9qtt5n.jpg				tts_preguiçoso, preguiçosa.mp3	2,0,9,8,5,6,171,2023-04-04 13:10,2023-04-11 16:10				
+empurrar	empurrar	empu'xaɾ	fazer um impulso para mover algo ou alguém	empurrar a porta	_wg9mhdfk1h6n.png				tts_empurrar_2.mp3	2,0,5,5,5,5,159,2023-03-30 08:18,2023-04-05 23:18				
+puxar	puxar	pu'ʃaɾ	arrancar, tirar	puxar os cabelos	_22cgplp03p64.jpg				tts_puxar_2.mp3	2,0,7,6,6,7,222,2023-04-01 16:38,2023-04-10 22:38				
+carrinho	o carrinho	ka'xiɲʊ	carro para o transporte de mercadorias ou de bagagens	levar as compras no carrinho do supermercado	_17svpvrtjpxo.jpg				tts_o carrinho.mp3	2,0,6,6,6,6,178,2023-03-30 08:17,2023-04-06 18:17				
+cestinha	uma cestinha	sˌestʃˈiɲæ	recipiente feito de material diverso, utilizado para guardar objetos ou uso doméstico		_165nn2k1l0lp.jpg				tts_uma cestinha.mp3	2,0,5,5,5,5,171,2023-03-30 08:18,2023-04-06 11:18				
+sensatez	uma sensatez	sẽɪ̃sa'tes	qualidade de sensato, prudência	a sensatez de um patrão	_1rkq6q9zryjq.jpg				tts_uma sensatez.mp3	2,0,13,10,6,7,111,2023-04-01 22:04,2023-04-06 13:04				
+cheirar	cheirar	ʃeɪ'ɾaɾ	ter cheiro de algo	cheirar um perfume	_blmuz5fsvfo0.jpg				tts_cheirar_2.mp3	2,0,6,6,6,6,158,2023-03-30 08:17,2023-04-05 22:17				
+grama	uma grama	ɡɾɐma	erva rasteira	Não pise na grama!	_i0nst2ewp851.jpg				tts_uma grama.mp3	2,0,11,9,7,8,152,2023-04-04 13:11,2023-04-10 21:11				
+enfatizar	enfatizar	ẽɪ̃faʧi'zaɾ	dar destaque a, realçar	Enfatizou sua decisão.	_1phix073mmpn.jpg				tts_enfatizar_2.mp3	2,0,9,7,6,7,201,2023-04-04 13:13,2023-04-12 22:13				
+montar	montar	mon'taɾ	fazer a montagem de, instalar	então eu monto todo o site do Shoptime	_1bgae00o94pl.png				tts_montar_2.mp3	2,0,11,8,3,4,110,2023-04-04 13:08,2023-04-09 03:08				
+focar	focar	fo'kaɾ	convergir para um ponto	que é mais focado em eletrodoméstico e utilidade doméstica, panela, essas coisas assim	_4rrmwgpf6j6c.jpg				tts_focar_2.mp3	2,0,5,5,5,5,188,2023-03-30 08:19,2023-04-07 04:19				
+parecido	parecido	parecido	que se parece; semelhante	Qual é a rotina mais parecida com a sua? Por quê?	_aacce1n8tzrd.jpg				tts_parecido_2.mp3	2,0,8,7,7,8,169,2023-04-04 13:12,2023-04-11 14:12				
+botequim	o botequim	boʧɪ'kĩɲ	bar	tomar cerveja no botequim	_x8fq6ihvfnd0.jpg				tts_o botequim.mp3	2,0,15,11,1,2,43,2023-04-05 17:15,2023-04-07 12:15				
+matar	matar	ma'taɾ	tirar a vida de; assassinar	matar um animal	_7oyeji2br7hc.jpg				tts_matar_2.mp3	2,0,5,5,5,6,192,2023-04-01 16:36,2023-04-09 16:36				
+surrar	surrar	su'xaɾ	dar pancada em, bater em	surrar alguém	_7g0885ivta7d.jpg				tts_surrar_2.mp3	2,0,7,6,6,7,125,2023-04-04 13:09,2023-04-09 18:09				
+açoitar	açoitar	asoɪ'taɾ	bater com chicote	açoitar um animal	_apze2claqnzk.jpg				tts_açoitar_2.mp3	2,0,12,9,6,7,53,2023-04-04 13:04,2023-04-06 18:04				
+chicote	o chicote	ʃi'kɔʧɪ	instrumento com que se bate	castigar alguém com um chicote	_cszq0fleoprj.jpg				tts_o chicote.mp3	2,0,8,7,6,7,166,2023-04-05 17:11,2023-04-12 15:11				
+lençol	o lençol	leɪ̃̃'sɔʊ	peça grande de tecido para cobrir o colchão	os lençóis da cama	_7bw3hyflorth.jpg				tts_o lençol.mp3	2,0,7,6,6,7,113,2023-04-04 13:09,2023-04-09 06:09				
+travesseiro	o travesseiro	tɾave'seɪɾʊ	almofada macia usada para dormir	encostar a cabeça no travesseiro	_1qdez41l9oo3.jpg				tts_o travesseiro.mp3	2,0,10,8,6,7,58,2023-04-04 13:04,2023-04-06 23:04				
+encostar	encostar	eŋkos'taɾ	apoiar-se junto a	encostar a cabeça na parede	_1odmodbr7ats.jpg				tts_encostar_2.mp3	2,0,11,8,3,4,27,2023-04-05 17:08,2023-04-06 20:08				
+cobertor	o cobertor	kobeɾ'toɾ	peça de tecido quente utilizada para aquecer o corpo na cama	um cobertor de lã	_15185u59wwod.jpg				tts_o cobertor.mp3	2,0,9,7,6,7,89,2023-04-04 13:07,2023-04-08 06:07				
+aquecer	aquecer	ake'seɾ	ficar quente	Minhas mãos estão aquecendo.	_jeieumidqmey.jpg				tts_aquecer_2.mp3	2,0,10,7,1,2,46,2023-04-05 17:14,2023-04-07 15:14				
+tecido	o tecido	te'sidʊ	material feito de fios	um tecido de algodão	_17tiymdzcqid.jpg				tts_o tecido.mp3	2,0,9,7,6,7,88,2023-04-04 13:08,2023-04-08 05:08				
+sabonete	o sabonete	sabo'neʧɪ	sabão para banho	lavar as mãos com sabonete	_5vfzq0i8xy23.jpg				tts_o sabonete.mp3	2,0,7,6,6,7,134,2023-04-04 13:11,2023-04-10 03:11				
+chão	o chão	ʃɐ̃ʊ̃	plano; uniforme	uma terra chã	_bzvucb5wop2a.jpg				tts_o chão.mp3	2,0,5,5,5,6,207,2023-04-04 13:13,2023-04-13 04:13				
+edredom	o edredom	edɾe'dõʊ̃	cobertura acolchoada para cama	colocar um edredom sobre a cama	_1ce1wpxmstyh.jpg				tts_o edredom.mp3	2,0,12,7,4,5,97,2023-04-04 13:07,2023-04-08 14:07				
+lavatório	o lavatório	lava'tɔɾɪʊ	pia para lavar as mãos e o rosto	lavar as mãos no lavatório	_1kxa7269y16k.jpg				tts_o lavatório.mp3	2,0,5,5,5,6,233,2023-04-04 19:13,2023-04-14 12:13				
+pia	uma pia	pia	bacia de cozinha	abrir a torneira da pia	_n0iwf45xmrvg.jpg				tts_uma pia.mp3	2,0,8,7,6,7,120,2023-04-04 13:08,2023-04-09 13:08				
+luminária	uma luminária	lumi'naɾɪa	tipo de lâmpada decorativa	acender a luminária	_14dxbsxq9u1m.jpg				tts_uma luminária.mp3	2,0,8,7,6,7,138,2023-04-05 17:13,2023-04-11 11:13				
+nuvem	uma nuvem	nuvẽɪ̃	conjunto vísivel de partículas de água na atmosfera	nuvens baixas	_eh2r6ci9sgm7.jpg				tts_uma nuvem.mp3	2,0,9,6,1,2,30,2023-04-04 13:12,2023-04-05 19:12				
+amizade	uma amizade	ami'zaʤɪ	sentimento de afeto por outra pessoa	relações de amizade	_iy5tjcwisgbo.jpg				tts_uma amizade.mp3	2,0,9,7,6,7,79,2023-04-04 13:08,2023-04-07 20:08				
+estivar	estivar	ˌestʃivˈar	carregar carga em navio	estivar mercadorias perigosas no navio	_11pj6r33xnnn.jpg				tts_estivar_2.mp3	2,0,10,7,6,7,84,2023-04-04 13:08,2023-04-08 01:08				
+cochilar	cochilar	cochilar	dormitar	O marido costumava cochilar durante o sermão	_1c9o8ka7gnti.jpg				tts_cochilar_2.mp3	2,0,5,5,5,6,157,2023-04-04 13:11,2023-04-11 02:11				
+cómoda	uma cómoda	kˈɔmodæ	móvel, geralmente de madeira, com gavetas, cuja face superior forma uma mesa	colocar a roupa na cómoda	_1rsvahrn4tja.jpg				tts_uma cómoda.mp3	2,0,5,5,5,6,190,2023-04-04 13:12,2023-04-12 11:12				
+comida	uma comida	ko'mida	aquilo que se come	comer uma comida	_uudty0udl4m0.jpg				tts_uma comida.mp3	2,0,5,5,5,6,163,2023-04-04 13:11,2023-04-11 08:11				
+enxugar	enxugar	ẽɪ̃ʃu'ɡaɾ	secar	enxugar as mãos	_a37pn2b5z8lh.jpg				tts_enxugar_2.mp3	2,0,5,5,5,6,202,2023-04-04 13:12,2023-04-12 23:12				
+passo	o passo	pasʊ	movimento do pé para andar	dar um passo a frente	_mbxb6nqm6s0h.jpg				tts_o passo.mp3	2,0,5,5,5,6,170,2023-04-04 13:11,2023-04-11 15:11				
+sumir	sumir	su'miɾ	fazer desaparecer	sumir com as coisas de alguém	_1d39stl92mqk.jpg				tts_sumir_2.mp3	2,0,5,5,5,6,178,2023-04-04 13:12,2023-04-11 23:12				
+engolir	engolir	eŋɡo'liɾ	fazer passar da boca para o estômago	engolir uma bolacha	_1np5z1kk93k2.jpg				tts_engolir_2.mp3	2,0,5,5,5,6,230,2023-04-04 19:12,2023-04-14 09:12				
+esmola	uma esmola	ez'mɔla	o que se dá aos pobres, donativo	dar esmolas aos pobres	_1g4uaeudy2i8.jpg				tts_uma esmola.mp3	2,0,13,8,2,3,38,2023-04-05 17:13,2023-04-07 07:13				
+cochichar	cochichar	koʃi'ʃaɾ	falar em voz baixa	cochichar segredos a alguém	_uept46we9vak.jpg				tts_cochichar_2.mp3	2,0,5,5,5,6,224,2023-04-04 13:13,2023-04-13 21:13				
+tarefa	uma tarefa	ta'ɾɛfa	trabalho que se executa em determinado prazo	levar o lixo para fora é uma tarefa difícil	_1p98j494yv10.jpg				tts_uma tarefa.mp3	2,0,7,5,3,4,67,2023-04-04 13:04,2023-04-07 08:04				
+sussurrar	sussurrar	susu'xaɾ	dizer algo em voz baixa	sussurrar palavras doces a alguém	_ktmsmjktq4tt.jpg				tts_sussurrar_2.mp3	2,0,5,5,5,6,129,2023-04-04 13:10,2023-04-09 22:10				
+aproximar-se	aproximar-se	apɾosi'maɾsɪ	diminuir a distância entre duas coisas	Para se aproximar de seus alvos, criminosos e malandros em geral, ele freqüentava rodas de capoeira.	_1nfuzhhd6ji2.jpg				tts_aproximar-se_2.mp3	2,0,5,5,5,6,104,2023-04-04 13:07,2023-04-08 21:07				
+lavrador	o lavrador, uma lavradora	lavɾa'doɾ, lavɾa'doɾa	agricultor	O lavrador plantou as sementes.	_opftbw842o97.jpg				tts_o lavrador, uma lavradora.mp3	2,0,5,5,5,6,102,2023-04-01 22:04,2023-04-06 04:04				
+antigamente	antigamente	antigamente	em tempo anterior ao atual; dantes	Antigamente, este bairro era um imenso cafezal.	_11cyeet7s891.jpg				tts_antigamente_2.mp3	2,0,5,5,5,6,102,2023-04-04 13:08,2023-04-08 19:08				
+medir	medir	me'ʤiɾ	tirar as dimensões de	medir um terreno	_1mwyrtyeqx5f.jpg				tts_medir_2.mp3	2,0,9,7,3,4,53,2023-04-05 17:12,2023-04-07 22:12				
+ato	o ato	atʊ	aquilo que se fez, feito	um ato heróico	_194smhp5wdg0.png				tts_o ato.mp3	2,0,5,5,5,6,94,2023-04-01 22:05,2023-04-05 20:05				
+atacar	atacar	ata'kaɾ	agredir; criticar	O exército atacou os inimigos.	_11qezchzgcxl.jpg				tts_atacar_2.mp3	2,0,5,5,5,6,128,2023-04-04 13:10,2023-04-09 21:10				
+misturar	misturar	mistu'ɾaɾ	untar coisas diferentes	misturar as cores	_15ifwgni0vo3.jpg				tts_misturar_2.mp3	2,0,7,6,2,3,47,2023-04-04 13:06,2023-04-06 12:06				
+capa	uma capa	kapa	cobertura de papel para livro ou caderno	cobrir o livro com uma capa	_qpp09ohfoja2.jpg				tts_uma capa.mp3	2,0,7,6,6,7,113,2023-04-04 13:08,2023-04-09 06:08				
+alvo	o alvo	ɑʊvʊ	onde se procura acertar com uma arma	disparar sobre o alvo	_339uchd58kzg.jpg				tts_o alvo.mp3	2,0,10,7,2,3,20,2023-04-05 17:07,2023-04-06 13:07				
+acertar	acertar	aseɾ'taɾ	colocar de maneira adequada	acertar a hora do relógio	_1opsckpnwe72.jpg				tts_acertar_2.mp3	2,0,6,5,4,5,142,2023-04-04 13:12,2023-04-10 11:12				
+jeito	o jeito	ʒeɪtʊ	modo, forma	um jeito de dançar	_etzxxgg9nni4.jpg				tts_o jeito.mp3	2,0,7,6,6,7,92,2023-04-04 13:08,2023-04-08 09:08				
+areia	uma areia	a'ɾeɪa	conjunto de pequenos grãos de mineral	a areia da praia	_14f3kcao1v62.jpg				tts_uma areia.mp3	2,0,5,5,5,6,104,2023-04-01 16:36,2023-04-06 00:36				
+ferramenta	uma ferramenta	fexa'menta	instrumento de trabalho	O martelo é uma ferramenta.	_7ons6b9hirp8.jpg				tts_uma ferramenta.mp3	2,0,7,6,6,7,136,2023-04-04 19:12,2023-04-10 11:12				
+máquina	uma máquina	makina	aparelho que efetua um trabalho	máquina fotográfica	_1oyk9yqmqtcz.jpg				tts_uma máquina.mp3	2,0,5,5,5,6,125,2023-04-04 13:10,2023-04-09 18:10				
+voador	voador, voadora	vʊa'doɾ, vʊa'doɾa	que voa	um inseto voador	_1ejno2kq22i5.jpg				tts_voador, voadora.mp3	2,0,6,5,4,5,135,2023-04-04 13:10,2023-04-10 04:10				
+atrasar	atrasar	atɾa'zaɾ	retardar	atrasar o relógio por uma hora	_mswfvfz2u3c5.jpg				tts_atrasar_2.mp3	2,0,12,7,1,2,12,2023-04-05 17:15,2023-04-06 05:15				
+ir parar	ir parar	ir paɾˈar	estar ao fim	Após receber uma "lição" foi parar no hospital.	_10dnwhqr1mmi.jpg				tts_ir parar_2.mp3	2,0,6,5,1,2,40,2023-04-04 13:13,2023-04-06 05:13				
+soltar	soltar	soʊ'taɾ	libertar, largar; desprender, desatar		_xlf2niyqnbye.jpg				tts_soltar_2.mp3	2,0,6,5,1,2,34,2023-04-04 13:11,2023-04-05 23:11				
+prestar atenção em	prestar atenção em	prestˈaɾ ˌateɪŋsˈɐ̃ʊ̃ ˈeɪŋ	ficar atento a	prestar atenção na aula	_1rfncci1nl75.jpg				tts_prestar atenção em_2.mp3	2,0,6,5,1,2,33,2023-04-04 13:12,2023-04-05 22:12				
+barraca	uma barraca	ba'xaka	tenda, casa pobre	Ele vive num bairro de barracas.	_rxynudngdmgl.jpg				tts_uma barraca.mp3	2,0,5,5,5,6,123,2023-04-04 13:09,2023-04-09 16:09				
+beleza	uma beleza	be'leza	qualidade do que é lindo	a beleza de um pôr-do-sol	_1wyanp24gmi2.jpg				tts_uma beleza.mp3	2,0,5,5,5,6,127,2023-04-04 13:09,2023-04-09 20:09				
+fingir	fingir	fɪ̃'ʒiɾ	fazer de conta	Fingiu que sentia dor.	_rv4mar0zlhyb.jpg				tts_fingir_2.mp3	2,0,6,5,1,2,34,2023-04-04 13:09,2023-04-05 23:09				
+consertar	consertar	kõʊ̃seɾ'taɾ	reparar, restaurar	consertar um relógio	_f6sbl3z1najz.png				tts_consertar_2.mp3	2,0,14,7,2,3,15,2023-04-05 17:08,2023-04-06 08:08				
+prometer	prometer	pɾome'teɾ	comprometer-se a fazer algo	Prometeu que não fuma mais.	_bc9x67mzeedz.png				tts_prometer_2.mp3	2,0,9,7,6,7,51,2023-04-04 13:06,2023-04-06 16:06				
+desatar	desatar	deza'taɾ	desfazer	desatar um nó	_1egz9kmmy5fd.jpg				tts_desatar_2.mp3	2,0,5,5,5,6,132,2023-04-04 13:10,2023-04-10 01:10				
+desprender	desprender	ʤɪspɾen'deɾ	desatar, soltar	desprender os cabelos	_1h09jnp6zq2w.jpg				tts_desprender_2.mp3	2,0,7,6,6,7,108,2023-04-04 13:08,2023-04-09 01:08				
+guarnecer	guarnecer	ɡʊaɾne'seɾ	enfeitar	guarnecer um vestido com renda	_z1nrpt9ieo52.jpg				tts_guarnecer_2.mp3	2,0,8,6,5,6,60,2023-04-04 13:06,2023-04-07 01:06				
+móvel	o móvel, os móveis	mɔveʊ	peça de mobiliário	um móvel antigo	_hhp8x6lxw8pm.jpg				tts_o móvel, os móveis.mp3	2,0,5,5,5,6,103,2023-04-04 13:10,2023-04-08 20:10				
+docente	docente	do'senʧɪ	relativo a ensino	uma reunião docente	_1mwwsodv3a82.jpg				tts_docente_2.mp3	2,0,6,5,4,5,125,2023-04-04 13:09,2023-04-09 18:09				
+parada	uma parada	pa'ɾada	ponto para embarque e desembarque de passageiros de um transporte coletivo	a parada do ônibus	_1qc2bzxxjxup.jpg				tts_uma parada.mp3	2,0,4,2,2,3,16,2023-04-05 17:07,2023-04-06 09:07				
+embrulhar	embrulhar	embɾu'ʎaɾ	envolver em papel ou outro material	embrulhar um presente	_w0vfsutlea7g.jpg				tts_embrulhar_2.mp3	2,0,4,2,1,2,8,2023-04-05 17:11,2023-04-06 01:11				
+redondeza	uma redondeza	xedon'deza	qualidade de redondo	a redondeza de uma bola	_122jnr8m0mi3.png				tts_uma redondeza.mp3	2,0,4,2,1,2,8,2023-04-05 17:11,2023-04-06 01:11				
+bolso	o bolso	boʊsʊ	parte do vestuário onde se coloca algo	andar com as mãos nos bolsos	_4bt55tp2ivsm.jpg				tts_o bolso.mp3	2,0,1,1,1,2,33,2023-04-04 13:02,2023-04-05 22:02				
+cadeado	o cadeado	kaʤɪ'adʊ	objeto que serve para trancar	fechar a mala com cadeado	_11vt0763hlub.jpg				tts_o cadeado.mp3	2,0,1,1,1,2,40,2023-04-04 13:03,2023-04-06 05:03				
+cortar	cortar	koɾ'taɾ	separar em partes	cortar um bolo em fatias	_7ftp9dxpn33e.jpg				tts_cortar_2.mp3	2,0,1,1,1,2,33,2023-04-04 13:04,2023-04-05 22:04				
+tratar	tratar	tɾa'taɾ	forma de se comportar com alguém	tratar mal uma pessoa	_1xk6gcx278vt.jpg				tts_tratar_2.mp3	2,0,1,1,1,2,34,2023-04-04 13:03,2023-04-05 23:03				
+dono	o dono, uma dona	donʊ,dona	proprietário de algo	o dono da loja	_1s91uks30tra.jpg				tts_o dono, uma dona.mp3	2,0,3,2,2,3,17,2023-04-05 17:07,2023-04-06 10:07				
+degrau	o degrau	de'ɡɾɑʊ	parte da escada onde se põe o pé para subir e descer	uma escada com vinte degraus	_103p3mq0uvmn.jpg				tts_o degrau.mp3	2,0,3,2,2,3,19,2023-04-05 17:07,2023-04-06 12:07				
+subir	subir	su'biɾ	ir de baixo para cima	subir as escadas	_1cjf4tvmg0y6.jpg				tts_subir_2.mp3	2,0,1,1,1,2,36,2023-04-04 13:03,2023-04-06 01:03				
+tamanho	tamanho	ta'mɐɲʊ	dimensão; tão grande, imenso	de pequeno tamanho	_dvmz9rr7lip2.jpg				tts_tamanho_2.mp3	2,0,3,2,2,3,24,2023-04-05 17:07,2023-04-06 17:07				
+marcar	marcar	maɾ'kaɾ	pôr marca, assinalar	marcar as iniciais dos filhos na pulseira	_g2kx4audpr9k.jpg				tts_marcar_2.mp3	2,0,3,2,2,3,18,2023-04-05 17:06,2023-04-06 11:06				
+ferir	ferir	fe'ɾiɾ	magoar alguém fisicamente	ferir alguém com uma faca	_1r9yc2rrxr8l.jpg				tts_ferir_2.mp3	2,0,3,2,2,3,20,2023-04-05 17:07,2023-04-06 13:07				
+negar	negar	ne'ɡaɾ	dizer que algo não é verdadeiro	negar um fato	_1xkhfyyi7kkd.jpg				tts_negar_2.mp3	2,0,4,2,1,2,8,2023-04-05 17:10,2023-04-06 01:10				
+assinar	assinar	asi'naɾ	escrever o seu nome	assinar uma carta	_tbrblwubq5j0.jpg				tts_assinar_2.mp3	2,0,1,1,1,2,43,2023-04-04 13:02,2023-04-06 08:02				
+galho	o galho	ɡaʎʊ	subdivisão do caule de árvores	Você pode mudar a tag do galho source-dist para qualquer coisa que quiser.	_bok1ee9mrt6x.jpg				tts_o galho.mp3	2,0,1,1,1,2,39,2023-04-05 17:10,2023-04-07 08:10				
+poderoso	poderoso,poderosa	pode'ɾozʊ,pode'ɾoza	que tem poder, força	um mecanismo poderoso	_vpvtiat5ucbv.jpg				tts_poderoso,poderosa.mp3	2,0,1,1,1,2,36,2023-04-05 17:09,2023-04-07 05:09				
+inteiro	inteiro,inteira	in'teɪɾʊ, in'teɪɾa	completo, total	passar o dia inteiro na escola	_1s5xwpze9z8k.jpg				tts_inteiro,inteira.mp3	2,0,1,1,1,2,33,2023-04-05 17:07,2023-04-07 02:07				
+tigela	uma tigela	ʧi'ʒɛla	recipiente redondo	uma tigela de arroz	_8wys0hm4l5z9.jpg				tts_uma tigela.mp3	2,0,1,1,1,2,36,2023-04-05 17:11,2023-04-07 05:11				
+acampar	acampar	akɐm'paɾ	alojar-se em tendas	Eles costumam acampar na praia.	_l5o4s1w97xiz.jpg				tts_acampar_2.mp3	2,0,2,1,1,2,10,2023-04-05 17:12,2023-04-06 03:12				
+coragem	uma coragem	ko'ɾaʒẽɪ̃	qualidade de quem não tem medo	A coragem é o oposto da covardia.	_rk6es4origip.jpg				tts_uma coragem.mp3	2,0,1,1,1,2,40,2023-04-05 17:10,2023-04-07 09:10				
+bobagem	uma bobagem	bo'baʒẽɪ̃	atitude impensada, inconsequente	Fez algumas bobagens na vida, mas aprendeu a lição.	_102r58qkrxyj.jpg				tts_uma bobagem.mp3	2,0,1,1,1,2,43,2023-04-05 17:09,2023-04-07 12:09				
+fôlego	o fôlego	foleɡʊ	respiração	Tomou fôlego e seguiu em frente.	_7cvc9qiqdhdo.jpg				tts_o fôlego.mp3	2,0,2,1,1,2,11,2023-04-05 17:10,2023-04-06 04:10				
+pesado	pesado, pesada	pe'zadʊ, pe'zada	que tem muito peso	um pacote pesado	_y83wc16wxx60.jpg				tts_pesado, pesada.mp3	2,0,1,1,1,2,38,2023-04-05 17:09,2023-04-07 07:09				
+franzir	franzir	frɐ̃ŋzˈir	causar ou criar pregas		_tajxpvwdrbn2.jpg				tts_franzir_2.mp3	2,0,1,1,1,2,38,2023-04-05 17:10,2023-04-07 07:10				
+testa	uma testa	tɛsta	parte da cabeça entre os olhos e os cabelos	uma testa alta	_1jsnzmt7w7o1.jpg				tts_uma testa.mp3	2,0,1,1,1,2,33,2023-04-05 17:09,2023-04-07 02:09				
+em seguida	em seguida	ˈeɪŋ sˌeɡˈidæ	logo depois, a seguir	Especifique o servidor de licenças e, em seguida, seleccione a edição para a qual irá mudar.					tts_em seguida_2.mp3	2,0,4,1,1,2,8,2023-04-05 17:15,2023-04-06 01:15				
+sacudir	sacudir	saku'ʤiɾ	agitar, abanar	sacudir um tapete	_1dgpoyvvirbx.jpg				tts_sacudir_2.mp3	2,0,2,1,1,2,11,2023-04-05 17:13,2023-04-06 04:13				
+turma	uma turma	tuɾma	grupo de pessoas	uma turma de crianças	_1ugyjgzvswwa.jpg				tts_uma turma.mp3	2,0,1,1,1,2,33,2023-04-05 17:11,2023-04-07 02:11				
+desalento	o desalento	dˌezalˈeɪŋtʊ	desânimo, melancolia		_j7c0mzv5ey1h.jpg				tts_o desalento.mp3	2,0,1,1,1,2,39,2023-04-05 17:10,2023-04-07 08:10				
+esfregar	esfregar	esfɾe'ɡaɾ	passar um corpo sobre outro com força	esfregar os olhos	_z46dciz0clkc.jpg				tts_esfregar_2.mp3	2,0,2,1,1,2,10,2023-04-05 17:11,2023-04-06 03:11				
+emprestar	emprestar	empɾes'taɾ	dar algo a alguém por um certo tempo	emprestar dinheiro	_3f9mbxiirg0f.jpg				tts_emprestar_2.mp3	2,0,1,1,1,2,41,2023-04-05 17:10,2023-04-07 10:10				
+enfrentar	enfrentar	ẽɪ̃fɾen'taɾ	fazer frente a, encarar	enfrentar as adversidades	_jbkqvtg1uazy.jpg				tts_enfrentar_2.mp3	2,0,1,1,1,2,32,2023-04-05 17:08,2023-04-07 01:08				
+danificar	danificar	dɐnifi'kaɾ	estragar	danificar o carro	_w1mnkk5dqene.jpg				tts_danificar_2.mp3	2,0,3,1,1,2,8,2023-04-05 17:13,2023-04-06 01:13				
+estragar	estragar	estɾa'ɡaɾ	avariar, deteriorar	estragar um aparelho	_qrbub1h1kroa.jpg				tts_estragar_2.mp3	2,0,2,1,1,2,12,2023-04-05 17:16,2023-04-06 05:16				
+enrugar	enrugar	ẽɪ̃xu'ɡaɾ	fazer rugas ou vincos	O tecido enrugou.	_oqugl20r23q6.jpg				tts_enrugar_2.mp3	2,0,1,1,1,2,39,2023-04-05 17:08,2023-04-07 08:08				
+cadastrar	cadastrar	kadas'tɾaɾ	fazer o cadastro de algo ou de alguém	É preciso cadastrar as propriedades.	_alfxckbr15yk.jpg				tts_cadastrar_2.mp3	2,0,4,1,1,2,8,2023-04-05 17:14,2023-04-06 01:14				
+caber	caber	ka'beɾ	entrar dentro	A cama não cabe no quarto.	_14yew2s3mnhf.jpg				tts_caber_2.mp3	2,0,2,1,1,2,12,2023-04-05 17:15,2023-04-06 05:15				
+embaraço	o embaraço	emba'ɾasʊ	algo que atrapalha, dificulta	A falta de dinheiro é um embaraço aos seus planos.	_1ezc4ir4osxc.jpg				tts_o embaraço.mp3	2,0,2,1,1,2,10,2023-04-05 17:17,2023-04-06 03:17				
+encarar	encarar	eŋka'ɾaɾ	olhar alguém de frente	encarar uma possibilidade	_1ak3wgqrkw5d.jpg				tts_encarar_2.mp3	2,0,1,1,1,2,37,2023-04-05 17:07,2023-04-07 06:07				
+encerrar	encerrar	ẽɪ̃se'xaɾ	conter, concluir, terminar	encerrar um processo	_f5nqbv78m289.jpg				tts_encerrar_2.mp3					
+dobrar	dobrar	do'bɾaɾ	pôr em várias camadas	dobrar os lençóis	_4012h0yheat7.jpg				tts_dobrar_2.mp3					
+retrucar	retrucar	xetɾu'kaɾ	argumentar sobre uma questão, replicar	O candidato retrucou que os dados apresentados estavam corretos.	_1dbphe7r1e2f.jpg				tts_retrucar_2.mp3					
+medroso	medroso,medrosa	me'dɾozʊ, me'dɾoza	que se assusta facilmente	Ele é uma criança medrosa	_16sb0090vpwf.jpg				tts_medroso,medrosa.mp3					
+tomara que	tomara que	to'maɾa	expressa desejo de sucesso, oxalá	Tomara que eu consiga aproveitar as férias!	_nolkn5jb43pn.jpg				tts_tomara que_2.mp3					
+camada	uma camada	ka'mada	aquilo que se estende sobre algo	uma camada de pintura	_13w1a2g1eydd.jpg				tts_uma camada.mp3					

@@ -21,6 +21,7 @@ session=Session(engine)
 def load_verb(verb):
 	verbreg=True
 	category=""
+	ecats={x.text:x for x in verb.categories}
 	if verb.id=="pôr":
 		web="por-2"
 	else:
@@ -53,9 +54,12 @@ def load_verb(verb):
 				for ctype in cat.split(","):
 					ctype=ctype.strip()
 #					print("CAT",verb.id,ctype)
-					ecats={x.text:x for x in verb.categories}
-					rescat=ecats.get(ctype,Category(verb_id=verb.id,text=ctype))
-					session.add(rescat)
+					if ctype in ecats:
+						rescat=ecats.get(ctype)
+					else:
+						rescat=Category(verb_id=verb.id,text=ctype)
+						session.add(rescat)
+						session.commit()
 			part=part.getnext()
 			while part is not None  and 'class' not in part.attrib:
 				content=part.text_content()
