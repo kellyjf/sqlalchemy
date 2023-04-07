@@ -24,6 +24,7 @@ class Verb(Base):
 	regular = Column(Boolean, default=False)
 	past_part = Column(String)
 	gerund = Column(String)
+	ipa = Column(String)
 
 	def __init__(self, **kw):
 		Base.__init__(self,**kw)

@@ -54,6 +54,9 @@ def load_verb(verb, infinitivo=""):
 	web=web.replace('ô','o')
 	web=web.replace('ç','c')
 
+	if args.quick and not os.path.exists(f"net/{web}.txt"):
+		return
+
 	if not os.path.exists(f"net/{web}.txt"):
 		r=requests.get(f"https://www.conjugacao.com.br/verbo-{web}/")
 		if r.status_code==200:
@@ -318,6 +321,7 @@ from argparse import ArgumentParser as ap
 if __name__ == "__main__":
 	parser=ap()
 	parser.add_argument("--rules-only","-r", action="store_true", help="Only load sentence templates")
+	parser.add_argument("--quick","-q", action="store_true", help="Only load sentence templates")
 	args=parser.parse_args()
 
 	if args.rules_only:
