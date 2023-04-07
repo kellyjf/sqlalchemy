@@ -58,6 +58,10 @@ def load_verb(verb, infinitivo=""):
 			with open(f"net/{verb}.txt","wb") as fd:
 				fd.write(r.content)
 
+	if not os.path.exists(f"net/{verb}.txt"):
+		print(f"FAIL: {verb}")
+		return
+
 	with open(f"net/{verb}.txt","rb") as fd:
 		tree=html.fromstring(fd.read())
 		parts=tree.xpath("//div[@class='info-v']")

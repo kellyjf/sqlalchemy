@@ -22,11 +22,9 @@ agarrar
 agir
 ajudar
 alegar
-almoçar
 alugar
 amanhecer
 amar
-ameaçar
 amedrontar
 ampliar
 andar
@@ -35,7 +33,6 @@ apagar
 apaixonar
 apavorar
 apertar
-apesar
 apoiar
 apontar
 apostar
@@ -57,10 +54,11 @@ atrasar
 atravessar
 aumentar
 avistar
-açoitar
+beber
 brilhar
 brincar
 buscar
+caminhar
 carregar
 cegar
 checar
@@ -75,7 +73,6 @@ colher
 colocar
 combinar
 comer
-começar
 comparecer
 compartilhar
 comprar
@@ -87,8 +84,10 @@ consertar
 construir
 controlar
 conversar
+correr
 corrigir
 costumar
+crer
 crescer
 cuidar
 cumprir
@@ -110,7 +109,6 @@ desistir
 desligar
 deslocar
 desprender
-devagar
 dever
 dirigir
 dizer
@@ -136,9 +134,10 @@ enxugar
 esconder
 escrever
 escurecer
+escutar
 esperar
-espetacular
 esquecer
+estar
 esticar
 estivar
 estudar
@@ -160,6 +159,7 @@ guarnecer
 haver
 impedir
 indicar
+ir
 jantar
 jejuar
 jogar
@@ -170,12 +170,12 @@ ler
 levar
 ligar
 limpar
-lugar
 mandar
 manter
 matar
 medir
 melhorar
+mentir
 merecer
 mergulhar
 misturar
@@ -194,12 +194,14 @@ pairar
 parar
 parecer
 partilhar
+partir
 passear
 pedalar
 pedir
 pegar
 pensar
 perceber
+perder
 perguntar
 pertencer
 pesquisar
@@ -207,6 +209,8 @@ piorar
 poder
 praticar
 prazer
+precisar
+preferir
 prestar
 pretender
 procurar
@@ -222,6 +226,7 @@ receber
 reclamar
 recuperar
 relacionar
+repetir
 resgatar
 roubar
 saber
@@ -229,6 +234,7 @@ sair
 seguir
 segurar
 sentar
+ser
 significar
 soar
 sobrar
@@ -241,6 +247,7 @@ sugerir
 sumir
 surrar
 sussurrar
+telefonar
 tentar
 ter
 tirar
@@ -250,7 +257,6 @@ tornar
 trabalhar
 trancar
 trazer
-traçar
 trocar
 valer
 ver
