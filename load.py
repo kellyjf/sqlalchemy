@@ -126,13 +126,16 @@ def load_defs(verb):
 # verb - lookup key onweb and file name
 # infinitivo -infinitive form of the verb, for text output and database keys	
 def load_verb(verb, infinitivo=""):
+	if not args.quiet:
+		print(f"Loading {verb}")
+
 	verbreg=True
 	category=""
 	web=verb
 	web=web.replace('ô','o')
 	web=web.replace('ç','c')
 
-	if args.quick and not os.path.exists(f"net/{web}.txt"):
+	if args.cached and not os.path.exists(f"net/{web}.txt"):
 		return
 
 	if not os.path.exists(f"net/{web}.txt"):
@@ -403,8 +406,10 @@ from argparse import ArgumentParser as ap
 if __name__ == "__main__":
 	parser=ap()
 	parser.add_argument("--rules-only","-r", action="store_true", help="Only load sentence templates")
-	parser.add_argument("--quick","-q", action="store_true", help="Only load sentence templates")
+	parser.add_argument("--quiet","-q", action="store_true", help="Operate silently")
+	parser.add_argument("--cached","-c", action="store_true", help="Don't use internet")
 	parser.add_argument("--verbs","-v", nargs='*', action='store',  help="Add named verbs")
+
 	args=parser.parse_args()
 
 	if args.verbs:

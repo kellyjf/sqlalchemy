@@ -974,6 +974,7 @@ lamber
 lamentar
 largar
 lavar
+lavrar
 leccionar
 lecionar
 legalizar

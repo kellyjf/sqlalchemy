@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
 
 	Base.metadata.create_all(engine)
-	with open("portvocab.txt","r") as file:
+	with open("vocab.txt","r") as file:
 		for line in file.readlines():
 			[entry,gendered,pronounce,define,example]=line.split("\t")[:5]
 			session.add(Word(entry=entry,gendered=gendered,pronounce=pronounce,define=define,example=example))
