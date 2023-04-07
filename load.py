@@ -6,6 +6,7 @@ from lxml import html
 import sqlite3
 from schema import Statistic, Subject, Verb, Tense, Conjugation, Sentence, Rule, State, Base, init
 import os.path
+import re
 
 from sqlalchemy import create_engine
 engine=create_engine("sqlite:///portuguese.sqlite")
@@ -48,6 +49,7 @@ personmap = {
 # infinitivo -infinitive form of the verb, for text output and database keys	
 def load_verb(verb, infinitivo=""):
 	verbreg=True
+	category=""
 	if not infinitivo:
 		infinitivo=verb
 	if not os.path.exists(f"net/{verb}.txt"):
@@ -64,6 +66,26 @@ def load_verb(verb, infinitivo=""):
 			if len(pparts)>1:
 				gerund=pparts[0].text
 				past_part=pparts[1].text
+			pparts=part.xpath(".//p[@class='secondary']")
+			if len(pparts)>0:
+				tgt=pparts[0].text_content()
+				re1=re.search("Transitividade:\s*(.*)\s*Separa",tgt)
+				if re1:
+					cat=re1.group(1)
+					cat=cat.replace(" e  ",",  ")
+					types=cat.split(",")
+					tlist=[]
+					for x in types:
+						x=x.strip()
+						res="".join([y[0] for y in x.split()])
+						if res=="i":
+							res="in"
+						elif res=="p":
+							res="pr"
+						elif res=="t":
+							res="tr"
+						tlist.append(res)
+					category=",".join(tlist)
 		modes=tree.xpath("//h3[@class='modoconjuga']")
 		for mode in modes:
 			mkey=mode.text
@@ -90,7 +112,7 @@ def load_verb(verb, infinitivo=""):
 					person=personmap.get(pid,"False")
 					if person:
 						session.add(Conjugation(verb_id=infinitivo, tense_id=tkey, person=person, text=text))
-		session.add(Verb(id=infinitivo, regular=verbreg, gerund=gerund, past_part=past_part))
+		session.add(Verb(id=infinitivo, regular=verbreg, category=category, gerund=gerund, past_part=past_part))
 
 def load_db():
 
@@ -257,32 +279,12 @@ def load_db():
 	session.add(Conjugation(person="3pp", tense_id="sf", verb_id="*ir", text="INFem"))
 
 
-
-	verbs= [
-		'ser', 'estar', 'ter', 'ir', 'vir','ficar', 'poder',
-		'preferir', 'repetir','caber',
-		'ver', 'ouvir', 'olhar', 'ler','comer', 'assistir', 'gritar',
-		'querer', 'dizer', 'fazer', 'atender','acolher',
-		'escutar','ajudar','preguntar','beber','conseguir','telefonar',
-		'valer', 'saber', 'haver', 'piorar', 'virar',
-		'aconselhar', 'aceitar','acabar',
-		'viajar', 'comprar', 'precisar', 'achar', 'crer', 'procurar', 'impedir',
-		'arrumar', 'chegar', 'mentir', 'odiar', 'sair', 'partir', 
-		'parar', 'trabalhar', 'correr','praticar',
-		'nadar', 'andar', 'caminhar', 'passear', 'escrever','acordar','perder', 
-		'dormir','sonhar', 'morar', 'viver',
-		'dar', 'trazer', 'pedir', 'medir', 'vestir', 'seguir',
-		'aprender', 'entender', 'estudar', 'falar', 'conhecer' ]
-
-
+	with open("verbs.txt","r") as file:
+		for verb in file.readlines():
+			verb=verb.strip()
+			print("Loading ",verb)
+			load_verb(verb)
 	load_verb('por','pôr')
-
-	for verb in verbs:
-		print("Loading ",verb)
-
-		load_verb(verb)
-
-		session.commit()
 
 def load_rules():
 	for stat in session.query(Statistic).all():

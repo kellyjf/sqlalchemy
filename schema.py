@@ -22,6 +22,7 @@ class Verb(Base):
 
 	id = Column(String, primary_key=True)
 	regular = Column(Boolean, default=False)
+	category = Column(String, default="") # transitivo direto, transitivo indireto, intransitivo e pronominal
 	past_part = Column(String)
 	gerund = Column(String)
 
