@@ -4,6 +4,7 @@ reset:
 	rm -f portuguese.sqlite ;\
 	./load.py ;\
 	./dic.py ;\
+	./camb.py ;\
 	sqlite3 portuguese.sqlite < views.sql 
 
 quick:
