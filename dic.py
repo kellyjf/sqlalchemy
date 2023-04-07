@@ -18,7 +18,7 @@ session=Session(engine)
 
 # verb - lookup key onweb and file name
 # infinitivo -infinitive form of the verb, for text output and database keys	
-def load_verb(verb):
+def load_defs(verb):
 	verbreg=True
 	category=""
 	ecats={x.text:x for x in verb.categories}
@@ -97,6 +97,6 @@ if __name__ == "__main__":
 	session.commit()
 	for verb in session.query(Verb).filter(not_(Verb.id.like('*%'))).all():
 			print(f"Defs for {verb.id}")
-			load_verb(verb)
+			load_defs(verb)
 
 

@@ -4,11 +4,12 @@
 import requests
 from lxml import html
 import sqlite3
-from schema import Statistic, Subject, Verb, Tense, Conjugation, Sentence, Rule, State, Base, init
+from schema import Synonym,Definition,Category,Statistic, Subject, Verb, Tense, Conjugation, Sentence, Rule, State, Base, init
 import os.path
 import re
+import subprocess 
 
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, not_
 engine=create_engine("sqlite:///portuguese.sqlite")
 Base.metadata.create_all(engine)
 
@@ -44,6 +45,83 @@ personmap = {
 	'vós' : '2pp',
 	'vocês' : '3pp',
 	'eles' : '3pp' }
+
+def load_ipa(verb):
+	verbreg=True
+	cmd = ['espeak', '-q', '-v', 'pt-BR', '--ipa', verb.id ]
+	p = subprocess.Popen(cmd, stdout=subprocess.PIPE)
+	p.wait()
+	verb.ipa=p.stdout.read().strip().decode('utf-8')
+	session.add(verb)
+
+def load_defs(verb):
+	verbreg=True
+	category=""
+	ecats={x.text:x for x in verb.categories}
+	if verb.id=="pôr":
+		web="por-2"
+	else:
+		web=verb.id
+		web=web.replace('ô','o')
+		web=web.replace('ç','c')
+	if not os.path.exists(f"dic/{web}.txt"):
+		r=requests.get(f"https://www.dicio.com.br/{web}/")
+		if r.status_code==200:
+			with open(f"dic/{web}.txt","wb") as fd:
+				fd.write(r.content)
+
+	with open(f"dic/{web}.txt","rb") as fd:
+		tree=html.fromstring(fd.read())
+		parts=tree.xpath("//p[@class='adicional']")
+		for part in parts:
+			re1=re.search("Classe gramatical:\s*(.*)\n",part.text_content())
+			if re1:
+				cat=re1.group(1).replace(" e verbo",", verbo")
+				clist=cat.split(",")
+				
+				for cat in clist:
+					text=" ".join(cat.strip().split(" ")[1:])
+					session.add(Category(verb_id=verb.id, text=text))
+		parts=tree.xpath("//span[@class='cl']")
+		for part in parts:
+			cat=part.text_content()
+			if cat:
+				cat=cat.replace("verbo ","")
+				cat=cat.replace("substantivo ","")
+				cat=cat.replace(" e ",", ").strip()
+				for ctype in cat.split(","):
+					ctype=ctype.strip()
+#					print("CAT",verb.id,ctype)
+					if ctype in ecats:
+						rescat=ecats.get(ctype)
+					else:
+						rescat=Category(verb_id=verb.id,text=ctype)
+						session.add(rescat)
+						session.commit()
+			part=part.getnext()
+			while part is not None  and 'class' not in part.attrib:
+				content=part.text_content()
+				if ":" in content:
+					[define,example]=content.split(":")[0:2]
+				else:
+					[define,example]=[content,""]
+				define=define.strip()
+				example=example.strip()
+				session.add(Definition(category_id=rescat.id,text=define,example=example))
+
+				part=part.getnext()
+
+		parts=tree.xpath(".//p[@class='adicional sinonimos']")
+		contr=True
+		for part in parts:
+			contr = not contr
+			cat=part.text_content()
+			sparts=part.xpath(".//a")
+			for tgt in sparts:
+				session.add(Synonym(verb_id=verb.id,related_id=tgt.text_content(),contrary=contr))
+
+	session.commit()			
+
 
 # verb - lookup key onweb and file name
 # infinitivo -infinitive form of the verb, for text output and database keys	
@@ -121,7 +199,12 @@ def load_verb(verb, infinitivo=""):
 					person=personmap.get(pid,"False")
 					if person:
 						session.add(Conjugation(verb_id=verb, tense_id=tkey, person=person, text=text))
-		session.add(Verb(id=verb, regular=verbreg, gerund=gerund, past_part=past_part))
+		resverb=Verb(id=verb, regular=verbreg, gerund=gerund, past_part=past_part)
+		session.add(resverb)
+		session.commit()
+		load_defs(resverb)
+		load_ipa(resverb)
+		session.commit()
 
 def load_db():
 
@@ -291,7 +374,6 @@ def load_db():
 	with open("verbs.txt","r") as file:
 		for verb in file.readlines():
 			verb=verb.strip()
-			print("Loading ",verb)
 			load_verb(verb)
 			session.commit()
 
@@ -322,10 +404,27 @@ if __name__ == "__main__":
 	parser=ap()
 	parser.add_argument("--rules-only","-r", action="store_true", help="Only load sentence templates")
 	parser.add_argument("--quick","-q", action="store_true", help="Only load sentence templates")
+	parser.add_argument("--verbs","-v", nargs='*', action='store',  help="Add named verbs")
 	args=parser.parse_args()
 
-	if args.rules_only:
-		load_rules()
+	if args.verbs:
+		for verbid in args.verbs:
+			verb=session.query(Verb).filter(Verb.id==verbid).first()
+			if verb:
+				for syn in verb.synonyms:
+					session.delete(syn)
+				for conj in verb.conjugations:
+					session.delete(conj)
+				for cat in verb.categories:
+					for defn in cat.definitions:
+						session.delete(defn)
+					session.delete(cat)
+				session.delete(verb)
+				session.commit()
+	
+			load_verb(verbid)
+			session.commit()
+
 	else:
 		load_db()
 		load_rules()

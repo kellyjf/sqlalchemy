@@ -128,6 +128,9 @@ Verb.synonyms = relationship("Synonym", back_populates="verb")
 Category.verb = relationship("Verb", back_populates="categories")
 Verb.categories = relationship("Category", back_populates="verb")
 
+Category.definitions = relationship("Definition", back_populates="category")
+Definition.category = relationship("Category", back_populates="definitions")
+
 Conjugation.verb = relationship("Verb", back_populates="conjugations")
 Verb.conjugations = relationship("Conjugation", back_populates="verb")
 

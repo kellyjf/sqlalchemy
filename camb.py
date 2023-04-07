@@ -19,7 +19,7 @@ session=Session(engine)
 
 # verb - lookup key onweb and file name
 # infinitivo -infinitive form of the verb, for text output and database keys	
-def load_verb(verb):
+def load_ipa(verb):
 	verbreg=True
 	cmd = ['espeak', '-q', '-v', 'pt-BR', '--ipa', verb.id ]
 	p = subprocess.Popen(cmd, stdout=subprocess.PIPE)
@@ -40,6 +40,6 @@ if __name__ == "__main__":
 	#for verb in session.query(Verb).filter(not_(Verb.id.like('*%'))).all():
 	for verb in session.query(Verb).all():
 			print(f"IPA for {verb.id}")
-			load_verb(verb)
+			load_ipa(verb)
 
 
