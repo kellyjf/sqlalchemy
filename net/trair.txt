@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="ISO-8859-1"/>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Conjugação do Verbo Trair - Conjugação de Verbos</title>
+    <meta name="description" content="Verbo Trair. Conjugação de trair em todos os tempos verbais; presente, passado e futuro. Indicativo: traio, trais, trai, traímos, traís, traem"/>
+    <link href="https://static.conjugacao.com.br/assets/style_046.css" rel="stylesheet" type="text/css"/>
+    <link rel="alternate" type="application/rss+xml" title="RSS feed do Conjugação de Verbos" href="/rss.php"/>
+    <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,700' rel='stylesheet' type='text/css'/>
+    <link rel="canonical" href="https://www.conjugacao.com.br/verbo-trair/" />
+
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#52B243">
+    <meta name="msapplication-TileImage" content="https://static.conjugacao.com.br/mstile-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <meta property="fb:app_id" content="1610599232545800"/>
+    <meta property="og:title" content="Conjugação do Verbo Trair - Conjugação de Verbos"/>
+    <meta property="og:url" content="https://www.conjugacao.com.br/verbo-trair/"/>
+    <meta property="og:image" content="https://static.conjugacao.com.br/assets/img/conjugacao_logo.png"/>
+    <meta property="og:site_name" content="Conjugação"/>
+    <meta property="og:description" content="Verbo Trair. Conjugação de trair em todos os tempos verbais; presente, passado e futuro. Indicativo: traio, trais, trai, traímos, traís, traem"/>
+
+            <meta property="og:type" content="article"/><script async defer src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script>var googletag=window.googletag||{cmd:[]};if(window.localStorage && !window.localStorage.getItem("sg_gpt_event")){window.localStorage.setItem("sg_gpt_event",Math.floor((Math.random()*100)+1)<=10?1:0);}</script>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N69S8WJ');</script>
+</head>
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N69S8WJ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>
+            var _comscore = _comscore || [];
+            _comscore.push({ c1: "2", c2: "21145335" });
+            _comscore.push({ c1: "8", c2: "21145335" ,c3: "1111" });
+            (function() {
+                    
+                if (!("localStorage" in window)) {
+                  window.localStorage = {
+                    _data: {},
+                    setItem: function(id, val) { return this._data[id] = String(val) },
+                    getItem: function(id) { return this._data.hasOwnProperty(id) ? this._data[id] : null }
+                  }
+                }
+            
+                var loadScript = function(){
+                    if(eu == "0") {
+                        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+                        s.async = true;
+                        s.src = "https://sb.scorecardresearch.com/beacon.js";
+                        el.parentNode.insertBefore(s, el);
+                    }
+                };
+            
+                var eu = localStorage.getItem("sg_eu");
+            
+                if(eu === null) {
+                    var request = new XMLHttpRequest();
+                    request.open("GET", window.location.protocol + "//eu.7gra.us/", true);
+                    request.onreadystatechange = function() {
+                      if (this.readyState === 4 && this.status === 200) {
+                         eu = this.responseText;
+                         localStorage.setItem("sg_eu", eu)
+                         loadScript();
+                      }
+                    };
+                    request.send();
+            
+                }
+            
+                loadScript();
+                    
+            })();
+            </script><div id="wrapper" class="container">
+    <div id="header" class="row">
+        <div class="col-xs-12 col-sm-6">
+            <div id="logo"><a href="/">conjugação<span>.com.br</span></a></div>
+            <div id="slogan"><a href="/">Conjugação de Verbos em Português</a></div>
+        </div>
+
+        <div class="col-xs-12 col-sm-6" id="search">
+                    <form action="/search.php" id="searchForm" method="get">
+                <input id="q" name="q" type="text" value="trair" autofocus />
+                <input type="submit" value="conjugar" id="botao" />
+            </form>
+            <script type="text/javascript">
+                var textbox = document.getElementById('q');
+                textbox.focus();
+                textbox.select();
+            </script>
+                </div>
+
+    </div>
+
+    
+    <div id="page" class="row flex-sticky-wrap">
+        <div id="content" class="col-xs-12 col-sm-12">
+<h1 class='nmt'>Verbo Trair</h1>
+<div class="row">
+    <div class="col-xs-12 col-sm-9 col-md-10">
+
+        
+                    <div class="info-v">
+                
+                
+                <p>
+                    <strong>Gerúndio</strong>: <span><span></span><span class="f">traindo</span></span>                    <br><strong>Particípio passado</strong>: <span><span></span><span class="f">traído</span></span>                    <br><strong>Infinitivo</strong>: trair                </p>
+
+                <p class="secondary">Tipo de verbo: irregular<br/>
+                    Transitividade: pronominal e  transitivo<br/>                    Separação silábica: tra-<u>ir</u><br/>                </p>
+
+
+                            </div>
+            </div>
+            <div class="col-xs-12 col-sm-3 col-md-2 palavra-sidebar">
+            <div class="ad ad-palavra-sidebar">
+                <div id="div-gpt-sg-5c2b0f112805f430f41f0d68e53c154c" class="ad-unit ad-unit--pt-br"></div>            </div>
+        </div>
+    </div>
+
+
+
+    <div id="conjugacao" class="row">
+
+        <div class="col-xs-12 col-sm-9 col-md-10">
+                            <div class="tempos">
+                    <h3 class="modoconjuga">Indicativo</h3>
+                    <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>eu</span><span class="f irregular">traio</span></span></br><span><span>tu</span><span class="f irregular">trais</span></span></br><span><span>ele</span><span class="f irregular">trai</span></span></br><span><span>nós</span><span class="f irregular">traímos</span></span></br><span><span>vós</span><span class="f irregular">traís</span></span></br><span><span>eles</span><span class="f">traem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>eu</span><span class="f irregular">traía</span></span></br><span><span>tu</span><span class="f irregular">traías</span></span></br><span><span>ele</span><span class="f irregular">traía</span></span></br><span><span>nós</span><span class="f">traíamos</span></span></br><span><span>vós</span><span class="f">traíeis</span></span></br><span><span>eles</span><span class="f irregular">traíam</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f irregular">traí</span></span></br><span><span>tu</span><span class="f irregular">traíste</span></span></br><span><span>ele</span><span class="f">traiu</span></span></br><span><span>nós</span><span class="f irregular">traímos</span></span></br><span><span>vós</span><span class="f irregular">traístes</span></span></br><span><span>eles</span><span class="f irregular">traíram</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Mais-que-perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f irregular">traíra</span></span></br><span><span>tu</span><span class="f irregular">traíras</span></span></br><span><span>ele</span><span class="f irregular">traíra</span></span></br><span><span>nós</span><span class="f">traíramos</span></span></br><span><span>vós</span><span class="f">traíreis</span></span></br><span><span>eles</span><span class="f irregular">traíram</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">trairei</span></span></br><span><span>tu</span><span class="f">trairás</span></span></br><span><span>ele</span><span class="f">trairá</span></span></br><span><span>nós</span><span class="f">trairemos</span></span></br><span><span>vós</span><span class="f">traireis</span></span></br><span><span>eles</span><span class="f">trairão</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Pretérito</h4>
+                        <p><span><span><span>eu</span><span class="f">trairia</span></span></br><span><span>tu</span><span class="f">trairias</span></span></br><span><span>ele</span><span class="f">trairia</span></span></br><span><span>nós</span><span class="f">trairíamos</span></span></br><span><span>vós</span><span class="f">trairíeis</span></span></br><span><span>eles</span><span class="f">trairiam</span></span></br></span></p></div>                </div>
+                    </div>
+
+        <div class="col-xs-12 col-sm-9 col-md-10">
+                            <div class="tempos">
+                    <h3 class="modoconjuga">Subjuntivo</h3>
+                    <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>que eu</span> <span class="f irregular">traia</span></span></br><span><span>que tu</span> <span class="f irregular">traias</span></span></br><span><span>que ele</span> <span class="f irregular">traia</span></span></br><span><span>que nós</span> <span class="f irregular">traiamos</span></span></br><span><span>que vós</span> <span class="f irregular">traiais</span></span></br><span><span>que eles</span> <span class="f irregular">traiam</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>se eu</span> <span class="f irregular">traísse</span></span></br><span><span>se tu</span> <span class="f irregular">traísses</span></span></br><span><span>se ele</span> <span class="f irregular">traísse</span></span></br><span><span>se nós</span> <span class="f">traíssemos</span></span></br><span><span>se vós</span> <span class="f">traísseis</span></span></br><span><span>se eles</span> <span class="f irregular">traíssem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro</h4>
+                        <p><span><span><span>quando eu</span> <span class="f">trair</span></span></br><span><span>quando tu</span> <span class="f irregular">traíres</span></span></br><span><span>quando ele</span> <span class="f">trair</span></span></br><span><span>quando nós</span> <span class="f">trairmos</span></span></br><span><span>quando vós</span> <span class="f">trairdes</span></span></br><span><span>quando eles</span> <span class="f irregular">traírem</span></span></br></span></p></div>                </div>
+                            <div class="tempos cols2">
+                    <h3 class="modoconjuga">Imperativo</h3>
+                    <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Afirmativo</h4>
+                        <p><span><span>--</span></br><span><span class="f irregular">trai</span> <span>tu</span></span></br><span><span class="f irregular">traia</span> <span>você</span></span></br><span><span class="f irregular">traiamos</span> <span>nós</span></span></br><span><span class="f irregular">traí</span> <span>vós</span></span></br><span><span class="f irregular">traiam</span> <span>vocês</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Negativo</h4>
+                        <p><span><span>--</span></br><span><span>não</span> <span class="f irregular">traias</span> <span>tu</span></span></br><span><span>não</span> <span class="f irregular">traia</span> <span>você</span></span></br><span><span>não</span> <span class="f irregular">traiamos</span> <span>nós</span></span></br><span><span>não</span> <span class="f irregular">traiais</span> <span>vós</span></span></br><span><span>não</span> <span class="f irregular">traiam</span> <span>vocês</span></span></br></span></p></div>                </div>
+                            <div class="tempos cols1">
+                    <h3 class="modoconjuga">Infinitivo</h3>
+                    <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Infinitivo Pessoal</h4>
+                        <p><span><span><span>por</span> <span class="f">trair</span> <span>eu</span></span></br><span><span>por</span> <span class="f irregular">traíres</span> <span>tu</span></span></br><span><span>por</span> <span class="f">trair</span> <span>ele</span></span></br><span><span>por</span> <span class="f">trairmos</span> <span>nós</span></span></br><span><span>por</span> <span class="f">trairdes</span> <span>vós</span></span></br><span><span>por</span> <span class="f irregular">traírem</span> <span>eles</span></span></br></span></p></div>                </div>
+                    </div>
+    </div>
+
+            <div class="legenda"><span>*</span> As formas verbais destacadas são formas irregulares ou formas regulares que apresentam alguma particularidade gráfica.</div>
+                <div class="row">
+                <div class="col-xs-12 col-sm-9 col-md-10">
+                    <div class="ad ad-palavra-middle">
+                        <div id="div-gpt-sg-f8ca454fb5a796542db0151b864a3311" class="ad-unit ad-unit--pt-br"></div>                    </div>
+                </div>
+            </div>
+            <h2 class="pronominal-titulo">Conjugação com pronome oblíquo átono o</h2>
+
+                            <div class="info-v">
+                    <p><strong>Gerúndio:</strong> <span><span></span><span class="f">traindo-o</span></span></p>
+                </div>
+            
+            <div id="conjugacao-pronominal" class="row">
+                <div class="col-xs-12 col-sm-9 col-md-10">
+
+                                            <div class="tempos">
+                            <h3 class="modo">Indicativo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">traio-o</span></span></br><span><span>tu</span><span class="f">trai-lo</span></span></br><span><span>ele</span><span class="f">trai-o</span></span></br><span><span>nós</span><span class="f">traímo-lo</span></span></br><span><span>vós</span><span class="f">traí-lo</span></span></br><span><span>eles</span><span class="f">traem-no</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">traía-o</span></span></br><span><span>tu</span><span class="f">traía-lo</span></span></br><span><span>ele</span><span class="f">traía-o</span></span></br><span><span>nós</span><span class="f">traíamo-lo</span></span></br><span><span>vós</span><span class="f">traíei-lo</span></span></br><span><span>eles</span><span class="f">traíam-no</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">traí-o</span></span></br><span><span>tu</span><span class="f">traíste-o</span></span></br><span><span>ele</span><span class="f">traiu-o</span></span></br><span><span>nós</span><span class="f">traímo-lo</span></span></br><span><span>vós</span><span class="f">traíste-lo</span></span></br><span><span>eles</span><span class="f">traíram-no</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Mais-que-perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">traíra-o</span></span></br><span><span>tu</span><span class="f">traíra-lo</span></span></br><span><span>ele</span><span class="f">traíra-o</span></span></br><span><span>nós</span><span class="f">traíramo-lo</span></span></br><span><span>vós</span><span class="f">traírei-lo</span></span></br><span><span>eles</span><span class="f">traíram-no</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">traí-lo-ei</span></span></br><span><span>tu</span><span class="f">traí-lo-ás</span></span></br><span><span>ele</span><span class="f">traí-lo-á</span></span></br><span><span>nós</span><span class="f">traí-lo-emos</span></span></br><span><span>vós</span><span class="f">traí-lo-eis</span></span></br><span><span>eles</span><span class="f">traí-lo-ão</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Pretérito</h4>
+                        <p><span><span><span>eu</span><span class="f">traí-lo-ia</span></span></br><span><span>tu</span><span class="f">traí-lo-ias</span></span></br><span><span>ele</span><span class="f">traí-lo-ia</span></span></br><span><span>nós</span><span class="f">traí-lo-íamos</span></span></br><span><span>vós</span><span class="f">traí-lo-íeis</span></span></br><span><span>eles</span><span class="f">traí-lo-iam</span></span></br></span></p></div>                        </div>
+                    
+                </div>
+                <div class="col-xs-12 col-sm-9 col-md-10">
+
+                                            <div class="tempos">
+                            <h3 class="modo">Subjuntivo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>que eu o</span> <span class="f">traia</span></span></br><span><span>que tu o</span> <span class="f">traias</span></span></br><span><span>que ele o</span> <span class="f">traia</span></span></br><span><span>que nós o</span> <span class="f">traiamos</span></span></br><span><span>que vós o</span> <span class="f">traiais</span></span></br><span><span>que eles o</span> <span class="f">traiam</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>se eu o</span> <span class="f">traísse</span></span></br><span><span>se tu o</span> <span class="f">traísses</span></span></br><span><span>se ele o</span> <span class="f">traísse</span></span></br><span><span>se nós o</span> <span class="f">traíssemos</span></span></br><span><span>se vós o</span> <span class="f">traísseis</span></span></br><span><span>se eles o</span> <span class="f">traíssem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro</h4>
+                        <p><span><span><span>quando eu o</span> <span class="f">trair</span></span></br><span><span>quando tu o</span> <span class="f">traíres</span></span></br><span><span>quando ele o</span> <span class="f">trair</span></span></br><span><span>quando nós o</span> <span class="f">trairmos</span></span></br><span><span>quando vós o</span> <span class="f">trairdes</span></span></br><span><span>quando eles o</span> <span class="f">traírem</span></span></br></span></p></div>                        </div>
+                    
+                                            <div class="tempos cols2">
+                            <h3 class="modo">Imperativo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Afirmativo</h4>
+                        <p><span><span>--</span></br><span><span class="f">trai-o</span> <span>tu</span></span></br><span><span class="f">traia-o</span> <span>você</span></span></br><span><span class="f">traiamo-lo</span> <span>nós</span></span></br><span><span class="f">traí-o</span> <span>vós</span></span></br><span><span class="f">traiam-no</span> <span>vocês</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Negativo</h4>
+                        <p><span><span>--</span></br><span><span>não o</span> <span class="f">traias</span> <span>tu</span></span></br><span><span>não o</span> <span class="f">traia</span> <span>você</span></span></br><span><span>não o</span> <span class="f">traiamos</span> <span>nós</span></span></br><span><span>não o</span> <span class="f">traiais</span> <span>vós</span></span></br><span><span>não o</span> <span class="f">traiam</span> <span>vocês</span></span></br></span></p></div>                        </div>
+                    
+                                            <div class="tempos cols1">
+                            <h3 class="modo">Infinitivo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Infinitivo Pessoal</h4>
+                        <p><span><span><span>por o</span> <span class="f">trair</span> <span>eu</span></span></br><span><span>por o</span> <span class="f">traíres</span> <span>tu</span></span></br><span><span>por o</span> <span class="f">trair</span> <span>ele</span></span></br><span><span>por o</span> <span class="f">trairmos</span> <span>nós</span></span></br><span><span>por o</span> <span class="f">trairdes</span> <span>vós</span></span></br><span><span>por o</span> <span class="f">traírem</span> <span>eles</span></span></br></span></p></div>                        </div>
+                    
+                </div>
+            </div>
+            <h2 class="pronominal-titulo">Conjugação pronominal</h2>
+
+                            <div class="info-v">
+                    <p><strong>Gerúndio:</strong> <span><span></span><span class="f">traindo-se</span></span></p>
+                </div>
+            
+            <div id="conjugacao-pronominal-reflexa" class="row">
+                <div class="col-xs-12 col-sm-9 col-md-10">
+
+                                            <div class="tempos">
+                            <h3 class="modo">Indicativo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">traio-me</span></span></br><span><span>tu</span><span class="f">trais-te</span></span></br><span><span>ele</span><span class="f">trai-se</span></span></br><span><span>nós</span><span class="f">traímo-nos</span></span></br><span><span>vós</span><span class="f">traís-vos</span></span></br><span><span>eles</span><span class="f">traem-se</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">traía-me</span></span></br><span><span>tu</span><span class="f">traías-te</span></span></br><span><span>ele</span><span class="f">traía-se</span></span></br><span><span>nós</span><span class="f">traíamo-nos</span></span></br><span><span>vós</span><span class="f">traíeis-vos</span></span></br><span><span>eles</span><span class="f">traíam-se</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">traí-me</span></span></br><span><span>tu</span><span class="f">traíste-te</span></span></br><span><span>ele</span><span class="f">traiu-se</span></span></br><span><span>nós</span><span class="f">traímo-nos</span></span></br><span><span>vós</span><span class="f">traístes-vos</span></span></br><span><span>eles</span><span class="f">traíram-se</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Mais-que-perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">traíra-me</span></span></br><span><span>tu</span><span class="f">traíras-te</span></span></br><span><span>ele</span><span class="f">traíra-se</span></span></br><span><span>nós</span><span class="f">traíramo-nos</span></span></br><span><span>vós</span><span class="f">traíreis-vos</span></span></br><span><span>eles</span><span class="f">traíram-se</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">trair-me-ei</span></span></br><span><span>tu</span><span class="f">trair-te-ás</span></span></br><span><span>ele</span><span class="f">trair-se-á</span></span></br><span><span>nós</span><span class="f">trair-nos-emos</span></span></br><span><span>vós</span><span class="f">trair-vos-eis</span></span></br><span><span>eles</span><span class="f">trair-se-ão</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Pretérito</h4>
+                        <p><span><span><span>eu</span><span class="f">trair-me-ia</span></span></br><span><span>tu</span><span class="f">trair-te-ias</span></span></br><span><span>ele</span><span class="f">trair-se-ia</span></span></br><span><span>nós</span><span class="f">trair-nos-íamos</span></span></br><span><span>vós</span><span class="f">trair-vos-íeis</span></span></br><span><span>eles</span><span class="f">trair-se-iam</span></span></br></span></p></div>                        </div>
+                    
+                </div>
+                <div class="col-xs-12 col-sm-9 col-md-10">
+
+                                            <div class="tempos">
+                            <h3 class="modo">Subjuntivo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>que eu me</span> <span class="f">traia</span></span></br><span><span>que tu te</span> <span class="f">traias</span></span></br><span><span>que ele se</span> <span class="f">traia</span></span></br><span><span>que nós nos</span> <span class="f">traiamos</span></span></br><span><span>que vós vos</span> <span class="f">traiais</span></span></br><span><span>que eles se</span> <span class="f">traiam</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>se eu me</span> <span class="f">traísse</span></span></br><span><span>se tu te</span> <span class="f">traísses</span></span></br><span><span>se ele se</span> <span class="f">traísse</span></span></br><span><span>se nós nos</span> <span class="f">traíssemos</span></span></br><span><span>se vós vos</span> <span class="f">traísseis</span></span></br><span><span>se eles se</span> <span class="f">traíssem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro</h4>
+                        <p><span><span><span>quando eu me</span> <span class="f">trair</span></span></br><span><span>quando tu te</span> <span class="f">traíres</span></span></br><span><span>quando ele se</span> <span class="f">trair</span></span></br><span><span>quando nós nos</span> <span class="f">trairmos</span></span></br><span><span>quando vós vos</span> <span class="f">trairdes</span></span></br><span><span>quando eles se</span> <span class="f">traírem</span></span></br></span></p></div>                        </div>
+                    
+                                            <div class="tempos cols2">
+                            <h3 class="modo">Imperativo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Afirmativo</h4>
+                        <p><span><span>--</span></br><span><span class="f">trai-te</span> <span>tu</span></span></br><span><span class="f">traia-se</span> <span>você</span></span></br><span><span class="f">traiamo-nos</span> <span>nós</span></span></br><span><span class="f">traí-vos</span> <span>vós</span></span></br><span><span class="f">traiam-se</span> <span>vocês</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Negativo</h4>
+                        <p><span><span>--</span></br><span><span>não te</span> <span class="f">traias</span> <span>tu</span></span></br><span><span>não se</span> <span class="f">traia</span> <span>você</span></span></br><span><span>não nos</span> <span class="f">traiamos</span> <span>nós</span></span></br><span><span>não vos</span> <span class="f">traiais</span> <span>vós</span></span></br><span><span>não se</span> <span class="f">traiam</span> <span>vocês</span></span></br></span></p></div>                        </div>
+                    
+                                            <div class="tempos cols1">
+                            <h3 class="modo">Infinitivo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Infinitivo Pessoal</h4>
+                        <p><span><span><span class="f">trair-me</span> <span>eu</span></span></br><span><span class="f">traíres-te</span> <span>tu</span></span></br><span><span class="f">trair-se</span> <span>ele</span></span></br><span><span class="f">trairmo-nos</span> <span>nós</span></span></br><span><span class="f">trairdes-vos</span> <span>vós</span></span></br><span><span class="f">traírem-se</span> <span>eles</span></span></br></span></p></div>                        </div>
+                    
+                </div>
+            </div>
+<div class="tempo2">Verbos relacionados com trair</div><div class="wrapper"><ul><li><a href="/verbo-entregar/">entregar</a></li><li><a href="/verbo-enganar/">enganar</a></li><li><a href="/verbo-iludir/">iludir</a></li><li><a href="/verbo-denunciar/">denunciar</a></li><li><a href="/verbo-revelar/">revelar</a></li><li><a href="/verbo-manifestar/">manifestar</a></li><li><a href="/verbo-equivocar/">equivocar</a></li><li><a href="/verbo-ludibriar/">ludibriar</a></li><li><a href="/verbo-delatar/">delatar</a></li><li><a href="/verbo-atraicoar/">atraiçoar</a></li></ul></div>
+<div class="wrapper">
+<div class="tempo2">Saiba mais sobre os verbos</div>
+    <ul>
+        <li><a href="/verbos-regulares/">Verbos regulares</a></li>
+        <li><a href="/verbos-irregulares-no-portugues/">Verbos irregulares</a></li>
+        <li><a href="/tempos-verbais/">Tempos verbais</a></li>
+        <li><a href="/formas-verbais/">Formas verbais</a></li>
+        <li><a href="/verbos-no-infinitivo/">Verbos no infinitivo</a></li>
+        <li><a href="/verbos-intransitivos/">Verbos intransitivos</a></li>
+        <li><a href="/verbos-transitivos-indiretos/">Verbos transitivos indiretos</a></li>
+        <li><a href="/regencia-verbal-e-nominal/">Regência verbal e nominal</a></li>
+    </ul>
+</div>
+
+<script type="text/javascript">
+    function hit (){
+        conjugacao.hits("palavra", "trair");
+            }
+    document.addEventListener('articleInitiated', hit, false);
+</script>
+
+<div id='ligacoes'> <span>&laquo;</span> <a href="/verbo-traguear/" title="verbo traguear">traguear</a>  <span>&laquo;</span> <a href="/verbo-trainar/" title="verbo trainar">trainar</a>  <span>&laquo;</span>  <b>trair</b>  <span>&raquo;</span>  <a href="/verbo-trajar/" title="verbo trajar">trajar</a> <span>&raquo;</span>  <a href="/verbo-traladar/" title="verbo traladar">traladar</a> <span>&raquo;</span> </div>
+    </div>
+        <div style="clear: both;"></div>
+    <div class="w100">
+        <div id="div-gpt-sg-04deeb8d03fa3ecdd6cb45adae939467" class="ad-unit ad-unit--pt-br"></div>    </div>
+</div>
+<div id="footer" class="row">
+    <div id="menuLinks" class="flinks col-sm-12">
+        <a href="/contato.php?a=e">Encontrou um erro?</a>
+        <span> | </span>
+        <a href="/verbos-populares/">Lista de verbos</a>
+        <span> | </span>
+        <a href="/verbos-regulares/">Verbos regulares</a>
+        <span> | </span>
+        <a href="/verbos-irregulares-no-portugues/">Verbos irregulares</a>
+        <span> | </span>
+        <a href="/artigos/">Tudo sobre verbos</a>
+        <span> | </span>
+        <a href="/contato.php?a=s">Sugerir verbos</a>
+        <span> | </span>
+        <a href="/sobre.html">Sobre</a>
+        <span> | </span>
+        <a href="/politica-privacidade.html">Privacidade</a>
+        <span> | </span>
+        <a href="/contato.php">Contato</a>
+    </div>
+    <a href="#" onclick="footerMenuClick();return false;" class="show-menu pull-left visible-xs col-xs-1"></a>
+    <div id="about" class="col-sm-12 col-xs-10">
+        <p>Copyright &copy; 2011-2023 <a href="https://www.7graus.com/" rel="nofollow co-worker">7Graus</a> <span class="hidden-xs">- <strong>Conjugação.com.br</strong>: <a href="/">conjugação de verbos</a> da língua portuguesa é parte do <a href="https://www.dicio.com.br/" rel="nofollow co-worker">Dicio.com.br</a></span></p>
+    </div>
+</div>
+</div>
+
+<script>(function(){var s0;var s1;var s2;googletag.cmd.push(function(){googletag.pubads().enableLazyLoad({"fetchMarginPercent":500,"renderMarginPercent":200,"mobileScaling":2});googletag.pubads().disableInitialLoad();googletag.enableServices();var sm0=googletag.sizeMapping().addSize([0,0],[]).addSize([768,0],[[160,600],[120,600]]).build(),sm1=googletag.sizeMapping().addSize([0,0],[]).addSize([270,0],[[250,250]]).addSize([320,0],[[300,250],[250,250]]).addSize([356,0],[[336,280],[300,250],[250,250]]).build(),sm2=googletag.sizeMapping().addSize([0,0],[]).addSize([300,0],[[300,250],[250,250]]).addSize([336,0],[[336,280],[300,250],[250,250]]).addSize([468,0],[[468,60],[336,280],[300,250],[250,250]]).addSize([728,0],[[728,90],[468,60],[336,280],[300,250],[250,250]]).addSize([970,0],[[970,90],[728,90],[468,60],[336,280],[300,250],[250,250]]).build();var ss0=[[160,600],[120,600]],ss1=[[336,280],[300,250],[250,250]],ss2=[[970,90],[728,90],[468,60],[336,280],[300,250],[250,250]];s0=googletag.defineSlot('/1062898/conjugacao_verbo_sidebar',ss0,'div-gpt-sg-5c2b0f112805f430f41f0d68e53c154c').defineSizeMapping(sm0).addService(googletag.pubads()),s1=googletag.defineSlot('/1062898/conjugacao_verbo_mrec',ss1,'div-gpt-sg-f8ca454fb5a796542db0151b864a3311').defineSizeMapping(sm1).addService(googletag.pubads()),s2=googletag.defineSlot('/1062898/conjugacao_bottom_ros',ss2,'div-gpt-sg-04deeb8d03fa3ecdd6cb45adae939467').defineSizeMapping(sm2).addService(googletag.pubads());var slots=[s0,s1,s2];slots.forEach(function(s){googletag.display(s.getSlotElementId())});googletag.pubads().refresh(slots);var gae=function(e,s){if(!window.localStorage || window.localStorage.getItem("sg_gpt_event")!=="1")return;if(typeof gtag!=="undefined"){gtag("event",e,{event_category:"Sg_GPT",event_label:s.getAdUnitPath(),non_interaction:true})}else if(typeof ga!=="undefined")ga("send","event","Sg_GPT",e,s.getAdUnitPath(),0,{nonInteraction:true})};googletag.pubads().addEventListener("impressionViewable",function(e){gae("ImpressionViewable",e.slot)});googletag.pubads().addEventListener("slotRenderEnded",function(e){gae("SlotRenderEnded",e.slot)});window.Sg_GPT_get_slots=function(){return slots};});googletag.cmd.push(function(){!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q('i',arguments)},fetchBids:function(){q('f',arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}('apstag',window,document,'script','//c.amazon-adsystem.com/aax2/apstag.js');
+            apstag.init({pubID: '031d2526-e3d7-48d3-94fd-8cec14da13e5',adServer: 'googletag', simplerGPT: true});
+            apstag.fetchBids({slots: [s0,s1,s2], timeout: 2000},
+            function(bids) {
+                googletag.cmd.push(function(){
+                    apstag.setDisplayBids();
+                    googletag.pubads().refresh([s0,s1,s2]);
+                });
+            });
+            });})()</script>
+<script type="text/javascript">
+    function footerMenuClick() {
+        var elem = document.getElementById("menuLinks");
+        if(hasClass(elem, "visible")) {
+            elem.className = elem.className.replace(" visible", "");
+            elem.className = elem.className.replace("visible", "");
+        } else {
+            elem.className += elem.className ? ' visible' : 'visible';
+        }
+        window.scrollTo(0,document.body.scrollHeight);
+    }
+    function hasClass(element, cls) {
+        return (' ' + element.className + ' ').indexOf(' ' + cls + ' ') > -1;
+    }
+
+    
+</script>
+
+<script type="text/javascript" src="https://static.conjugacao.com.br/assets/foscript_046.js" async></script>
+
+
+                    <script>
+                        (function() {
+
+                            var loadBar = function(isEu) {
+                                if(isEu) {
+                                    var s = document.createElement("script")
+                                    var el = document.getElementsByTagName("script")[0];
+                                    s.src = "https://7gra.us/consentbar/consent-bar.min.js?v=8";
+                                    el.parentNode.insertBefore(s, el);
+
+                                    var iterator = 0;
+                                    var initConsentBar = setInterval(function() {
+                                       if (typeof window.ConsentBar !== "undefined" || iterator++ > 100) {
+                                        clearInterval(initConsentBar);
+                                         window.consentBar = new ConsentBar({"enable":true,"blocking":false,"language":"pt","privacy_page":"\/politica-privacidade.html"});
+                                         window.consentBar.showBar();
+                                       }
+                                    }, 100);
+                                }
+                            }
+
+                            window[window.attachEvent ? "attachEvent" : "addEventListener"](window.attachEvent ? "onload" : "load", function() {
+                                var eu = localStorage.getItem("sg_eu");
+                                var btn = document.getElementsByClassName("cookies_manager");
+                                if(btn.length > 0) {
+                                    var btnStyle = "color:#286fb0; text-decoration: underline; cursor: pointer";
+                                    btn[0].style.cssText = btnStyle;
+                                }
+
+                                if(eu === null) {
+                                var request = new XMLHttpRequest();
+                                request.open("GET", window.location.protocol + "//eu.7gra.us/", true);
+                                request.onreadystatechange = function() {
+                                  if (this.readyState === 4 && this.status === 200) {
+                                     eu = this.responseText;
+                                     localStorage.setItem("sg_eu", eu);
+
+                                     loadBar(eu == "1");
+                                  }
+                                };
+                                    request.send();
+                                }else {
+                                    loadBar(eu == "1");
+                                }
+
+                                var iterator = 0;
+                                var isConsentBarRunning = setInterval(function() {
+                                    if (typeof window.ConsentBar !== "undefined" || iterator++ > 100) {
+                                        clearInterval(isConsentBarRunning);
+
+                                        if(btn.length > 0) {
+                                            btn[0].onclick = function() {
+                                                window.consentBar.showBar(true);
+                                            }
+                                        }
+                                    }
+                                }, 100);
+                            }, false);
+                        })();
+                    </script>
+                <sg-bhof
+                    projectUrl="https://www.conjugacao.com.br"
+                    contentUrl="/verbo-trair/"
+                    backofficeUrl="https://www.conjugacao.com.br/backoffice/palavras/edit.php?id={id}"
+                    projectId="15"
+                    contentId="18926"
+                    contentData='{
+                        "datePublished":"2016-04-08 03:40:25",
+                        "dateUpdated":""
+                        }'
+                    style="display:none"
+                ></sg-bhof>    </body>
+</html>

@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="ISO-8859-1"/>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Conjugação do Verbo Refrescar - Conjugação de Verbos</title>
+    <meta name="description" content="Verbo Refrescar. Conjugação de refrescar em todos os tempos verbais; presente, passado e futuro. Indicativo: refresco, refrescas, refresca, refrescamos, refrescai ..."/>
+    <link href="https://static.conjugacao.com.br/assets/style_046.css" rel="stylesheet" type="text/css"/>
+    <link rel="alternate" type="application/rss+xml" title="RSS feed do Conjugação de Verbos" href="/rss.php"/>
+    <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,700' rel='stylesheet' type='text/css'/>
+    <link rel="canonical" href="https://www.conjugacao.com.br/verbo-refrescar/" />
+
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#52B243">
+    <meta name="msapplication-TileImage" content="https://static.conjugacao.com.br/mstile-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <meta property="fb:app_id" content="1610599232545800"/>
+    <meta property="og:title" content="Conjugação do Verbo Refrescar - Conjugação de Verbos"/>
+    <meta property="og:url" content="https://www.conjugacao.com.br/verbo-refrescar/"/>
+    <meta property="og:image" content="https://static.conjugacao.com.br/assets/img/conjugacao_logo.png"/>
+    <meta property="og:site_name" content="Conjugação"/>
+    <meta property="og:description" content="Verbo Refrescar. Conjugação de refrescar em todos os tempos verbais; presente, passado e futuro. Indicativo: refresco, refrescas, refresca, refrescamos, refrescai ..."/>
+
+            <meta property="og:type" content="article"/><script async defer src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script>var googletag=window.googletag||{cmd:[]};if(window.localStorage && !window.localStorage.getItem("sg_gpt_event")){window.localStorage.setItem("sg_gpt_event",Math.floor((Math.random()*100)+1)<=10?1:0);}</script>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N69S8WJ');</script>
+</head>
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N69S8WJ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>
+            var _comscore = _comscore || [];
+            _comscore.push({ c1: "2", c2: "21145335" });
+            _comscore.push({ c1: "8", c2: "21145335" ,c3: "1111" });
+            (function() {
+                    
+                if (!("localStorage" in window)) {
+                  window.localStorage = {
+                    _data: {},
+                    setItem: function(id, val) { return this._data[id] = String(val) },
+                    getItem: function(id) { return this._data.hasOwnProperty(id) ? this._data[id] : null }
+                  }
+                }
+            
+                var loadScript = function(){
+                    if(eu == "0") {
+                        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+                        s.async = true;
+                        s.src = "https://sb.scorecardresearch.com/beacon.js";
+                        el.parentNode.insertBefore(s, el);
+                    }
+                };
+            
+                var eu = localStorage.getItem("sg_eu");
+            
+                if(eu === null) {
+                    var request = new XMLHttpRequest();
+                    request.open("GET", window.location.protocol + "//eu.7gra.us/", true);
+                    request.onreadystatechange = function() {
+                      if (this.readyState === 4 && this.status === 200) {
+                         eu = this.responseText;
+                         localStorage.setItem("sg_eu", eu)
+                         loadScript();
+                      }
+                    };
+                    request.send();
+            
+                }
+            
+                loadScript();
+                    
+            })();
+            </script><div id="wrapper" class="container">
+    <div id="header" class="row">
+        <div class="col-xs-12 col-sm-6">
+            <div id="logo"><a href="/">conjugação<span>.com.br</span></a></div>
+            <div id="slogan"><a href="/">Conjugação de Verbos em Português</a></div>
+        </div>
+
+        <div class="col-xs-12 col-sm-6" id="search">
+                    <form action="/search.php" id="searchForm" method="get">
+                <input id="q" name="q" type="text" value="refrescar" autofocus />
+                <input type="submit" value="conjugar" id="botao" />
+            </form>
+            <script type="text/javascript">
+                var textbox = document.getElementById('q');
+                textbox.focus();
+                textbox.select();
+            </script>
+                </div>
+
+    </div>
+
+    
+    <div id="page" class="row flex-sticky-wrap">
+        <div id="content" class="col-xs-12 col-sm-12">
+<h1 class='nmt'>Verbo Refrescar</h1>
+<div class="row">
+    <div class="col-xs-12 col-sm-9 col-md-10">
+
+        
+                    <div class="info-v">
+                
+                
+                <p>
+                    <strong>Gerúndio</strong>: <span><span></span><span class="f">refrescando</span></span>                    <br><strong>Particípio passado</strong>: <span><span></span><span class="f">refrescado</span></span>                    <br><strong>Infinitivo</strong>: refrescar                </p>
+
+                <p class="secondary">Tipo de verbo: regular<br/>
+                    Transitividade: transitivo,  pronominal e  intransitivo<br/>                    Separação silábica: re-fres-<u>car</u><br/>                </p>
+
+
+                            </div>
+            </div>
+            <div class="col-xs-12 col-sm-3 col-md-2 palavra-sidebar">
+            <div class="ad ad-palavra-sidebar">
+                <div id="div-gpt-sg-5c2b0f112805f430f41f0d68e53c154c" class="ad-unit ad-unit--pt-br"></div>            </div>
+        </div>
+    </div>
+
+
+
+    <div id="conjugacao" class="row">
+
+        <div class="col-xs-12 col-sm-9 col-md-10">
+                            <div class="tempos">
+                    <h3 class="modoconjuga">Indicativo</h3>
+                    <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">refresco</span></span></br><span><span>tu</span><span class="f">refrescas</span></span></br><span><span>ele</span><span class="f">refresca</span></span></br><span><span>nós</span><span class="f">refrescamos</span></span></br><span><span>vós</span><span class="f">refrescais</span></span></br><span><span>eles</span><span class="f">refrescam</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">refrescava</span></span></br><span><span>tu</span><span class="f">refrescavas</span></span></br><span><span>ele</span><span class="f">refrescava</span></span></br><span><span>nós</span><span class="f">refrescávamos</span></span></br><span><span>vós</span><span class="f">refrescáveis</span></span></br><span><span>eles</span><span class="f">refrescavam</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f irregular">refresquei</span></span></br><span><span>tu</span><span class="f">refrescaste</span></span></br><span><span>ele</span><span class="f">refrescou</span></span></br><span><span>nós</span><span class="f">refrescamos</span></span></br><span><span>vós</span><span class="f">refrescastes</span></span></br><span><span>eles</span><span class="f">refrescaram</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Mais-que-perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">refrescara</span></span></br><span><span>tu</span><span class="f">refrescaras</span></span></br><span><span>ele</span><span class="f">refrescara</span></span></br><span><span>nós</span><span class="f">refrescáramos</span></span></br><span><span>vós</span><span class="f">refrescáreis</span></span></br><span><span>eles</span><span class="f">refrescaram</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">refrescarei</span></span></br><span><span>tu</span><span class="f">refrescarás</span></span></br><span><span>ele</span><span class="f">refrescará</span></span></br><span><span>nós</span><span class="f">refrescaremos</span></span></br><span><span>vós</span><span class="f">refrescareis</span></span></br><span><span>eles</span><span class="f">refrescarão</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Pretérito</h4>
+                        <p><span><span><span>eu</span><span class="f">refrescaria</span></span></br><span><span>tu</span><span class="f">refrescarias</span></span></br><span><span>ele</span><span class="f">refrescaria</span></span></br><span><span>nós</span><span class="f">refrescaríamos</span></span></br><span><span>vós</span><span class="f">refrescaríeis</span></span></br><span><span>eles</span><span class="f">refrescariam</span></span></br></span></p></div>                </div>
+                    </div>
+
+        <div class="col-xs-12 col-sm-9 col-md-10">
+                            <div class="tempos">
+                    <h3 class="modoconjuga">Subjuntivo</h3>
+                    <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>que eu</span> <span class="f irregular">refresque</span></span></br><span><span>que tu</span> <span class="f irregular">refresques</span></span></br><span><span>que ele</span> <span class="f irregular">refresque</span></span></br><span><span>que nós</span> <span class="f irregular">refresquemos</span></span></br><span><span>que vós</span> <span class="f irregular">refresqueis</span></span></br><span><span>que eles</span> <span class="f irregular">refresquem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>se eu</span> <span class="f">refrescasse</span></span></br><span><span>se tu</span> <span class="f">refrescasses</span></span></br><span><span>se ele</span> <span class="f">refrescasse</span></span></br><span><span>se nós</span> <span class="f">refrescássemos</span></span></br><span><span>se vós</span> <span class="f">refrescásseis</span></span></br><span><span>se eles</span> <span class="f">refrescassem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro</h4>
+                        <p><span><span><span>quando eu</span> <span class="f">refrescar</span></span></br><span><span>quando tu</span> <span class="f">refrescares</span></span></br><span><span>quando ele</span> <span class="f">refrescar</span></span></br><span><span>quando nós</span> <span class="f">refrescarmos</span></span></br><span><span>quando vós</span> <span class="f">refrescardes</span></span></br><span><span>quando eles</span> <span class="f">refrescarem</span></span></br></span></p></div>                </div>
+                            <div class="tempos cols2">
+                    <h3 class="modoconjuga">Imperativo</h3>
+                    <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Afirmativo</h4>
+                        <p><span><span>--</span></br><span><span class="f">refresca</span> <span>tu</span></span></br><span><span class="f irregular">refresque</span> <span>você</span></span></br><span><span class="f irregular">refresquemos</span> <span>nós</span></span></br><span><span class="f">refrescai</span> <span>vós</span></span></br><span><span class="f irregular">refresquem</span> <span>vocês</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Negativo</h4>
+                        <p><span><span>--</span></br><span><span>não</span> <span class="f irregular">refresques</span> <span>tu</span></span></br><span><span>não</span> <span class="f irregular">refresque</span> <span>você</span></span></br><span><span>não</span> <span class="f irregular">refresquemos</span> <span>nós</span></span></br><span><span>não</span> <span class="f irregular">refresqueis</span> <span>vós</span></span></br><span><span>não</span> <span class="f irregular">refresquem</span> <span>vocês</span></span></br></span></p></div>                </div>
+                            <div class="tempos cols1">
+                    <h3 class="modoconjuga">Infinitivo</h3>
+                    <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Infinitivo Pessoal</h4>
+                        <p><span><span><span>por</span> <span class="f">refrescar</span> <span>eu</span></span></br><span><span>por</span> <span class="f">refrescares</span> <span>tu</span></span></br><span><span>por</span> <span class="f">refrescar</span> <span>ele</span></span></br><span><span>por</span> <span class="f">refrescarmos</span> <span>nós</span></span></br><span><span>por</span> <span class="f">refrescardes</span> <span>vós</span></span></br><span><span>por</span> <span class="f">refrescarem</span> <span>eles</span></span></br></span></p></div>                </div>
+                    </div>
+    </div>
+
+            <div class="legenda"><span>*</span> As formas verbais destacadas são formas irregulares ou formas regulares que apresentam alguma particularidade gráfica.</div>
+                <div class="row">
+                <div class="col-xs-12 col-sm-9 col-md-10">
+                    <div class="ad ad-palavra-middle">
+                        <div id="div-gpt-sg-f8ca454fb5a796542db0151b864a3311" class="ad-unit ad-unit--pt-br"></div>                    </div>
+                </div>
+            </div>
+            <h2 class="pronominal-titulo">Conjugação com pronome oblíquo átono o</h2>
+
+                            <div class="info-v">
+                    <p><strong>Gerúndio:</strong> <span><span></span><span class="f">refrescando-o</span></span></p>
+                </div>
+            
+            <div id="conjugacao-pronominal" class="row">
+                <div class="col-xs-12 col-sm-9 col-md-10">
+
+                                            <div class="tempos">
+                            <h3 class="modo">Indicativo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">refresco-o</span></span></br><span><span>tu</span><span class="f">refresca-lo</span></span></br><span><span>ele</span><span class="f">refresca-o</span></span></br><span><span>nós</span><span class="f">refrescamo-lo</span></span></br><span><span>vós</span><span class="f">refrescai-lo</span></span></br><span><span>eles</span><span class="f">refrescam-no</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">refrescava-o</span></span></br><span><span>tu</span><span class="f">refrescava-lo</span></span></br><span><span>ele</span><span class="f">refrescava-o</span></span></br><span><span>nós</span><span class="f">refrescávamo-lo</span></span></br><span><span>vós</span><span class="f">refrescávei-lo</span></span></br><span><span>eles</span><span class="f">refrescavam-no</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">refresquei-o</span></span></br><span><span>tu</span><span class="f">refrescaste-o</span></span></br><span><span>ele</span><span class="f">refrescou-o</span></span></br><span><span>nós</span><span class="f">refrescamo-lo</span></span></br><span><span>vós</span><span class="f">refrescaste-lo</span></span></br><span><span>eles</span><span class="f">refrescaram-no</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Mais-que-perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">refrescara-o</span></span></br><span><span>tu</span><span class="f">refrescara-lo</span></span></br><span><span>ele</span><span class="f">refrescara-o</span></span></br><span><span>nós</span><span class="f">refrescáramo-lo</span></span></br><span><span>vós</span><span class="f">refrescárei-lo</span></span></br><span><span>eles</span><span class="f">refrescaram-no</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">refrescá-lo-ei</span></span></br><span><span>tu</span><span class="f">refrescá-lo-ás</span></span></br><span><span>ele</span><span class="f">refrescá-lo-á</span></span></br><span><span>nós</span><span class="f">refrescá-lo-emos</span></span></br><span><span>vós</span><span class="f">refrescá-lo-eis</span></span></br><span><span>eles</span><span class="f">refrescá-lo-ão</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Pretérito</h4>
+                        <p><span><span><span>eu</span><span class="f">refrescá-lo-ia</span></span></br><span><span>tu</span><span class="f">refrescá-lo-ias</span></span></br><span><span>ele</span><span class="f">refrescá-lo-ia</span></span></br><span><span>nós</span><span class="f">refrescá-lo-íamos</span></span></br><span><span>vós</span><span class="f">refrescá-lo-íeis</span></span></br><span><span>eles</span><span class="f">refrescá-lo-iam</span></span></br></span></p></div>                        </div>
+                    
+                </div>
+                <div class="col-xs-12 col-sm-9 col-md-10">
+
+                                            <div class="tempos">
+                            <h3 class="modo">Subjuntivo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>que eu o</span> <span class="f">refresque</span></span></br><span><span>que tu o</span> <span class="f">refresques</span></span></br><span><span>que ele o</span> <span class="f">refresque</span></span></br><span><span>que nós o</span> <span class="f">refresquemos</span></span></br><span><span>que vós o</span> <span class="f">refresqueis</span></span></br><span><span>que eles o</span> <span class="f">refresquem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>se eu o</span> <span class="f">refrescasse</span></span></br><span><span>se tu o</span> <span class="f">refrescasses</span></span></br><span><span>se ele o</span> <span class="f">refrescasse</span></span></br><span><span>se nós o</span> <span class="f">refrescássemos</span></span></br><span><span>se vós o</span> <span class="f">refrescásseis</span></span></br><span><span>se eles o</span> <span class="f">refrescassem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro</h4>
+                        <p><span><span><span>quando eu o</span> <span class="f">refrescar</span></span></br><span><span>quando tu o</span> <span class="f">refrescares</span></span></br><span><span>quando ele o</span> <span class="f">refrescar</span></span></br><span><span>quando nós o</span> <span class="f">refrescarmos</span></span></br><span><span>quando vós o</span> <span class="f">refrescardes</span></span></br><span><span>quando eles o</span> <span class="f">refrescarem</span></span></br></span></p></div>                        </div>
+                    
+                                            <div class="tempos cols2">
+                            <h3 class="modo">Imperativo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Afirmativo</h4>
+                        <p><span><span>--</span></br><span><span class="f">refresca-o</span> <span>tu</span></span></br><span><span class="f">refresque-o</span> <span>você</span></span></br><span><span class="f">refresquemo-lo</span> <span>nós</span></span></br><span><span class="f">refrescai-o</span> <span>vós</span></span></br><span><span class="f">refresquem-no</span> <span>vocês</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Negativo</h4>
+                        <p><span><span>--</span></br><span><span>não o</span> <span class="f">refresques</span> <span>tu</span></span></br><span><span>não o</span> <span class="f">refresque</span> <span>você</span></span></br><span><span>não o</span> <span class="f">refresquemos</span> <span>nós</span></span></br><span><span>não o</span> <span class="f">refresqueis</span> <span>vós</span></span></br><span><span>não o</span> <span class="f">refresquem</span> <span>vocês</span></span></br></span></p></div>                        </div>
+                    
+                                            <div class="tempos cols1">
+                            <h3 class="modo">Infinitivo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Infinitivo Pessoal</h4>
+                        <p><span><span><span>por o</span> <span class="f">refrescar</span> <span>eu</span></span></br><span><span>por o</span> <span class="f">refrescares</span> <span>tu</span></span></br><span><span>por o</span> <span class="f">refrescar</span> <span>ele</span></span></br><span><span>por o</span> <span class="f">refrescarmos</span> <span>nós</span></span></br><span><span>por o</span> <span class="f">refrescardes</span> <span>vós</span></span></br><span><span>por o</span> <span class="f">refrescarem</span> <span>eles</span></span></br></span></p></div>                        </div>
+                    
+                </div>
+            </div>
+            <h2 class="pronominal-titulo">Conjugação pronominal</h2>
+
+                            <div class="info-v">
+                    <p><strong>Gerúndio:</strong> <span><span></span><span class="f">refrescando-se</span></span></p>
+                </div>
+            
+            <div id="conjugacao-pronominal-reflexa" class="row">
+                <div class="col-xs-12 col-sm-9 col-md-10">
+
+                                            <div class="tempos">
+                            <h3 class="modo">Indicativo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">refresco-me</span></span></br><span><span>tu</span><span class="f">refrescas-te</span></span></br><span><span>ele</span><span class="f">refresca-se</span></span></br><span><span>nós</span><span class="f">refrescamo-nos</span></span></br><span><span>vós</span><span class="f">refrescais-vos</span></span></br><span><span>eles</span><span class="f">refrescam-se</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">refrescava-me</span></span></br><span><span>tu</span><span class="f">refrescavas-te</span></span></br><span><span>ele</span><span class="f">refrescava-se</span></span></br><span><span>nós</span><span class="f">refrescávamo-nos</span></span></br><span><span>vós</span><span class="f">refrescáveis-vos</span></span></br><span><span>eles</span><span class="f">refrescavam-se</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">refresquei-me</span></span></br><span><span>tu</span><span class="f">refrescaste-te</span></span></br><span><span>ele</span><span class="f">refrescou-se</span></span></br><span><span>nós</span><span class="f">refrescamo-nos</span></span></br><span><span>vós</span><span class="f">refrescastes-vos</span></span></br><span><span>eles</span><span class="f">refrescaram-se</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Mais-que-perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">refrescara-me</span></span></br><span><span>tu</span><span class="f">refrescaras-te</span></span></br><span><span>ele</span><span class="f">refrescara-se</span></span></br><span><span>nós</span><span class="f">refrescáramo-nos</span></span></br><span><span>vós</span><span class="f">refrescáreis-vos</span></span></br><span><span>eles</span><span class="f">refrescaram-se</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">refrescar-me-ei</span></span></br><span><span>tu</span><span class="f">refrescar-te-ás</span></span></br><span><span>ele</span><span class="f">refrescar-se-á</span></span></br><span><span>nós</span><span class="f">refrescar-nos-emos</span></span></br><span><span>vós</span><span class="f">refrescar-vos-eis</span></span></br><span><span>eles</span><span class="f">refrescar-se-ão</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Pretérito</h4>
+                        <p><span><span><span>eu</span><span class="f">refrescar-me-ia</span></span></br><span><span>tu</span><span class="f">refrescar-te-ias</span></span></br><span><span>ele</span><span class="f">refrescar-se-ia</span></span></br><span><span>nós</span><span class="f">refrescar-nos-íamos</span></span></br><span><span>vós</span><span class="f">refrescar-vos-íeis</span></span></br><span><span>eles</span><span class="f">refrescar-se-iam</span></span></br></span></p></div>                        </div>
+                    
+                </div>
+                <div class="col-xs-12 col-sm-9 col-md-10">
+
+                                            <div class="tempos">
+                            <h3 class="modo">Subjuntivo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>que eu me</span> <span class="f">refresque</span></span></br><span><span>que tu te</span> <span class="f">refresques</span></span></br><span><span>que ele se</span> <span class="f">refresque</span></span></br><span><span>que nós nos</span> <span class="f">refresquemos</span></span></br><span><span>que vós vos</span> <span class="f">refresqueis</span></span></br><span><span>que eles se</span> <span class="f">refresquem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>se eu me</span> <span class="f">refrescasse</span></span></br><span><span>se tu te</span> <span class="f">refrescasses</span></span></br><span><span>se ele se</span> <span class="f">refrescasse</span></span></br><span><span>se nós nos</span> <span class="f">refrescássemos</span></span></br><span><span>se vós vos</span> <span class="f">refrescásseis</span></span></br><span><span>se eles se</span> <span class="f">refrescassem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro</h4>
+                        <p><span><span><span>quando eu me</span> <span class="f">refrescar</span></span></br><span><span>quando tu te</span> <span class="f">refrescares</span></span></br><span><span>quando ele se</span> <span class="f">refrescar</span></span></br><span><span>quando nós nos</span> <span class="f">refrescarmos</span></span></br><span><span>quando vós vos</span> <span class="f">refrescardes</span></span></br><span><span>quando eles se</span> <span class="f">refrescarem</span></span></br></span></p></div>                        </div>
+                    
+                                            <div class="tempos cols2">
+                            <h3 class="modo">Imperativo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Afirmativo</h4>
+                        <p><span><span>--</span></br><span><span class="f">refresca-te</span> <span>tu</span></span></br><span><span class="f">refresque-se</span> <span>você</span></span></br><span><span class="f">refresquemo-nos</span> <span>nós</span></span></br><span><span class="f">refrescai-vos</span> <span>vós</span></span></br><span><span class="f">refresquem-se</span> <span>vocês</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Negativo</h4>
+                        <p><span><span>--</span></br><span><span>não te</span> <span class="f">refresques</span> <span>tu</span></span></br><span><span>não se</span> <span class="f">refresque</span> <span>você</span></span></br><span><span>não nos</span> <span class="f">refresquemos</span> <span>nós</span></span></br><span><span>não vos</span> <span class="f">refresqueis</span> <span>vós</span></span></br><span><span>não se</span> <span class="f">refresquem</span> <span>vocês</span></span></br></span></p></div>                        </div>
+                    
+                                            <div class="tempos cols1">
+                            <h3 class="modo">Infinitivo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Infinitivo Pessoal</h4>
+                        <p><span><span><span class="f">refrescar-me</span> <span>eu</span></span></br><span><span class="f">refrescares-te</span> <span>tu</span></span></br><span><span class="f">refrescar-se</span> <span>ele</span></span></br><span><span class="f">refrescarmo-nos</span> <span>nós</span></span></br><span><span class="f">refrescardes-vos</span> <span>vós</span></span></br><span><span class="f">refrescarem-se</span> <span>eles</span></span></br></span></p></div>                        </div>
+                    
+                </div>
+            </div>
+<div class="tempo2">Verbos relacionados com refrescar</div><div class="wrapper"><ul><li><a href="/verbo-esfriar/">esfriar</a></li><li><a href="/verbo-abanar/">abanar</a></li><li><a href="/verbo-arrefecer/">arrefecer</a></li><li><a href="/verbo-refrigerar/">refrigerar</a></li><li><a href="/verbo-ventilar/">ventilar</a></li><li><a href="/verbo-reverdecer/">reverdecer</a></li></ul></div>
+<div class="wrapper">
+<div class="tempo2">Saiba mais sobre os verbos</div>
+    <ul>
+        <li><a href="/verbos-regulares/">Verbos regulares</a></li>
+        <li><a href="/verbos-irregulares-no-portugues/">Verbos irregulares</a></li>
+        <li><a href="/tempos-verbais/">Tempos verbais</a></li>
+        <li><a href="/formas-verbais/">Formas verbais</a></li>
+        <li><a href="/verbos-no-infinitivo/">Verbos no infinitivo</a></li>
+        <li><a href="/verbos-intransitivos/">Verbos intransitivos</a></li>
+        <li><a href="/verbos-transitivos-indiretos/">Verbos transitivos indiretos</a></li>
+        <li><a href="/regencia-verbal-e-nominal/">Regência verbal e nominal</a></li>
+    </ul>
+</div>
+
+<script type="text/javascript">
+    function hit (){
+        conjugacao.hits("palavra", "refrescar");
+            }
+    document.addEventListener('articleInitiated', hit, false);
+</script>
+
+<div id='ligacoes'> <span>&laquo;</span> <a href="/verbo-refregar/" title="verbo refregar">refregar</a>  <span>&laquo;</span> <a href="/verbo-refrequentar/" title="verbo refrequentar">refrequentar</a>  <span>&laquo;</span>  <b>refrescar</b>  <span>&raquo;</span>  <a href="/verbo-refretar/" title="verbo refretar">refretar</a> <span>&raquo;</span>  <a href="/verbo-refricar/" title="verbo refricar">refricar</a> <span>&raquo;</span> </div>
+    </div>
+        <div style="clear: both;"></div>
+    <div class="w100">
+        <div id="div-gpt-sg-04deeb8d03fa3ecdd6cb45adae939467" class="ad-unit ad-unit--pt-br"></div>    </div>
+</div>
+<div id="footer" class="row">
+    <div id="menuLinks" class="flinks col-sm-12">
+        <a href="/contato.php?a=e">Encontrou um erro?</a>
+        <span> | </span>
+        <a href="/verbos-populares/">Lista de verbos</a>
+        <span> | </span>
+        <a href="/verbos-regulares/">Verbos regulares</a>
+        <span> | </span>
+        <a href="/verbos-irregulares-no-portugues/">Verbos irregulares</a>
+        <span> | </span>
+        <a href="/artigos/">Tudo sobre verbos</a>
+        <span> | </span>
+        <a href="/contato.php?a=s">Sugerir verbos</a>
+        <span> | </span>
+        <a href="/sobre.html">Sobre</a>
+        <span> | </span>
+        <a href="/politica-privacidade.html">Privacidade</a>
+        <span> | </span>
+        <a href="/contato.php">Contato</a>
+    </div>
+    <a href="#" onclick="footerMenuClick();return false;" class="show-menu pull-left visible-xs col-xs-1"></a>
+    <div id="about" class="col-sm-12 col-xs-10">
+        <p>Copyright &copy; 2011-2023 <a href="https://www.7graus.com/" rel="nofollow co-worker">7Graus</a> <span class="hidden-xs">- <strong>Conjugação.com.br</strong>: <a href="/">conjugação de verbos</a> da língua portuguesa é parte do <a href="https://www.dicio.com.br/" rel="nofollow co-worker">Dicio.com.br</a></span></p>
+    </div>
+</div>
+</div>
+
+<script>(function(){var s0;var s1;var s2;googletag.cmd.push(function(){googletag.pubads().enableLazyLoad({"fetchMarginPercent":500,"renderMarginPercent":200,"mobileScaling":2});googletag.pubads().disableInitialLoad();googletag.enableServices();var sm0=googletag.sizeMapping().addSize([0,0],[]).addSize([768,0],[[160,600],[120,600]]).build(),sm1=googletag.sizeMapping().addSize([0,0],[]).addSize([270,0],[[250,250]]).addSize([320,0],[[300,250],[250,250]]).addSize([356,0],[[336,280],[300,250],[250,250]]).build(),sm2=googletag.sizeMapping().addSize([0,0],[]).addSize([300,0],[[300,250],[250,250]]).addSize([336,0],[[336,280],[300,250],[250,250]]).addSize([468,0],[[468,60],[336,280],[300,250],[250,250]]).addSize([728,0],[[728,90],[468,60],[336,280],[300,250],[250,250]]).addSize([970,0],[[970,90],[728,90],[468,60],[336,280],[300,250],[250,250]]).build();var ss0=[[160,600],[120,600]],ss1=[[336,280],[300,250],[250,250]],ss2=[[970,90],[728,90],[468,60],[336,280],[300,250],[250,250]];s0=googletag.defineSlot('/1062898/conjugacao_verbo_sidebar',ss0,'div-gpt-sg-5c2b0f112805f430f41f0d68e53c154c').defineSizeMapping(sm0).addService(googletag.pubads()),s1=googletag.defineSlot('/1062898/conjugacao_verbo_mrec',ss1,'div-gpt-sg-f8ca454fb5a796542db0151b864a3311').defineSizeMapping(sm1).addService(googletag.pubads()),s2=googletag.defineSlot('/1062898/conjugacao_bottom_ros',ss2,'div-gpt-sg-04deeb8d03fa3ecdd6cb45adae939467').defineSizeMapping(sm2).addService(googletag.pubads());var slots=[s0,s1,s2];slots.forEach(function(s){googletag.display(s.getSlotElementId())});googletag.pubads().refresh(slots);var gae=function(e,s){if(!window.localStorage || window.localStorage.getItem("sg_gpt_event")!=="1")return;if(typeof gtag!=="undefined"){gtag("event",e,{event_category:"Sg_GPT",event_label:s.getAdUnitPath(),non_interaction:true})}else if(typeof ga!=="undefined")ga("send","event","Sg_GPT",e,s.getAdUnitPath(),0,{nonInteraction:true})};googletag.pubads().addEventListener("impressionViewable",function(e){gae("ImpressionViewable",e.slot)});googletag.pubads().addEventListener("slotRenderEnded",function(e){gae("SlotRenderEnded",e.slot)});window.Sg_GPT_get_slots=function(){return slots};});googletag.cmd.push(function(){!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q('i',arguments)},fetchBids:function(){q('f',arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}('apstag',window,document,'script','//c.amazon-adsystem.com/aax2/apstag.js');
+            apstag.init({pubID: '031d2526-e3d7-48d3-94fd-8cec14da13e5',adServer: 'googletag', simplerGPT: true});
+            apstag.fetchBids({slots: [s0,s1,s2], timeout: 2000},
+            function(bids) {
+                googletag.cmd.push(function(){
+                    apstag.setDisplayBids();
+                    googletag.pubads().refresh([s0,s1,s2]);
+                });
+            });
+            });})()</script>
+<script type="text/javascript">
+    function footerMenuClick() {
+        var elem = document.getElementById("menuLinks");
+        if(hasClass(elem, "visible")) {
+            elem.className = elem.className.replace(" visible", "");
+            elem.className = elem.className.replace("visible", "");
+        } else {
+            elem.className += elem.className ? ' visible' : 'visible';
+        }
+        window.scrollTo(0,document.body.scrollHeight);
+    }
+    function hasClass(element, cls) {
+        return (' ' + element.className + ' ').indexOf(' ' + cls + ' ') > -1;
+    }
+
+    
+</script>
+
+<script type="text/javascript" src="https://static.conjugacao.com.br/assets/foscript_046.js" async></script>
+
+
+                    <script>
+                        (function() {
+
+                            var loadBar = function(isEu) {
+                                if(isEu) {
+                                    var s = document.createElement("script")
+                                    var el = document.getElementsByTagName("script")[0];
+                                    s.src = "https://7gra.us/consentbar/consent-bar.min.js?v=8";
+                                    el.parentNode.insertBefore(s, el);
+
+                                    var iterator = 0;
+                                    var initConsentBar = setInterval(function() {
+                                       if (typeof window.ConsentBar !== "undefined" || iterator++ > 100) {
+                                        clearInterval(initConsentBar);
+                                         window.consentBar = new ConsentBar({"enable":true,"blocking":false,"language":"pt","privacy_page":"\/politica-privacidade.html"});
+                                         window.consentBar.showBar();
+                                       }
+                                    }, 100);
+                                }
+                            }
+
+                            window[window.attachEvent ? "attachEvent" : "addEventListener"](window.attachEvent ? "onload" : "load", function() {
+                                var eu = localStorage.getItem("sg_eu");
+                                var btn = document.getElementsByClassName("cookies_manager");
+                                if(btn.length > 0) {
+                                    var btnStyle = "color:#286fb0; text-decoration: underline; cursor: pointer";
+                                    btn[0].style.cssText = btnStyle;
+                                }
+
+                                if(eu === null) {
+                                var request = new XMLHttpRequest();
+                                request.open("GET", window.location.protocol + "//eu.7gra.us/", true);
+                                request.onreadystatechange = function() {
+                                  if (this.readyState === 4 && this.status === 200) {
+                                     eu = this.responseText;
+                                     localStorage.setItem("sg_eu", eu);
+
+                                     loadBar(eu == "1");
+                                  }
+                                };
+                                    request.send();
+                                }else {
+                                    loadBar(eu == "1");
+                                }
+
+                                var iterator = 0;
+                                var isConsentBarRunning = setInterval(function() {
+                                    if (typeof window.ConsentBar !== "undefined" || iterator++ > 100) {
+                                        clearInterval(isConsentBarRunning);
+
+                                        if(btn.length > 0) {
+                                            btn[0].onclick = function() {
+                                                window.consentBar.showBar(true);
+                                            }
+                                        }
+                                    }
+                                }, 100);
+                            }, false);
+                        })();
+                    </script>
+                <sg-bhof
+                    projectUrl="https://www.conjugacao.com.br"
+                    contentUrl="/verbo-refrescar/"
+                    backofficeUrl="https://www.conjugacao.com.br/backoffice/palavras/edit.php?id={id}"
+                    projectId="15"
+                    contentId="16737"
+                    contentData='{
+                        "datePublished":"2016-04-11 00:14:05",
+                        "dateUpdated":""
+                        }'
+                    style="display:none"
+                ></sg-bhof>    </body>
+</html>

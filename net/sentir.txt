@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="ISO-8859-1"/>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Conjugação do Verbo Sentir - Conjugação de Verbos</title>
+    <meta name="description" content="Verbo Sentir. Conjugação de sentir em todos os tempos verbais; presente, passado e futuro. Indicativo: sinto, sentes, sente, sentimos, sentis, sentem"/>
+    <link href="https://static.conjugacao.com.br/assets/style_046.css" rel="stylesheet" type="text/css"/>
+    <link rel="alternate" type="application/rss+xml" title="RSS feed do Conjugação de Verbos" href="/rss.php"/>
+    <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,700' rel='stylesheet' type='text/css'/>
+    <link rel="canonical" href="https://www.conjugacao.com.br/verbo-sentir/" />
+
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#52B243">
+    <meta name="msapplication-TileImage" content="https://static.conjugacao.com.br/mstile-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <meta property="fb:app_id" content="1610599232545800"/>
+    <meta property="og:title" content="Conjugação do Verbo Sentir - Conjugação de Verbos"/>
+    <meta property="og:url" content="https://www.conjugacao.com.br/verbo-sentir/"/>
+    <meta property="og:image" content="https://static.conjugacao.com.br/assets/img/conjugacao_logo.png"/>
+    <meta property="og:site_name" content="Conjugação"/>
+    <meta property="og:description" content="Verbo Sentir. Conjugação de sentir em todos os tempos verbais; presente, passado e futuro. Indicativo: sinto, sentes, sente, sentimos, sentis, sentem"/>
+
+            <meta property="og:type" content="article"/><script async defer src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script>var googletag=window.googletag||{cmd:[]};if(window.localStorage && !window.localStorage.getItem("sg_gpt_event")){window.localStorage.setItem("sg_gpt_event",Math.floor((Math.random()*100)+1)<=10?1:0);}</script>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N69S8WJ');</script>
+</head>
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N69S8WJ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>
+            var _comscore = _comscore || [];
+            _comscore.push({ c1: "2", c2: "21145335" });
+            _comscore.push({ c1: "8", c2: "21145335" ,c3: "1111" });
+            (function() {
+                    
+                if (!("localStorage" in window)) {
+                  window.localStorage = {
+                    _data: {},
+                    setItem: function(id, val) { return this._data[id] = String(val) },
+                    getItem: function(id) { return this._data.hasOwnProperty(id) ? this._data[id] : null }
+                  }
+                }
+            
+                var loadScript = function(){
+                    if(eu == "0") {
+                        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+                        s.async = true;
+                        s.src = "https://sb.scorecardresearch.com/beacon.js";
+                        el.parentNode.insertBefore(s, el);
+                    }
+                };
+            
+                var eu = localStorage.getItem("sg_eu");
+            
+                if(eu === null) {
+                    var request = new XMLHttpRequest();
+                    request.open("GET", window.location.protocol + "//eu.7gra.us/", true);
+                    request.onreadystatechange = function() {
+                      if (this.readyState === 4 && this.status === 200) {
+                         eu = this.responseText;
+                         localStorage.setItem("sg_eu", eu)
+                         loadScript();
+                      }
+                    };
+                    request.send();
+            
+                }
+            
+                loadScript();
+                    
+            })();
+            </script><div id="wrapper" class="container">
+    <div id="header" class="row">
+        <div class="col-xs-12 col-sm-6">
+            <div id="logo"><a href="/">conjugação<span>.com.br</span></a></div>
+            <div id="slogan"><a href="/">Conjugação de Verbos em Português</a></div>
+        </div>
+
+        <div class="col-xs-12 col-sm-6" id="search">
+                    <form action="/search.php" id="searchForm" method="get">
+                <input id="q" name="q" type="text" value="sentir" autofocus />
+                <input type="submit" value="conjugar" id="botao" />
+            </form>
+            <script type="text/javascript">
+                var textbox = document.getElementById('q');
+                textbox.focus();
+                textbox.select();
+            </script>
+                </div>
+
+    </div>
+
+    
+    <div id="page" class="row flex-sticky-wrap">
+        <div id="content" class="col-xs-12 col-sm-12">
+<h1 class='nmt'>Verbo Sentir</h1>
+<div class="row">
+    <div class="col-xs-12 col-sm-9 col-md-10">
+
+        <div class='intro-v'><p>O verbo sentir é um verbo irregular, apresentando alterações no seu radical, como, por exemplo, nas conjugações do presente do indicativo (eu sinto) e do presente do subjuntivo (que eu sinta, que tu sintas, que ele sinta,...). Algumas formas verbais de sentir são parônimas de substantivos, como sinto e cinto, sinta e cinta.</p>
+</div>
+                    <div class="info-v">
+                
+                
+                <p>
+                    <strong>Gerúndio</strong>: <span><span></span><span class="f">sentindo</span></span>                    <br><strong>Particípio passado</strong>: <span><span></span><span class="f">sentido</span></span>                    <br><strong>Infinitivo</strong>: sentir                </p>
+
+                <p class="secondary">Tipo de verbo: irregular<br/>
+                    Transitividade: intransitivo,  transitivo direto,  transitivo direto e indireto e  pronominal <br/>                    Separação silábica: sen-<u>tir</u><br/>                </p>
+
+
+                            </div>
+            </div>
+            <div class="col-xs-12 col-sm-3 col-md-2 palavra-sidebar">
+            <div class="ad ad-palavra-sidebar">
+                <div id="div-gpt-sg-5c2b0f112805f430f41f0d68e53c154c" class="ad-unit ad-unit--pt-br"></div>            </div>
+        </div>
+    </div>
+
+
+
+    <div id="conjugacao" class="row">
+
+        <div class="col-xs-12 col-sm-9 col-md-10">
+                            <div class="tempos">
+                    <h3 class="modoconjuga">Indicativo</h3>
+                    <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>eu</span><span class="f irregular">sinto</span></span></br><span><span>tu</span><span class="f">sentes</span></span></br><span><span>ele</span><span class="f">sente</span></span></br><span><span>nós</span><span class="f">sentimos</span></span></br><span><span>vós</span><span class="f">sentis</span></span></br><span><span>eles</span><span class="f">sentem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">sentia</span></span></br><span><span>tu</span><span class="f">sentias</span></span></br><span><span>ele</span><span class="f">sentia</span></span></br><span><span>nós</span><span class="f">sentíamos</span></span></br><span><span>vós</span><span class="f">sentíeis</span></span></br><span><span>eles</span><span class="f">sentiam</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">senti</span></span></br><span><span>tu</span><span class="f">sentiste</span></span></br><span><span>ele</span><span class="f">sentiu</span></span></br><span><span>nós</span><span class="f">sentimos</span></span></br><span><span>vós</span><span class="f">sentistes</span></span></br><span><span>eles</span><span class="f">sentiram</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Mais-que-perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">sentira</span></span></br><span><span>tu</span><span class="f">sentiras</span></span></br><span><span>ele</span><span class="f">sentira</span></span></br><span><span>nós</span><span class="f">sentíramos</span></span></br><span><span>vós</span><span class="f">sentíreis</span></span></br><span><span>eles</span><span class="f">sentiram</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">sentirei</span></span></br><span><span>tu</span><span class="f">sentirás</span></span></br><span><span>ele</span><span class="f">sentirá</span></span></br><span><span>nós</span><span class="f">sentiremos</span></span></br><span><span>vós</span><span class="f">sentireis</span></span></br><span><span>eles</span><span class="f">sentirão</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Pretérito</h4>
+                        <p><span><span><span>eu</span><span class="f">sentiria</span></span></br><span><span>tu</span><span class="f">sentirias</span></span></br><span><span>ele</span><span class="f">sentiria</span></span></br><span><span>nós</span><span class="f">sentiríamos</span></span></br><span><span>vós</span><span class="f">sentiríeis</span></span></br><span><span>eles</span><span class="f">sentiriam</span></span></br></span></p></div>                </div>
+                    </div>
+
+        <div class="col-xs-12 col-sm-9 col-md-10">
+                            <div class="tempos">
+                    <h3 class="modoconjuga">Subjuntivo</h3>
+                    <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>que eu</span> <span class="f irregular">sinta</span></span></br><span><span>que tu</span> <span class="f irregular">sintas</span></span></br><span><span>que ele</span> <span class="f irregular">sinta</span></span></br><span><span>que nós</span> <span class="f irregular">sintamos</span></span></br><span><span>que vós</span> <span class="f irregular">sintais</span></span></br><span><span>que eles</span> <span class="f irregular">sintam</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>se eu</span> <span class="f">sentisse</span></span></br><span><span>se tu</span> <span class="f">sentisses</span></span></br><span><span>se ele</span> <span class="f">sentisse</span></span></br><span><span>se nós</span> <span class="f">sentíssemos</span></span></br><span><span>se vós</span> <span class="f">sentísseis</span></span></br><span><span>se eles</span> <span class="f">sentissem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro</h4>
+                        <p><span><span><span>quando eu</span> <span class="f">sentir</span></span></br><span><span>quando tu</span> <span class="f">sentires</span></span></br><span><span>quando ele</span> <span class="f">sentir</span></span></br><span><span>quando nós</span> <span class="f">sentirmos</span></span></br><span><span>quando vós</span> <span class="f">sentirdes</span></span></br><span><span>quando eles</span> <span class="f">sentirem</span></span></br></span></p></div>                </div>
+                            <div class="tempos cols2">
+                    <h3 class="modoconjuga">Imperativo</h3>
+                    <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Afirmativo</h4>
+                        <p><span><span>--</span></br><span><span class="f">sente</span> <span>tu</span></span></br><span><span class="f irregular">sinta</span> <span>você</span></span></br><span><span class="f irregular">sintamos</span> <span>nós</span></span></br><span><span class="f">senti</span> <span>vós</span></span></br><span><span class="f irregular">sintam</span> <span>vocês</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Negativo</h4>
+                        <p><span><span>--</span></br><span><span>não</span> <span class="f irregular">sintas</span> <span>tu</span></span></br><span><span>não</span> <span class="f irregular">sinta</span> <span>você</span></span></br><span><span>não</span> <span class="f irregular">sintamos</span> <span>nós</span></span></br><span><span>não</span> <span class="f irregular">sintais</span> <span>vós</span></span></br><span><span>não</span> <span class="f irregular">sintam</span> <span>vocês</span></span></br></span></p></div>                </div>
+                            <div class="tempos cols1">
+                    <h3 class="modoconjuga">Infinitivo</h3>
+                    <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Infinitivo Pessoal</h4>
+                        <p><span><span><span>por</span> <span class="f">sentir</span> <span>eu</span></span></br><span><span>por</span> <span class="f">sentires</span> <span>tu</span></span></br><span><span>por</span> <span class="f">sentir</span> <span>ele</span></span></br><span><span>por</span> <span class="f">sentirmos</span> <span>nós</span></span></br><span><span>por</span> <span class="f">sentirdes</span> <span>vós</span></span></br><span><span>por</span> <span class="f">sentirem</span> <span>eles</span></span></br></span></p></div>                </div>
+                    </div>
+    </div>
+
+            <div class="legenda"><span>*</span> As formas verbais destacadas são formas irregulares ou formas regulares que apresentam alguma particularidade gráfica.</div>
+                <div class="row">
+                <div class="col-xs-12 col-sm-9 col-md-10">
+                    <div class="ad ad-palavra-middle">
+                        <div id="div-gpt-sg-f8ca454fb5a796542db0151b864a3311" class="ad-unit ad-unit--pt-br"></div>                    </div>
+                </div>
+            </div>
+            <h2 class="pronominal-titulo">Conjugação com pronome oblíquo átono o</h2>
+
+                            <div class="info-v">
+                    <p><strong>Gerúndio:</strong> <span><span></span><span class="f">sentindo-o</span></span></p>
+                </div>
+            
+            <div id="conjugacao-pronominal" class="row">
+                <div class="col-xs-12 col-sm-9 col-md-10">
+
+                                            <div class="tempos">
+                            <h3 class="modo">Indicativo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">sinto-o</span></span></br><span><span>tu</span><span class="f">sente-lo</span></span></br><span><span>ele</span><span class="f">sente-o</span></span></br><span><span>nós</span><span class="f">sentimo-lo</span></span></br><span><span>vós</span><span class="f">senti-lo</span></span></br><span><span>eles</span><span class="f">sentem-no</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">sentia-o</span></span></br><span><span>tu</span><span class="f">sentia-lo</span></span></br><span><span>ele</span><span class="f">sentia-o</span></span></br><span><span>nós</span><span class="f">sentíamo-lo</span></span></br><span><span>vós</span><span class="f">sentíei-lo</span></span></br><span><span>eles</span><span class="f">sentiam-no</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">senti-o</span></span></br><span><span>tu</span><span class="f">sentiste-o</span></span></br><span><span>ele</span><span class="f">sentiu-o</span></span></br><span><span>nós</span><span class="f">sentimo-lo</span></span></br><span><span>vós</span><span class="f">sentiste-lo</span></span></br><span><span>eles</span><span class="f">sentiram-no</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Mais-que-perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">sentira-o</span></span></br><span><span>tu</span><span class="f">sentira-lo</span></span></br><span><span>ele</span><span class="f">sentira-o</span></span></br><span><span>nós</span><span class="f">sentíramo-lo</span></span></br><span><span>vós</span><span class="f">sentírei-lo</span></span></br><span><span>eles</span><span class="f">sentiram-no</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">senti-lo-ei</span></span></br><span><span>tu</span><span class="f">senti-lo-ás</span></span></br><span><span>ele</span><span class="f">senti-lo-á</span></span></br><span><span>nós</span><span class="f">senti-lo-emos</span></span></br><span><span>vós</span><span class="f">senti-lo-eis</span></span></br><span><span>eles</span><span class="f">senti-lo-ão</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Pretérito</h4>
+                        <p><span><span><span>eu</span><span class="f">senti-lo-ia</span></span></br><span><span>tu</span><span class="f">senti-lo-ias</span></span></br><span><span>ele</span><span class="f">senti-lo-ia</span></span></br><span><span>nós</span><span class="f">senti-lo-íamos</span></span></br><span><span>vós</span><span class="f">senti-lo-íeis</span></span></br><span><span>eles</span><span class="f">senti-lo-iam</span></span></br></span></p></div>                        </div>
+                    
+                </div>
+                <div class="col-xs-12 col-sm-9 col-md-10">
+
+                                            <div class="tempos">
+                            <h3 class="modo">Subjuntivo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>que eu o</span> <span class="f">sinta</span></span></br><span><span>que tu o</span> <span class="f">sintas</span></span></br><span><span>que ele o</span> <span class="f">sinta</span></span></br><span><span>que nós o</span> <span class="f">sintamos</span></span></br><span><span>que vós o</span> <span class="f">sintais</span></span></br><span><span>que eles o</span> <span class="f">sintam</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>se eu o</span> <span class="f">sentisse</span></span></br><span><span>se tu o</span> <span class="f">sentisses</span></span></br><span><span>se ele o</span> <span class="f">sentisse</span></span></br><span><span>se nós o</span> <span class="f">sentíssemos</span></span></br><span><span>se vós o</span> <span class="f">sentísseis</span></span></br><span><span>se eles o</span> <span class="f">sentissem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro</h4>
+                        <p><span><span><span>quando eu o</span> <span class="f">sentir</span></span></br><span><span>quando tu o</span> <span class="f">sentires</span></span></br><span><span>quando ele o</span> <span class="f">sentir</span></span></br><span><span>quando nós o</span> <span class="f">sentirmos</span></span></br><span><span>quando vós o</span> <span class="f">sentirdes</span></span></br><span><span>quando eles o</span> <span class="f">sentirem</span></span></br></span></p></div>                        </div>
+                    
+                                            <div class="tempos cols2">
+                            <h3 class="modo">Imperativo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Afirmativo</h4>
+                        <p><span><span>--</span></br><span><span class="f">sente-o</span> <span>tu</span></span></br><span><span class="f">sinta-o</span> <span>você</span></span></br><span><span class="f">sintamo-lo</span> <span>nós</span></span></br><span><span class="f">senti-o</span> <span>vós</span></span></br><span><span class="f">sintam-no</span> <span>vocês</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Negativo</h4>
+                        <p><span><span>--</span></br><span><span>não o</span> <span class="f">sintas</span> <span>tu</span></span></br><span><span>não o</span> <span class="f">sinta</span> <span>você</span></span></br><span><span>não o</span> <span class="f">sintamos</span> <span>nós</span></span></br><span><span>não o</span> <span class="f">sintais</span> <span>vós</span></span></br><span><span>não o</span> <span class="f">sintam</span> <span>vocês</span></span></br></span></p></div>                        </div>
+                    
+                                            <div class="tempos cols1">
+                            <h3 class="modo">Infinitivo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Infinitivo Pessoal</h4>
+                        <p><span><span><span>por o</span> <span class="f">sentir</span> <span>eu</span></span></br><span><span>por o</span> <span class="f">sentires</span> <span>tu</span></span></br><span><span>por o</span> <span class="f">sentir</span> <span>ele</span></span></br><span><span>por o</span> <span class="f">sentirmos</span> <span>nós</span></span></br><span><span>por o</span> <span class="f">sentirdes</span> <span>vós</span></span></br><span><span>por o</span> <span class="f">sentirem</span> <span>eles</span></span></br></span></p></div>                        </div>
+                    
+                </div>
+            </div>
+            <h2 class="pronominal-titulo">Conjugação pronominal</h2>
+
+                            <div class="info-v">
+                    <p><strong>Gerúndio:</strong> <span><span></span><span class="f">sentindo-se</span></span></p>
+                </div>
+            
+            <div id="conjugacao-pronominal-reflexa" class="row">
+                <div class="col-xs-12 col-sm-9 col-md-10">
+
+                                            <div class="tempos">
+                            <h3 class="modo">Indicativo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">sinto-me</span></span></br><span><span>tu</span><span class="f">sentes-te</span></span></br><span><span>ele</span><span class="f">sente-se</span></span></br><span><span>nós</span><span class="f">sentimo-nos</span></span></br><span><span>vós</span><span class="f">sentis-vos</span></span></br><span><span>eles</span><span class="f">sentem-se</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">sentia-me</span></span></br><span><span>tu</span><span class="f">sentias-te</span></span></br><span><span>ele</span><span class="f">sentia-se</span></span></br><span><span>nós</span><span class="f">sentíamo-nos</span></span></br><span><span>vós</span><span class="f">sentíeis-vos</span></span></br><span><span>eles</span><span class="f">sentiam-se</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">senti-me</span></span></br><span><span>tu</span><span class="f">sentiste-te</span></span></br><span><span>ele</span><span class="f">sentiu-se</span></span></br><span><span>nós</span><span class="f">sentimo-nos</span></span></br><span><span>vós</span><span class="f">sentistes-vos</span></span></br><span><span>eles</span><span class="f">sentiram-se</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Mais-que-perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">sentira-me</span></span></br><span><span>tu</span><span class="f">sentiras-te</span></span></br><span><span>ele</span><span class="f">sentira-se</span></span></br><span><span>nós</span><span class="f">sentíramo-nos</span></span></br><span><span>vós</span><span class="f">sentíreis-vos</span></span></br><span><span>eles</span><span class="f">sentiram-se</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">sentir-me-ei</span></span></br><span><span>tu</span><span class="f">sentir-te-ás</span></span></br><span><span>ele</span><span class="f">sentir-se-á</span></span></br><span><span>nós</span><span class="f">sentir-nos-emos</span></span></br><span><span>vós</span><span class="f">sentir-vos-eis</span></span></br><span><span>eles</span><span class="f">sentir-se-ão</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Pretérito</h4>
+                        <p><span><span><span>eu</span><span class="f">sentir-me-ia</span></span></br><span><span>tu</span><span class="f">sentir-te-ias</span></span></br><span><span>ele</span><span class="f">sentir-se-ia</span></span></br><span><span>nós</span><span class="f">sentir-nos-íamos</span></span></br><span><span>vós</span><span class="f">sentir-vos-íeis</span></span></br><span><span>eles</span><span class="f">sentir-se-iam</span></span></br></span></p></div>                        </div>
+                    
+                </div>
+                <div class="col-xs-12 col-sm-9 col-md-10">
+
+                                            <div class="tempos">
+                            <h3 class="modo">Subjuntivo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>que eu me</span> <span class="f">sinta</span></span></br><span><span>que tu te</span> <span class="f">sintas</span></span></br><span><span>que ele se</span> <span class="f">sinta</span></span></br><span><span>que nós nos</span> <span class="f">sintamos</span></span></br><span><span>que vós vos</span> <span class="f">sintais</span></span></br><span><span>que eles se</span> <span class="f">sintam</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>se eu me</span> <span class="f">sentisse</span></span></br><span><span>se tu te</span> <span class="f">sentisses</span></span></br><span><span>se ele se</span> <span class="f">sentisse</span></span></br><span><span>se nós nos</span> <span class="f">sentíssemos</span></span></br><span><span>se vós vos</span> <span class="f">sentísseis</span></span></br><span><span>se eles se</span> <span class="f">sentissem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro</h4>
+                        <p><span><span><span>quando eu me</span> <span class="f">sentir</span></span></br><span><span>quando tu te</span> <span class="f">sentires</span></span></br><span><span>quando ele se</span> <span class="f">sentir</span></span></br><span><span>quando nós nos</span> <span class="f">sentirmos</span></span></br><span><span>quando vós vos</span> <span class="f">sentirdes</span></span></br><span><span>quando eles se</span> <span class="f">sentirem</span></span></br></span></p></div>                        </div>
+                    
+                                            <div class="tempos cols2">
+                            <h3 class="modo">Imperativo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Afirmativo</h4>
+                        <p><span><span>--</span></br><span><span class="f">sente-te</span> <span>tu</span></span></br><span><span class="f">sinta-se</span> <span>você</span></span></br><span><span class="f">sintamo-nos</span> <span>nós</span></span></br><span><span class="f">senti-vos</span> <span>vós</span></span></br><span><span class="f">sintam-se</span> <span>vocês</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Negativo</h4>
+                        <p><span><span>--</span></br><span><span>não te</span> <span class="f">sintas</span> <span>tu</span></span></br><span><span>não se</span> <span class="f">sinta</span> <span>você</span></span></br><span><span>não nos</span> <span class="f">sintamos</span> <span>nós</span></span></br><span><span>não vos</span> <span class="f">sintais</span> <span>vós</span></span></br><span><span>não se</span> <span class="f">sintam</span> <span>vocês</span></span></br></span></p></div>                        </div>
+                    
+                                            <div class="tempos cols1">
+                            <h3 class="modo">Infinitivo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Infinitivo Pessoal</h4>
+                        <p><span><span><span class="f">sentir-me</span> <span>eu</span></span></br><span><span class="f">sentires-te</span> <span>tu</span></span></br><span><span class="f">sentir-se</span> <span>ele</span></span></br><span><span class="f">sentirmo-nos</span> <span>nós</span></span></br><span><span class="f">sentirdes-vos</span> <span>vós</span></span></br><span><span class="f">sentirem-se</span> <span>eles</span></span></br></span></p></div>                        </div>
+                    
+                </div>
+            </div>
+<div class="tempo2">Verbos relacionados com sentir</div><div class="wrapper"><ul><li><a href="/verbo-ir/">ir</a></li><li><a href="/verbo-ter/">ter</a></li><li><a href="/verbo-ver/">ver</a></li><li><a href="/verbo-estar/">estar</a></li><li><a href="/verbo-saber/">saber</a></li><li><a href="/verbo-andar/">andar</a></li><li><a href="/verbo-viver/">viver</a></li><li><a href="/verbo-passar/">passar</a></li><li><a href="/verbo-pensar/">pensar</a></li><li><a href="/verbo-aprender/">aprender</a></li><li><a href="/verbo-crer/">crer</a></li><li><a href="/verbo-entender/">entender</a></li></ul></div>
+<div class="wrapper">
+<div class="tempo2">Saiba mais sobre os verbos</div>
+    <ul>
+        <li><a href="/verbos-regulares/">Verbos regulares</a></li>
+        <li><a href="/verbos-irregulares-no-portugues/">Verbos irregulares</a></li>
+        <li><a href="/tempos-verbais/">Tempos verbais</a></li>
+        <li><a href="/formas-verbais/">Formas verbais</a></li>
+        <li><a href="/verbos-no-infinitivo/">Verbos no infinitivo</a></li>
+        <li><a href="/verbos-intransitivos/">Verbos intransitivos</a></li>
+        <li><a href="/verbos-transitivos-indiretos/">Verbos transitivos indiretos</a></li>
+        <li><a href="/regencia-verbal-e-nominal/">Regência verbal e nominal</a></li>
+    </ul>
+</div>
+
+<script type="text/javascript">
+    function hit (){
+        conjugacao.hits("palavra", "sentir");
+            }
+    document.addEventListener('articleInitiated', hit, false);
+</script>
+
+<div id='ligacoes'> <span>&laquo;</span> <a href="/verbo-sentimentalizar/" title="verbo sentimentalizar">sentimentalizar</a>  <span>&laquo;</span> <a href="/verbo-sentinelar/" title="verbo sentinelar">sentinelar</a>  <span>&laquo;</span>  <b>sentir</b>  <span>&raquo;</span>  <a href="/verbo-separar/" title="verbo separar">separar</a> <span>&raquo;</span>  <a href="/verbo-sepegar/" title="verbo sepegar">sepegar</a> <span>&raquo;</span> </div>
+    </div>
+        <div style="clear: both;"></div>
+    <div class="w100">
+        <div id="div-gpt-sg-04deeb8d03fa3ecdd6cb45adae939467" class="ad-unit ad-unit--pt-br"></div>    </div>
+</div>
+<div id="footer" class="row">
+    <div id="menuLinks" class="flinks col-sm-12">
+        <a href="/contato.php?a=e">Encontrou um erro?</a>
+        <span> | </span>
+        <a href="/verbos-populares/">Lista de verbos</a>
+        <span> | </span>
+        <a href="/verbos-regulares/">Verbos regulares</a>
+        <span> | </span>
+        <a href="/verbos-irregulares-no-portugues/">Verbos irregulares</a>
+        <span> | </span>
+        <a href="/artigos/">Tudo sobre verbos</a>
+        <span> | </span>
+        <a href="/contato.php?a=s">Sugerir verbos</a>
+        <span> | </span>
+        <a href="/sobre.html">Sobre</a>
+        <span> | </span>
+        <a href="/politica-privacidade.html">Privacidade</a>
+        <span> | </span>
+        <a href="/contato.php">Contato</a>
+    </div>
+    <a href="#" onclick="footerMenuClick();return false;" class="show-menu pull-left visible-xs col-xs-1"></a>
+    <div id="about" class="col-sm-12 col-xs-10">
+        <p>Copyright &copy; 2011-2023 <a href="https://www.7graus.com/" rel="nofollow co-worker">7Graus</a> <span class="hidden-xs">- <strong>Conjugação.com.br</strong>: <a href="/">conjugação de verbos</a> da língua portuguesa é parte do <a href="https://www.dicio.com.br/" rel="nofollow co-worker">Dicio.com.br</a></span></p>
+    </div>
+</div>
+</div>
+
+<script>(function(){var s0;var s1;var s2;googletag.cmd.push(function(){googletag.pubads().enableLazyLoad({"fetchMarginPercent":500,"renderMarginPercent":200,"mobileScaling":2});googletag.pubads().disableInitialLoad();googletag.enableServices();var sm0=googletag.sizeMapping().addSize([0,0],[]).addSize([768,0],[[160,600],[120,600]]).build(),sm1=googletag.sizeMapping().addSize([0,0],[]).addSize([270,0],[[250,250]]).addSize([320,0],[[300,250],[250,250]]).addSize([356,0],[[336,280],[300,250],[250,250]]).build(),sm2=googletag.sizeMapping().addSize([0,0],[]).addSize([300,0],[[300,250],[250,250]]).addSize([336,0],[[336,280],[300,250],[250,250]]).addSize([468,0],[[468,60],[336,280],[300,250],[250,250]]).addSize([728,0],[[728,90],[468,60],[336,280],[300,250],[250,250]]).addSize([970,0],[[970,90],[728,90],[468,60],[336,280],[300,250],[250,250]]).build();var ss0=[[160,600],[120,600]],ss1=[[336,280],[300,250],[250,250]],ss2=[[970,90],[728,90],[468,60],[336,280],[300,250],[250,250]];s0=googletag.defineSlot('/1062898/conjugacao_verbo_sidebar',ss0,'div-gpt-sg-5c2b0f112805f430f41f0d68e53c154c').defineSizeMapping(sm0).addService(googletag.pubads()),s1=googletag.defineSlot('/1062898/conjugacao_verbo_mrec',ss1,'div-gpt-sg-f8ca454fb5a796542db0151b864a3311').defineSizeMapping(sm1).addService(googletag.pubads()),s2=googletag.defineSlot('/1062898/conjugacao_bottom_ros',ss2,'div-gpt-sg-04deeb8d03fa3ecdd6cb45adae939467').defineSizeMapping(sm2).addService(googletag.pubads());var slots=[s0,s1,s2];slots.forEach(function(s){googletag.display(s.getSlotElementId())});googletag.pubads().refresh(slots);var gae=function(e,s){if(!window.localStorage || window.localStorage.getItem("sg_gpt_event")!=="1")return;if(typeof gtag!=="undefined"){gtag("event",e,{event_category:"Sg_GPT",event_label:s.getAdUnitPath(),non_interaction:true})}else if(typeof ga!=="undefined")ga("send","event","Sg_GPT",e,s.getAdUnitPath(),0,{nonInteraction:true})};googletag.pubads().addEventListener("impressionViewable",function(e){gae("ImpressionViewable",e.slot)});googletag.pubads().addEventListener("slotRenderEnded",function(e){gae("SlotRenderEnded",e.slot)});window.Sg_GPT_get_slots=function(){return slots};});googletag.cmd.push(function(){!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q('i',arguments)},fetchBids:function(){q('f',arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}('apstag',window,document,'script','//c.amazon-adsystem.com/aax2/apstag.js');
+            apstag.init({pubID: '031d2526-e3d7-48d3-94fd-8cec14da13e5',adServer: 'googletag', simplerGPT: true});
+            apstag.fetchBids({slots: [s0,s1,s2], timeout: 2000},
+            function(bids) {
+                googletag.cmd.push(function(){
+                    apstag.setDisplayBids();
+                    googletag.pubads().refresh([s0,s1,s2]);
+                });
+            });
+            });})()</script>
+<script type="text/javascript">
+    function footerMenuClick() {
+        var elem = document.getElementById("menuLinks");
+        if(hasClass(elem, "visible")) {
+            elem.className = elem.className.replace(" visible", "");
+            elem.className = elem.className.replace("visible", "");
+        } else {
+            elem.className += elem.className ? ' visible' : 'visible';
+        }
+        window.scrollTo(0,document.body.scrollHeight);
+    }
+    function hasClass(element, cls) {
+        return (' ' + element.className + ' ').indexOf(' ' + cls + ' ') > -1;
+    }
+
+    
+</script>
+
+<script type="text/javascript" src="https://static.conjugacao.com.br/assets/foscript_046.js" async></script>
+
+
+                    <script>
+                        (function() {
+
+                            var loadBar = function(isEu) {
+                                if(isEu) {
+                                    var s = document.createElement("script")
+                                    var el = document.getElementsByTagName("script")[0];
+                                    s.src = "https://7gra.us/consentbar/consent-bar.min.js?v=8";
+                                    el.parentNode.insertBefore(s, el);
+
+                                    var iterator = 0;
+                                    var initConsentBar = setInterval(function() {
+                                       if (typeof window.ConsentBar !== "undefined" || iterator++ > 100) {
+                                        clearInterval(initConsentBar);
+                                         window.consentBar = new ConsentBar({"enable":true,"blocking":false,"language":"pt","privacy_page":"\/politica-privacidade.html"});
+                                         window.consentBar.showBar();
+                                       }
+                                    }, 100);
+                                }
+                            }
+
+                            window[window.attachEvent ? "attachEvent" : "addEventListener"](window.attachEvent ? "onload" : "load", function() {
+                                var eu = localStorage.getItem("sg_eu");
+                                var btn = document.getElementsByClassName("cookies_manager");
+                                if(btn.length > 0) {
+                                    var btnStyle = "color:#286fb0; text-decoration: underline; cursor: pointer";
+                                    btn[0].style.cssText = btnStyle;
+                                }
+
+                                if(eu === null) {
+                                var request = new XMLHttpRequest();
+                                request.open("GET", window.location.protocol + "//eu.7gra.us/", true);
+                                request.onreadystatechange = function() {
+                                  if (this.readyState === 4 && this.status === 200) {
+                                     eu = this.responseText;
+                                     localStorage.setItem("sg_eu", eu);
+
+                                     loadBar(eu == "1");
+                                  }
+                                };
+                                    request.send();
+                                }else {
+                                    loadBar(eu == "1");
+                                }
+
+                                var iterator = 0;
+                                var isConsentBarRunning = setInterval(function() {
+                                    if (typeof window.ConsentBar !== "undefined" || iterator++ > 100) {
+                                        clearInterval(isConsentBarRunning);
+
+                                        if(btn.length > 0) {
+                                            btn[0].onclick = function() {
+                                                window.consentBar.showBar(true);
+                                            }
+                                        }
+                                    }
+                                }, 100);
+                            }, false);
+                        })();
+                    </script>
+                <sg-bhof
+                    projectUrl="https://www.conjugacao.com.br"
+                    contentUrl="/verbo-sentir/"
+                    backofficeUrl="https://www.conjugacao.com.br/backoffice/palavras/edit.php?id={id}"
+                    projectId="15"
+                    contentId="17880"
+                    contentData='{
+                        "datePublished":"2016-09-12 22:36:55",
+                        "dateUpdated":""
+                        }'
+                    style="display:none"
+                ></sg-bhof>    </body>
+</html>

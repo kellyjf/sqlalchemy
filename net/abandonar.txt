@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="ISO-8859-1"/>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Conjugação do Verbo Abandonar - Conjugação de Verbos</title>
+    <meta name="description" content="Verbo Abandonar. Conjugação de abandonar em todos os tempos verbais; presente, passado e futuro. Indicativo: abandono, abandonas, abandona, abandonamos, abandonai ..."/>
+    <link href="https://static.conjugacao.com.br/assets/style_046.css" rel="stylesheet" type="text/css"/>
+    <link rel="alternate" type="application/rss+xml" title="RSS feed do Conjugação de Verbos" href="/rss.php"/>
+    <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,700' rel='stylesheet' type='text/css'/>
+    <link rel="canonical" href="https://www.conjugacao.com.br/verbo-abandonar/" />
+
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#52B243">
+    <meta name="msapplication-TileImage" content="https://static.conjugacao.com.br/mstile-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <meta property="fb:app_id" content="1610599232545800"/>
+    <meta property="og:title" content="Conjugação do Verbo Abandonar - Conjugação de Verbos"/>
+    <meta property="og:url" content="https://www.conjugacao.com.br/verbo-abandonar/"/>
+    <meta property="og:image" content="https://static.conjugacao.com.br/assets/img/conjugacao_logo.png"/>
+    <meta property="og:site_name" content="Conjugação"/>
+    <meta property="og:description" content="Verbo Abandonar. Conjugação de abandonar em todos os tempos verbais; presente, passado e futuro. Indicativo: abandono, abandonas, abandona, abandonamos, abandonai ..."/>
+
+            <meta property="og:type" content="article"/><script async defer src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script>var googletag=window.googletag||{cmd:[]};if(window.localStorage && !window.localStorage.getItem("sg_gpt_event")){window.localStorage.setItem("sg_gpt_event",Math.floor((Math.random()*100)+1)<=10?1:0);}</script>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N69S8WJ');</script>
+</head>
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N69S8WJ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>
+            var _comscore = _comscore || [];
+            _comscore.push({ c1: "2", c2: "21145335" });
+            _comscore.push({ c1: "8", c2: "21145335" ,c3: "1111" });
+            (function() {
+                    
+                if (!("localStorage" in window)) {
+                  window.localStorage = {
+                    _data: {},
+                    setItem: function(id, val) { return this._data[id] = String(val) },
+                    getItem: function(id) { return this._data.hasOwnProperty(id) ? this._data[id] : null }
+                  }
+                }
+            
+                var loadScript = function(){
+                    if(eu == "0") {
+                        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+                        s.async = true;
+                        s.src = "https://sb.scorecardresearch.com/beacon.js";
+                        el.parentNode.insertBefore(s, el);
+                    }
+                };
+            
+                var eu = localStorage.getItem("sg_eu");
+            
+                if(eu === null) {
+                    var request = new XMLHttpRequest();
+                    request.open("GET", window.location.protocol + "//eu.7gra.us/", true);
+                    request.onreadystatechange = function() {
+                      if (this.readyState === 4 && this.status === 200) {
+                         eu = this.responseText;
+                         localStorage.setItem("sg_eu", eu)
+                         loadScript();
+                      }
+                    };
+                    request.send();
+            
+                }
+            
+                loadScript();
+                    
+            })();
+            </script><div id="wrapper" class="container">
+    <div id="header" class="row">
+        <div class="col-xs-12 col-sm-6">
+            <div id="logo"><a href="/">conjugação<span>.com.br</span></a></div>
+            <div id="slogan"><a href="/">Conjugação de Verbos em Português</a></div>
+        </div>
+
+        <div class="col-xs-12 col-sm-6" id="search">
+                    <form action="/search.php" id="searchForm" method="get">
+                <input id="q" name="q" type="text" value="abandonar" autofocus />
+                <input type="submit" value="conjugar" id="botao" />
+            </form>
+            <script type="text/javascript">
+                var textbox = document.getElementById('q');
+                textbox.focus();
+                textbox.select();
+            </script>
+                </div>
+
+    </div>
+
+    
+    <div id="page" class="row flex-sticky-wrap">
+        <div id="content" class="col-xs-12 col-sm-12">
+<h1 class='nmt'>Verbo Abandonar</h1>
+<div class="row">
+    <div class="col-xs-12 col-sm-9 col-md-10">
+
+        
+                    <div class="info-v">
+                
+                
+                <p>
+                    <strong>Gerúndio</strong>: <span><span></span><span class="f">abandonando</span></span>                    <br><strong>Particípio passado</strong>: <span><span></span><span class="f">abandonado</span></span>                    <br><strong>Infinitivo</strong>: abandonar                </p>
+
+                <p class="secondary">Tipo de verbo: regular<br/>
+                    Transitividade: transitivo e  pronominal<br/>                    Separação silábica: a-ban-do-<u>nar</u><br/>                </p>
+
+
+                            </div>
+            </div>
+            <div class="col-xs-12 col-sm-3 col-md-2 palavra-sidebar">
+            <div class="ad ad-palavra-sidebar">
+                <div id="div-gpt-sg-5c2b0f112805f430f41f0d68e53c154c" class="ad-unit ad-unit--pt-br"></div>            </div>
+        </div>
+    </div>
+
+
+
+    <div id="conjugacao" class="row">
+
+        <div class="col-xs-12 col-sm-9 col-md-10">
+                            <div class="tempos">
+                    <h3 class="modoconjuga">Indicativo</h3>
+                    <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">abandono</span></span></br><span><span>tu</span><span class="f">abandonas</span></span></br><span><span>ele</span><span class="f">abandona</span></span></br><span><span>nós</span><span class="f">abandonamos</span></span></br><span><span>vós</span><span class="f">abandonais</span></span></br><span><span>eles</span><span class="f">abandonam</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">abandonava</span></span></br><span><span>tu</span><span class="f">abandonavas</span></span></br><span><span>ele</span><span class="f">abandonava</span></span></br><span><span>nós</span><span class="f">abandonávamos</span></span></br><span><span>vós</span><span class="f">abandonáveis</span></span></br><span><span>eles</span><span class="f">abandonavam</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">abandonei</span></span></br><span><span>tu</span><span class="f">abandonaste</span></span></br><span><span>ele</span><span class="f">abandonou</span></span></br><span><span>nós</span><span class="f">abandonamos</span></span></br><span><span>vós</span><span class="f">abandonastes</span></span></br><span><span>eles</span><span class="f">abandonaram</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Mais-que-perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">abandonara</span></span></br><span><span>tu</span><span class="f">abandonaras</span></span></br><span><span>ele</span><span class="f">abandonara</span></span></br><span><span>nós</span><span class="f">abandonáramos</span></span></br><span><span>vós</span><span class="f">abandonáreis</span></span></br><span><span>eles</span><span class="f">abandonaram</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">abandonarei</span></span></br><span><span>tu</span><span class="f">abandonarás</span></span></br><span><span>ele</span><span class="f">abandonará</span></span></br><span><span>nós</span><span class="f">abandonaremos</span></span></br><span><span>vós</span><span class="f">abandonareis</span></span></br><span><span>eles</span><span class="f">abandonarão</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Pretérito</h4>
+                        <p><span><span><span>eu</span><span class="f">abandonaria</span></span></br><span><span>tu</span><span class="f">abandonarias</span></span></br><span><span>ele</span><span class="f">abandonaria</span></span></br><span><span>nós</span><span class="f">abandonaríamos</span></span></br><span><span>vós</span><span class="f">abandonaríeis</span></span></br><span><span>eles</span><span class="f">abandonariam</span></span></br></span></p></div>                </div>
+                    </div>
+
+        <div class="col-xs-12 col-sm-9 col-md-10">
+                            <div class="tempos">
+                    <h3 class="modoconjuga">Subjuntivo</h3>
+                    <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>que eu</span> <span class="f">abandone</span></span></br><span><span>que tu</span> <span class="f">abandones</span></span></br><span><span>que ele</span> <span class="f">abandone</span></span></br><span><span>que nós</span> <span class="f">abandonemos</span></span></br><span><span>que vós</span> <span class="f">abandoneis</span></span></br><span><span>que eles</span> <span class="f">abandonem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>se eu</span> <span class="f">abandonasse</span></span></br><span><span>se tu</span> <span class="f">abandonasses</span></span></br><span><span>se ele</span> <span class="f">abandonasse</span></span></br><span><span>se nós</span> <span class="f">abandonássemos</span></span></br><span><span>se vós</span> <span class="f">abandonásseis</span></span></br><span><span>se eles</span> <span class="f">abandonassem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro</h4>
+                        <p><span><span><span>quando eu</span> <span class="f">abandonar</span></span></br><span><span>quando tu</span> <span class="f">abandonares</span></span></br><span><span>quando ele</span> <span class="f">abandonar</span></span></br><span><span>quando nós</span> <span class="f">abandonarmos</span></span></br><span><span>quando vós</span> <span class="f">abandonardes</span></span></br><span><span>quando eles</span> <span class="f">abandonarem</span></span></br></span></p></div>                </div>
+                            <div class="tempos cols2">
+                    <h3 class="modoconjuga">Imperativo</h3>
+                    <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Afirmativo</h4>
+                        <p><span><span>--</span></br><span><span class="f">abandona</span> <span>tu</span></span></br><span><span class="f">abandone</span> <span>você</span></span></br><span><span class="f">abandonemos</span> <span>nós</span></span></br><span><span class="f">abandonai</span> <span>vós</span></span></br><span><span class="f">abandonem</span> <span>vocês</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Negativo</h4>
+                        <p><span><span>--</span></br><span><span>não</span> <span class="f">abandones</span> <span>tu</span></span></br><span><span>não</span> <span class="f">abandone</span> <span>você</span></span></br><span><span>não</span> <span class="f">abandonemos</span> <span>nós</span></span></br><span><span>não</span> <span class="f">abandoneis</span> <span>vós</span></span></br><span><span>não</span> <span class="f">abandonem</span> <span>vocês</span></span></br></span></p></div>                </div>
+                            <div class="tempos cols1">
+                    <h3 class="modoconjuga">Infinitivo</h3>
+                    <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Infinitivo Pessoal</h4>
+                        <p><span><span><span>por</span> <span class="f">abandonar</span> <span>eu</span></span></br><span><span>por</span> <span class="f">abandonares</span> <span>tu</span></span></br><span><span>por</span> <span class="f">abandonar</span> <span>ele</span></span></br><span><span>por</span> <span class="f">abandonarmos</span> <span>nós</span></span></br><span><span>por</span> <span class="f">abandonardes</span> <span>vós</span></span></br><span><span>por</span> <span class="f">abandonarem</span> <span>eles</span></span></br></span></p></div>                </div>
+                    </div>
+    </div>
+
+                <div class="row">
+                <div class="col-xs-12 col-sm-9 col-md-10">
+                    <div class="ad ad-palavra-middle">
+                        <div id="div-gpt-sg-f8ca454fb5a796542db0151b864a3311" class="ad-unit ad-unit--pt-br"></div>                    </div>
+                </div>
+            </div>
+            <h2 class="pronominal-titulo">Conjugação com pronome oblíquo átono o</h2>
+
+                            <div class="info-v">
+                    <p><strong>Gerúndio:</strong> <span><span></span><span class="f">abandonando-o</span></span></p>
+                </div>
+            
+            <div id="conjugacao-pronominal" class="row">
+                <div class="col-xs-12 col-sm-9 col-md-10">
+
+                                            <div class="tempos">
+                            <h3 class="modo">Indicativo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">abandono-o</span></span></br><span><span>tu</span><span class="f">abandona-lo</span></span></br><span><span>ele</span><span class="f">abandona-o</span></span></br><span><span>nós</span><span class="f">abandonamo-lo</span></span></br><span><span>vós</span><span class="f">abandonai-lo</span></span></br><span><span>eles</span><span class="f">abandonam-no</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">abandonava-o</span></span></br><span><span>tu</span><span class="f">abandonava-lo</span></span></br><span><span>ele</span><span class="f">abandonava-o</span></span></br><span><span>nós</span><span class="f">abandonávamo-lo</span></span></br><span><span>vós</span><span class="f">abandonávei-lo</span></span></br><span><span>eles</span><span class="f">abandonavam-no</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">abandonei-o</span></span></br><span><span>tu</span><span class="f">abandonaste-o</span></span></br><span><span>ele</span><span class="f">abandonou-o</span></span></br><span><span>nós</span><span class="f">abandonamo-lo</span></span></br><span><span>vós</span><span class="f">abandonaste-lo</span></span></br><span><span>eles</span><span class="f">abandonaram-no</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Mais-que-perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">abandonara-o</span></span></br><span><span>tu</span><span class="f">abandonara-lo</span></span></br><span><span>ele</span><span class="f">abandonara-o</span></span></br><span><span>nós</span><span class="f">abandonáramo-lo</span></span></br><span><span>vós</span><span class="f">abandonárei-lo</span></span></br><span><span>eles</span><span class="f">abandonaram-no</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">abandoná-lo-ei</span></span></br><span><span>tu</span><span class="f">abandoná-lo-ás</span></span></br><span><span>ele</span><span class="f">abandoná-lo-á</span></span></br><span><span>nós</span><span class="f">abandoná-lo-emos</span></span></br><span><span>vós</span><span class="f">abandoná-lo-eis</span></span></br><span><span>eles</span><span class="f">abandoná-lo-ão</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Pretérito</h4>
+                        <p><span><span><span>eu</span><span class="f">abandoná-lo-ia</span></span></br><span><span>tu</span><span class="f">abandoná-lo-ias</span></span></br><span><span>ele</span><span class="f">abandoná-lo-ia</span></span></br><span><span>nós</span><span class="f">abandoná-lo-íamos</span></span></br><span><span>vós</span><span class="f">abandoná-lo-íeis</span></span></br><span><span>eles</span><span class="f">abandoná-lo-iam</span></span></br></span></p></div>                        </div>
+                    
+                </div>
+                <div class="col-xs-12 col-sm-9 col-md-10">
+
+                                            <div class="tempos">
+                            <h3 class="modo">Subjuntivo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>que eu o</span> <span class="f">abandone</span></span></br><span><span>que tu o</span> <span class="f">abandones</span></span></br><span><span>que ele o</span> <span class="f">abandone</span></span></br><span><span>que nós o</span> <span class="f">abandonemos</span></span></br><span><span>que vós o</span> <span class="f">abandoneis</span></span></br><span><span>que eles o</span> <span class="f">abandonem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>se eu o</span> <span class="f">abandonasse</span></span></br><span><span>se tu o</span> <span class="f">abandonasses</span></span></br><span><span>se ele o</span> <span class="f">abandonasse</span></span></br><span><span>se nós o</span> <span class="f">abandonássemos</span></span></br><span><span>se vós o</span> <span class="f">abandonásseis</span></span></br><span><span>se eles o</span> <span class="f">abandonassem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro</h4>
+                        <p><span><span><span>quando eu o</span> <span class="f">abandonar</span></span></br><span><span>quando tu o</span> <span class="f">abandonares</span></span></br><span><span>quando ele o</span> <span class="f">abandonar</span></span></br><span><span>quando nós o</span> <span class="f">abandonarmos</span></span></br><span><span>quando vós o</span> <span class="f">abandonardes</span></span></br><span><span>quando eles o</span> <span class="f">abandonarem</span></span></br></span></p></div>                        </div>
+                    
+                                            <div class="tempos cols2">
+                            <h3 class="modo">Imperativo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Afirmativo</h4>
+                        <p><span><span>--</span></br><span><span class="f">abandona-o</span> <span>tu</span></span></br><span><span class="f">abandone-o</span> <span>você</span></span></br><span><span class="f">abandonemo-lo</span> <span>nós</span></span></br><span><span class="f">abandonai-o</span> <span>vós</span></span></br><span><span class="f">abandonem-no</span> <span>vocês</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Negativo</h4>
+                        <p><span><span>--</span></br><span><span>não o</span> <span class="f">abandones</span> <span>tu</span></span></br><span><span>não o</span> <span class="f">abandone</span> <span>você</span></span></br><span><span>não o</span> <span class="f">abandonemos</span> <span>nós</span></span></br><span><span>não o</span> <span class="f">abandoneis</span> <span>vós</span></span></br><span><span>não o</span> <span class="f">abandonem</span> <span>vocês</span></span></br></span></p></div>                        </div>
+                    
+                                            <div class="tempos cols1">
+                            <h3 class="modo">Infinitivo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Infinitivo Pessoal</h4>
+                        <p><span><span><span>por o</span> <span class="f">abandonar</span> <span>eu</span></span></br><span><span>por o</span> <span class="f">abandonares</span> <span>tu</span></span></br><span><span>por o</span> <span class="f">abandonar</span> <span>ele</span></span></br><span><span>por o</span> <span class="f">abandonarmos</span> <span>nós</span></span></br><span><span>por o</span> <span class="f">abandonardes</span> <span>vós</span></span></br><span><span>por o</span> <span class="f">abandonarem</span> <span>eles</span></span></br></span></p></div>                        </div>
+                    
+                </div>
+            </div>
+            <h2 class="pronominal-titulo">Conjugação pronominal</h2>
+
+                            <div class="info-v">
+                    <p><strong>Gerúndio:</strong> <span><span></span><span class="f">abandonando-se</span></span></p>
+                </div>
+            
+            <div id="conjugacao-pronominal-reflexa" class="row">
+                <div class="col-xs-12 col-sm-9 col-md-10">
+
+                                            <div class="tempos">
+                            <h3 class="modo">Indicativo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">abandono-me</span></span></br><span><span>tu</span><span class="f">abandonas-te</span></span></br><span><span>ele</span><span class="f">abandona-se</span></span></br><span><span>nós</span><span class="f">abandonamo-nos</span></span></br><span><span>vós</span><span class="f">abandonais-vos</span></span></br><span><span>eles</span><span class="f">abandonam-se</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">abandonava-me</span></span></br><span><span>tu</span><span class="f">abandonavas-te</span></span></br><span><span>ele</span><span class="f">abandonava-se</span></span></br><span><span>nós</span><span class="f">abandonávamo-nos</span></span></br><span><span>vós</span><span class="f">abandonáveis-vos</span></span></br><span><span>eles</span><span class="f">abandonavam-se</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">abandonei-me</span></span></br><span><span>tu</span><span class="f">abandonaste-te</span></span></br><span><span>ele</span><span class="f">abandonou-se</span></span></br><span><span>nós</span><span class="f">abandonamo-nos</span></span></br><span><span>vós</span><span class="f">abandonastes-vos</span></span></br><span><span>eles</span><span class="f">abandonaram-se</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Mais-que-perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">abandonara-me</span></span></br><span><span>tu</span><span class="f">abandonaras-te</span></span></br><span><span>ele</span><span class="f">abandonara-se</span></span></br><span><span>nós</span><span class="f">abandonáramo-nos</span></span></br><span><span>vós</span><span class="f">abandonáreis-vos</span></span></br><span><span>eles</span><span class="f">abandonaram-se</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">abandonar-me-ei</span></span></br><span><span>tu</span><span class="f">abandonar-te-ás</span></span></br><span><span>ele</span><span class="f">abandonar-se-á</span></span></br><span><span>nós</span><span class="f">abandonar-nos-emos</span></span></br><span><span>vós</span><span class="f">abandonar-vos-eis</span></span></br><span><span>eles</span><span class="f">abandonar-se-ão</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Pretérito</h4>
+                        <p><span><span><span>eu</span><span class="f">abandonar-me-ia</span></span></br><span><span>tu</span><span class="f">abandonar-te-ias</span></span></br><span><span>ele</span><span class="f">abandonar-se-ia</span></span></br><span><span>nós</span><span class="f">abandonar-nos-íamos</span></span></br><span><span>vós</span><span class="f">abandonar-vos-íeis</span></span></br><span><span>eles</span><span class="f">abandonar-se-iam</span></span></br></span></p></div>                        </div>
+                    
+                </div>
+                <div class="col-xs-12 col-sm-9 col-md-10">
+
+                                            <div class="tempos">
+                            <h3 class="modo">Subjuntivo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>que eu me</span> <span class="f">abandone</span></span></br><span><span>que tu te</span> <span class="f">abandones</span></span></br><span><span>que ele se</span> <span class="f">abandone</span></span></br><span><span>que nós nos</span> <span class="f">abandonemos</span></span></br><span><span>que vós vos</span> <span class="f">abandoneis</span></span></br><span><span>que eles se</span> <span class="f">abandonem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>se eu me</span> <span class="f">abandonasse</span></span></br><span><span>se tu te</span> <span class="f">abandonasses</span></span></br><span><span>se ele se</span> <span class="f">abandonasse</span></span></br><span><span>se nós nos</span> <span class="f">abandonássemos</span></span></br><span><span>se vós vos</span> <span class="f">abandonásseis</span></span></br><span><span>se eles se</span> <span class="f">abandonassem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro</h4>
+                        <p><span><span><span>quando eu me</span> <span class="f">abandonar</span></span></br><span><span>quando tu te</span> <span class="f">abandonares</span></span></br><span><span>quando ele se</span> <span class="f">abandonar</span></span></br><span><span>quando nós nos</span> <span class="f">abandonarmos</span></span></br><span><span>quando vós vos</span> <span class="f">abandonardes</span></span></br><span><span>quando eles se</span> <span class="f">abandonarem</span></span></br></span></p></div>                        </div>
+                    
+                                            <div class="tempos cols2">
+                            <h3 class="modo">Imperativo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Afirmativo</h4>
+                        <p><span><span>--</span></br><span><span class="f">abandona-te</span> <span>tu</span></span></br><span><span class="f">abandone-se</span> <span>você</span></span></br><span><span class="f">abandonemo-nos</span> <span>nós</span></span></br><span><span class="f">abandonai-vos</span> <span>vós</span></span></br><span><span class="f">abandonem-se</span> <span>vocês</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Negativo</h4>
+                        <p><span><span>--</span></br><span><span>não te</span> <span class="f">abandones</span> <span>tu</span></span></br><span><span>não se</span> <span class="f">abandone</span> <span>você</span></span></br><span><span>não nos</span> <span class="f">abandonemos</span> <span>nós</span></span></br><span><span>não vos</span> <span class="f">abandoneis</span> <span>vós</span></span></br><span><span>não se</span> <span class="f">abandonem</span> <span>vocês</span></span></br></span></p></div>                        </div>
+                    
+                                            <div class="tempos cols1">
+                            <h3 class="modo">Infinitivo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Infinitivo Pessoal</h4>
+                        <p><span><span><span class="f">abandonar-me</span> <span>eu</span></span></br><span><span class="f">abandonares-te</span> <span>tu</span></span></br><span><span class="f">abandonar-se</span> <span>ele</span></span></br><span><span class="f">abandonarmo-nos</span> <span>nós</span></span></br><span><span class="f">abandonardes-vos</span> <span>vós</span></span></br><span><span class="f">abandonarem-se</span> <span>eles</span></span></br></span></p></div>                        </div>
+                    
+                </div>
+            </div>
+<div class="tempo2">Verbos relacionados com abandonar</div><div class="wrapper"><ul><li><a href="/verbo-partir/">partir</a></li><li><a href="/verbo-sair/">sair</a></li><li><a href="/verbo-deixar/">deixar</a></li><li><a href="/verbo-fugir/">fugir</a></li><li><a href="/verbo-esquecer/">esquecer</a></li><li><a href="/verbo-desistir/">desistir</a></li><li><a href="/verbo-desocupar/">desocupar</a></li><li><a href="/verbo-largar/">largar</a></li><li><a href="/verbo-repudiar/">repudiar</a></li><li><a href="/verbo-desprezar/">desprezar</a></li><li><a href="/verbo-renunciar/">renunciar</a></li><li><a href="/verbo-sucumbir/">sucumbir</a></li></ul></div>
+<div class="wrapper">
+<div class="tempo2">Saiba mais sobre os verbos</div>
+    <ul>
+        <li><a href="/verbos-regulares/">Verbos regulares</a></li>
+        <li><a href="/verbos-irregulares-no-portugues/">Verbos irregulares</a></li>
+        <li><a href="/tempos-verbais/">Tempos verbais</a></li>
+        <li><a href="/formas-verbais/">Formas verbais</a></li>
+        <li><a href="/verbos-no-infinitivo/">Verbos no infinitivo</a></li>
+        <li><a href="/verbos-intransitivos/">Verbos intransitivos</a></li>
+        <li><a href="/verbos-transitivos-indiretos/">Verbos transitivos indiretos</a></li>
+        <li><a href="/regencia-verbal-e-nominal/">Regência verbal e nominal</a></li>
+    </ul>
+</div>
+
+<script type="text/javascript">
+    function hit (){
+        conjugacao.hits("palavra", "abandonar");
+            }
+    document.addEventListener('articleInitiated', hit, false);
+</script>
+
+<div id='ligacoes'> <span>&laquo;</span> <a href="/verbo-abandoar/" title="verbo abandoar">abandoar</a>  <span>&laquo;</span> <a href="/verbo-abandolinar/" title="verbo abandolinar">abandolinar</a>  <span>&laquo;</span>  <b>abandonar</b>  <span>&raquo;</span>  <a href="/verbo-abanhar/" title="verbo abanhar">abanhar</a> <span>&raquo;</span>  <a href="/verbo-abanicar/" title="verbo abanicar">abanicar</a> <span>&raquo;</span> </div>
+    </div>
+        <div style="clear: both;"></div>
+    <div class="w100">
+        <div id="div-gpt-sg-04deeb8d03fa3ecdd6cb45adae939467" class="ad-unit ad-unit--pt-br"></div>    </div>
+</div>
+<div id="footer" class="row">
+    <div id="menuLinks" class="flinks col-sm-12">
+        <a href="/contato.php?a=e">Encontrou um erro?</a>
+        <span> | </span>
+        <a href="/verbos-populares/">Lista de verbos</a>
+        <span> | </span>
+        <a href="/verbos-regulares/">Verbos regulares</a>
+        <span> | </span>
+        <a href="/verbos-irregulares-no-portugues/">Verbos irregulares</a>
+        <span> | </span>
+        <a href="/artigos/">Tudo sobre verbos</a>
+        <span> | </span>
+        <a href="/contato.php?a=s">Sugerir verbos</a>
+        <span> | </span>
+        <a href="/sobre.html">Sobre</a>
+        <span> | </span>
+        <a href="/politica-privacidade.html">Privacidade</a>
+        <span> | </span>
+        <a href="/contato.php">Contato</a>
+    </div>
+    <a href="#" onclick="footerMenuClick();return false;" class="show-menu pull-left visible-xs col-xs-1"></a>
+    <div id="about" class="col-sm-12 col-xs-10">
+        <p>Copyright &copy; 2011-2023 <a href="https://www.7graus.com/" rel="nofollow co-worker">7Graus</a> <span class="hidden-xs">- <strong>Conjugação.com.br</strong>: <a href="/">conjugação de verbos</a> da língua portuguesa é parte do <a href="https://www.dicio.com.br/" rel="nofollow co-worker">Dicio.com.br</a></span></p>
+    </div>
+</div>
+</div>
+
+<script>(function(){var s0;var s1;var s2;googletag.cmd.push(function(){googletag.pubads().enableLazyLoad({"fetchMarginPercent":500,"renderMarginPercent":200,"mobileScaling":2});googletag.pubads().disableInitialLoad();googletag.enableServices();var sm0=googletag.sizeMapping().addSize([0,0],[]).addSize([768,0],[[160,600],[120,600]]).build(),sm1=googletag.sizeMapping().addSize([0,0],[]).addSize([270,0],[[250,250]]).addSize([320,0],[[300,250],[250,250]]).addSize([356,0],[[336,280],[300,250],[250,250]]).build(),sm2=googletag.sizeMapping().addSize([0,0],[]).addSize([300,0],[[300,250],[250,250]]).addSize([336,0],[[336,280],[300,250],[250,250]]).addSize([468,0],[[468,60],[336,280],[300,250],[250,250]]).addSize([728,0],[[728,90],[468,60],[336,280],[300,250],[250,250]]).addSize([970,0],[[970,90],[728,90],[468,60],[336,280],[300,250],[250,250]]).build();var ss0=[[160,600],[120,600]],ss1=[[336,280],[300,250],[250,250]],ss2=[[970,90],[728,90],[468,60],[336,280],[300,250],[250,250]];s0=googletag.defineSlot('/1062898/conjugacao_verbo_sidebar',ss0,'div-gpt-sg-5c2b0f112805f430f41f0d68e53c154c').defineSizeMapping(sm0).addService(googletag.pubads()),s1=googletag.defineSlot('/1062898/conjugacao_verbo_mrec',ss1,'div-gpt-sg-f8ca454fb5a796542db0151b864a3311').defineSizeMapping(sm1).addService(googletag.pubads()),s2=googletag.defineSlot('/1062898/conjugacao_bottom_ros',ss2,'div-gpt-sg-04deeb8d03fa3ecdd6cb45adae939467').defineSizeMapping(sm2).addService(googletag.pubads());var slots=[s0,s1,s2];slots.forEach(function(s){googletag.display(s.getSlotElementId())});googletag.pubads().refresh(slots);var gae=function(e,s){if(!window.localStorage || window.localStorage.getItem("sg_gpt_event")!=="1")return;if(typeof gtag!=="undefined"){gtag("event",e,{event_category:"Sg_GPT",event_label:s.getAdUnitPath(),non_interaction:true})}else if(typeof ga!=="undefined")ga("send","event","Sg_GPT",e,s.getAdUnitPath(),0,{nonInteraction:true})};googletag.pubads().addEventListener("impressionViewable",function(e){gae("ImpressionViewable",e.slot)});googletag.pubads().addEventListener("slotRenderEnded",function(e){gae("SlotRenderEnded",e.slot)});window.Sg_GPT_get_slots=function(){return slots};});googletag.cmd.push(function(){!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q('i',arguments)},fetchBids:function(){q('f',arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}('apstag',window,document,'script','//c.amazon-adsystem.com/aax2/apstag.js');
+            apstag.init({pubID: '031d2526-e3d7-48d3-94fd-8cec14da13e5',adServer: 'googletag', simplerGPT: true});
+            apstag.fetchBids({slots: [s0,s1,s2], timeout: 2000},
+            function(bids) {
+                googletag.cmd.push(function(){
+                    apstag.setDisplayBids();
+                    googletag.pubads().refresh([s0,s1,s2]);
+                });
+            });
+            });})()</script>
+<script type="text/javascript">
+    function footerMenuClick() {
+        var elem = document.getElementById("menuLinks");
+        if(hasClass(elem, "visible")) {
+            elem.className = elem.className.replace(" visible", "");
+            elem.className = elem.className.replace("visible", "");
+        } else {
+            elem.className += elem.className ? ' visible' : 'visible';
+        }
+        window.scrollTo(0,document.body.scrollHeight);
+    }
+    function hasClass(element, cls) {
+        return (' ' + element.className + ' ').indexOf(' ' + cls + ' ') > -1;
+    }
+
+    
+</script>
+
+<script type="text/javascript" src="https://static.conjugacao.com.br/assets/foscript_046.js" async></script>
+
+
+                    <script>
+                        (function() {
+
+                            var loadBar = function(isEu) {
+                                if(isEu) {
+                                    var s = document.createElement("script")
+                                    var el = document.getElementsByTagName("script")[0];
+                                    s.src = "https://7gra.us/consentbar/consent-bar.min.js?v=8";
+                                    el.parentNode.insertBefore(s, el);
+
+                                    var iterator = 0;
+                                    var initConsentBar = setInterval(function() {
+                                       if (typeof window.ConsentBar !== "undefined" || iterator++ > 100) {
+                                        clearInterval(initConsentBar);
+                                         window.consentBar = new ConsentBar({"enable":true,"blocking":false,"language":"pt","privacy_page":"\/politica-privacidade.html"});
+                                         window.consentBar.showBar();
+                                       }
+                                    }, 100);
+                                }
+                            }
+
+                            window[window.attachEvent ? "attachEvent" : "addEventListener"](window.attachEvent ? "onload" : "load", function() {
+                                var eu = localStorage.getItem("sg_eu");
+                                var btn = document.getElementsByClassName("cookies_manager");
+                                if(btn.length > 0) {
+                                    var btnStyle = "color:#286fb0; text-decoration: underline; cursor: pointer";
+                                    btn[0].style.cssText = btnStyle;
+                                }
+
+                                if(eu === null) {
+                                var request = new XMLHttpRequest();
+                                request.open("GET", window.location.protocol + "//eu.7gra.us/", true);
+                                request.onreadystatechange = function() {
+                                  if (this.readyState === 4 && this.status === 200) {
+                                     eu = this.responseText;
+                                     localStorage.setItem("sg_eu", eu);
+
+                                     loadBar(eu == "1");
+                                  }
+                                };
+                                    request.send();
+                                }else {
+                                    loadBar(eu == "1");
+                                }
+
+                                var iterator = 0;
+                                var isConsentBarRunning = setInterval(function() {
+                                    if (typeof window.ConsentBar !== "undefined" || iterator++ > 100) {
+                                        clearInterval(isConsentBarRunning);
+
+                                        if(btn.length > 0) {
+                                            btn[0].onclick = function() {
+                                                window.consentBar.showBar(true);
+                                            }
+                                        }
+                                    }
+                                }, 100);
+                            }, false);
+                        })();
+                    </script>
+                <sg-bhof
+                    projectUrl="https://www.conjugacao.com.br"
+                    contentUrl="/verbo-abandonar/"
+                    backofficeUrl="https://www.conjugacao.com.br/backoffice/palavras/edit.php?id={id}"
+                    projectId="15"
+                    contentId="67"
+                    contentData='{
+                        "datePublished":"0000-00-00 00:00:00",
+                        "dateUpdated":""
+                        }'
+                    style="display:none"
+                ></sg-bhof>    </body>
+</html>

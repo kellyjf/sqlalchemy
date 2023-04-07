@@ -118,7 +118,7 @@ def load_verb(verb, infinitivo=""):
 					person=personmap.get(pid,"False")
 					if person:
 						session.add(Conjugation(verb_id=verb, tense_id=tkey, person=person, text=text))
-		session.add(Verb(id=infinitivo, regular=verbreg, gerund=gerund, past_part=past_part))
+		session.add(Verb(id=verb, regular=verbreg, gerund=gerund, past_part=past_part))
 
 def load_db():
 
@@ -290,6 +290,7 @@ def load_db():
 			verb=verb.strip()
 			print("Loading ",verb)
 			load_verb(verb)
+			session.commit()
 
 def load_rules():
 	for stat in session.query(Statistic).all():

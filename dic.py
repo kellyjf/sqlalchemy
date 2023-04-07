@@ -96,6 +96,7 @@ if __name__ == "__main__":
 		session.delete(cat)
 	session.commit()
 	for verb in session.query(Verb).filter(not_(Verb.id.like('*%'))).all():
+			print(f"Defs for {verb.id}")
 			load_verb(verb)
 
 

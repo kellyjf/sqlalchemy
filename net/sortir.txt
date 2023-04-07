@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="ISO-8859-1"/>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Conjugação do Verbo Sortir - Conjugação de Verbos</title>
+    <meta name="description" content="Verbo Sortir. Conjugação de sortir em todos os tempos verbais; presente, passado e futuro. Indicativo: surto, surtes, surte, sortimos, sortis, surtem"/>
+    <link href="https://static.conjugacao.com.br/assets/style_046.css" rel="stylesheet" type="text/css"/>
+    <link rel="alternate" type="application/rss+xml" title="RSS feed do Conjugação de Verbos" href="/rss.php"/>
+    <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,700' rel='stylesheet' type='text/css'/>
+    <link rel="canonical" href="https://www.conjugacao.com.br/verbo-sortir/" />
+
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#52B243">
+    <meta name="msapplication-TileImage" content="https://static.conjugacao.com.br/mstile-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <meta property="fb:app_id" content="1610599232545800"/>
+    <meta property="og:title" content="Conjugação do Verbo Sortir - Conjugação de Verbos"/>
+    <meta property="og:url" content="https://www.conjugacao.com.br/verbo-sortir/"/>
+    <meta property="og:image" content="https://static.conjugacao.com.br/assets/img/conjugacao_logo.png"/>
+    <meta property="og:site_name" content="Conjugação"/>
+    <meta property="og:description" content="Verbo Sortir. Conjugação de sortir em todos os tempos verbais; presente, passado e futuro. Indicativo: surto, surtes, surte, sortimos, sortis, surtem"/>
+
+            <meta property="og:type" content="article"/><script async defer src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script>var googletag=window.googletag||{cmd:[]};if(window.localStorage && !window.localStorage.getItem("sg_gpt_event")){window.localStorage.setItem("sg_gpt_event",Math.floor((Math.random()*100)+1)<=10?1:0);}</script>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-N69S8WJ');</script>
+</head>
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N69S8WJ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>
+            var _comscore = _comscore || [];
+            _comscore.push({ c1: "2", c2: "21145335" });
+            _comscore.push({ c1: "8", c2: "21145335" ,c3: "1111" });
+            (function() {
+                    
+                if (!("localStorage" in window)) {
+                  window.localStorage = {
+                    _data: {},
+                    setItem: function(id, val) { return this._data[id] = String(val) },
+                    getItem: function(id) { return this._data.hasOwnProperty(id) ? this._data[id] : null }
+                  }
+                }
+            
+                var loadScript = function(){
+                    if(eu == "0") {
+                        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+                        s.async = true;
+                        s.src = "https://sb.scorecardresearch.com/beacon.js";
+                        el.parentNode.insertBefore(s, el);
+                    }
+                };
+            
+                var eu = localStorage.getItem("sg_eu");
+            
+                if(eu === null) {
+                    var request = new XMLHttpRequest();
+                    request.open("GET", window.location.protocol + "//eu.7gra.us/", true);
+                    request.onreadystatechange = function() {
+                      if (this.readyState === 4 && this.status === 200) {
+                         eu = this.responseText;
+                         localStorage.setItem("sg_eu", eu)
+                         loadScript();
+                      }
+                    };
+                    request.send();
+            
+                }
+            
+                loadScript();
+                    
+            })();
+            </script><div id="wrapper" class="container">
+    <div id="header" class="row">
+        <div class="col-xs-12 col-sm-6">
+            <div id="logo"><a href="/">conjugação<span>.com.br</span></a></div>
+            <div id="slogan"><a href="/">Conjugação de Verbos em Português</a></div>
+        </div>
+
+        <div class="col-xs-12 col-sm-6" id="search">
+                    <form action="/search.php" id="searchForm" method="get">
+                <input id="q" name="q" type="text" value="sortir" autofocus />
+                <input type="submit" value="conjugar" id="botao" />
+            </form>
+            <script type="text/javascript">
+                var textbox = document.getElementById('q');
+                textbox.focus();
+                textbox.select();
+            </script>
+                </div>
+
+    </div>
+
+    
+    <div id="page" class="row flex-sticky-wrap">
+        <div id="content" class="col-xs-12 col-sm-12">
+<h1 class='nmt'>Verbo Sortir</h1>
+<div class="row">
+    <div class="col-xs-12 col-sm-9 col-md-10">
+
+        
+                    <div class="info-v">
+                
+                
+                <p>
+                    <strong>Gerúndio</strong>: <span><span></span><span class="f">sortindo</span></span>                    <br><strong>Particípio passado</strong>: <span><span></span><span class="f">sortido</span></span>                    <br><strong>Infinitivo</strong>: sortir                </p>
+
+                <p class="secondary">Tipo de verbo: irregular<br/>
+                    Transitividade: transitivo,  pronominal e  intransitivo<br/>                    Separação silábica: sor-<u>tir</u><br/>                </p>
+
+
+                            </div>
+            </div>
+            <div class="col-xs-12 col-sm-3 col-md-2 palavra-sidebar">
+            <div class="ad ad-palavra-sidebar">
+                <div id="div-gpt-sg-5c2b0f112805f430f41f0d68e53c154c" class="ad-unit ad-unit--pt-br"></div>            </div>
+        </div>
+    </div>
+
+
+
+    <div id="conjugacao" class="row">
+
+        <div class="col-xs-12 col-sm-9 col-md-10">
+                            <div class="tempos">
+                    <h3 class="modoconjuga">Indicativo</h3>
+                    <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>eu</span><span class="f irregular">surto</span></span></br><span><span>tu</span><span class="f irregular">surtes</span></span></br><span><span>ele</span><span class="f irregular">surte</span></span></br><span><span>nós</span><span class="f">sortimos</span></span></br><span><span>vós</span><span class="f">sortis</span></span></br><span><span>eles</span><span class="f irregular">surtem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">sortia</span></span></br><span><span>tu</span><span class="f">sortias</span></span></br><span><span>ele</span><span class="f">sortia</span></span></br><span><span>nós</span><span class="f">sortíamos</span></span></br><span><span>vós</span><span class="f">sortíeis</span></span></br><span><span>eles</span><span class="f">sortiam</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">sorti</span></span></br><span><span>tu</span><span class="f">sortiste</span></span></br><span><span>ele</span><span class="f">sortiu</span></span></br><span><span>nós</span><span class="f">sortimos</span></span></br><span><span>vós</span><span class="f">sortistes</span></span></br><span><span>eles</span><span class="f">sortiram</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Mais-que-perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">sortira</span></span></br><span><span>tu</span><span class="f">sortiras</span></span></br><span><span>ele</span><span class="f">sortira</span></span></br><span><span>nós</span><span class="f">sortíramos</span></span></br><span><span>vós</span><span class="f">sortíreis</span></span></br><span><span>eles</span><span class="f">sortiram</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">sortirei</span></span></br><span><span>tu</span><span class="f">sortirás</span></span></br><span><span>ele</span><span class="f">sortirá</span></span></br><span><span>nós</span><span class="f">sortiremos</span></span></br><span><span>vós</span><span class="f">sortireis</span></span></br><span><span>eles</span><span class="f">sortirão</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Pretérito</h4>
+                        <p><span><span><span>eu</span><span class="f">sortiria</span></span></br><span><span>tu</span><span class="f">sortirias</span></span></br><span><span>ele</span><span class="f">sortiria</span></span></br><span><span>nós</span><span class="f">sortiríamos</span></span></br><span><span>vós</span><span class="f">sortiríeis</span></span></br><span><span>eles</span><span class="f">sortiriam</span></span></br></span></p></div>                </div>
+                    </div>
+
+        <div class="col-xs-12 col-sm-9 col-md-10">
+                            <div class="tempos">
+                    <h3 class="modoconjuga">Subjuntivo</h3>
+                    <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>que eu</span> <span class="f irregular">surta</span></span></br><span><span>que tu</span> <span class="f irregular">surtas</span></span></br><span><span>que ele</span> <span class="f irregular">surta</span></span></br><span><span>que nós</span> <span class="f irregular">surtamos</span></span></br><span><span>que vós</span> <span class="f irregular">surtais</span></span></br><span><span>que eles</span> <span class="f irregular">surtam</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>se eu</span> <span class="f">sortisse</span></span></br><span><span>se tu</span> <span class="f">sortisses</span></span></br><span><span>se ele</span> <span class="f">sortisse</span></span></br><span><span>se nós</span> <span class="f">sortíssemos</span></span></br><span><span>se vós</span> <span class="f">sortísseis</span></span></br><span><span>se eles</span> <span class="f">sortissem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro</h4>
+                        <p><span><span><span>quando eu</span> <span class="f">sortir</span></span></br><span><span>quando tu</span> <span class="f">sortires</span></span></br><span><span>quando ele</span> <span class="f">sortir</span></span></br><span><span>quando nós</span> <span class="f">sortirmos</span></span></br><span><span>quando vós</span> <span class="f">sortirdes</span></span></br><span><span>quando eles</span> <span class="f">sortirem</span></span></br></span></p></div>                </div>
+                            <div class="tempos cols2">
+                    <h3 class="modoconjuga">Imperativo</h3>
+                    <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Afirmativo</h4>
+                        <p><span><span>--</span></br><span><span class="f irregular">surte</span> <span>tu</span></span></br><span><span class="f irregular">surta</span> <span>você</span></span></br><span><span class="f irregular">surtamos</span> <span>nós</span></span></br><span><span class="f">sorti</span> <span>vós</span></span></br><span><span class="f irregular">surtam</span> <span>vocês</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Negativo</h4>
+                        <p><span><span>--</span></br><span><span>não</span> <span class="f irregular">surtas</span> <span>tu</span></span></br><span><span>não</span> <span class="f irregular">surta</span> <span>você</span></span></br><span><span>não</span> <span class="f irregular">surtamos</span> <span>nós</span></span></br><span><span>não</span> <span class="f irregular">surtais</span> <span>vós</span></span></br><span><span>não</span> <span class="f irregular">surtam</span> <span>vocês</span></span></br></span></p></div>                </div>
+                            <div class="tempos cols1">
+                    <h3 class="modoconjuga">Infinitivo</h3>
+                    <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Infinitivo Pessoal</h4>
+                        <p><span><span><span>por</span> <span class="f">sortir</span> <span>eu</span></span></br><span><span>por</span> <span class="f">sortires</span> <span>tu</span></span></br><span><span>por</span> <span class="f">sortir</span> <span>ele</span></span></br><span><span>por</span> <span class="f">sortirmos</span> <span>nós</span></span></br><span><span>por</span> <span class="f">sortirdes</span> <span>vós</span></span></br><span><span>por</span> <span class="f">sortirem</span> <span>eles</span></span></br></span></p></div>                </div>
+                    </div>
+    </div>
+
+            <div class="legenda"><span>*</span> As formas verbais destacadas são formas irregulares ou formas regulares que apresentam alguma particularidade gráfica.</div>
+                <div class="row">
+                <div class="col-xs-12 col-sm-9 col-md-10">
+                    <div class="ad ad-palavra-middle">
+                        <div id="div-gpt-sg-f8ca454fb5a796542db0151b864a3311" class="ad-unit ad-unit--pt-br"></div>                    </div>
+                </div>
+            </div>
+            <h2 class="pronominal-titulo">Conjugação com pronome oblíquo átono o</h2>
+
+                            <div class="info-v">
+                    <p><strong>Gerúndio:</strong> <span><span></span><span class="f">sortindo-o</span></span></p>
+                </div>
+            
+            <div id="conjugacao-pronominal" class="row">
+                <div class="col-xs-12 col-sm-9 col-md-10">
+
+                                            <div class="tempos">
+                            <h3 class="modo">Indicativo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">surto-o</span></span></br><span><span>tu</span><span class="f">surte-lo</span></span></br><span><span>ele</span><span class="f">surte-o</span></span></br><span><span>nós</span><span class="f">sortimo-lo</span></span></br><span><span>vós</span><span class="f">sorti-lo</span></span></br><span><span>eles</span><span class="f">surtem-no</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">sortia-o</span></span></br><span><span>tu</span><span class="f">sortia-lo</span></span></br><span><span>ele</span><span class="f">sortia-o</span></span></br><span><span>nós</span><span class="f">sortíamo-lo</span></span></br><span><span>vós</span><span class="f">sortíei-lo</span></span></br><span><span>eles</span><span class="f">sortiam-no</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">sorti-o</span></span></br><span><span>tu</span><span class="f">sortiste-o</span></span></br><span><span>ele</span><span class="f">sortiu-o</span></span></br><span><span>nós</span><span class="f">sortimo-lo</span></span></br><span><span>vós</span><span class="f">sortiste-lo</span></span></br><span><span>eles</span><span class="f">sortiram-no</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Mais-que-perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">sortira-o</span></span></br><span><span>tu</span><span class="f">sortira-lo</span></span></br><span><span>ele</span><span class="f">sortira-o</span></span></br><span><span>nós</span><span class="f">sortíramo-lo</span></span></br><span><span>vós</span><span class="f">sortírei-lo</span></span></br><span><span>eles</span><span class="f">sortiram-no</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">sorti-lo-ei</span></span></br><span><span>tu</span><span class="f">sorti-lo-ás</span></span></br><span><span>ele</span><span class="f">sorti-lo-á</span></span></br><span><span>nós</span><span class="f">sorti-lo-emos</span></span></br><span><span>vós</span><span class="f">sorti-lo-eis</span></span></br><span><span>eles</span><span class="f">sorti-lo-ão</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Pretérito</h4>
+                        <p><span><span><span>eu</span><span class="f">sorti-lo-ia</span></span></br><span><span>tu</span><span class="f">sorti-lo-ias</span></span></br><span><span>ele</span><span class="f">sorti-lo-ia</span></span></br><span><span>nós</span><span class="f">sorti-lo-íamos</span></span></br><span><span>vós</span><span class="f">sorti-lo-íeis</span></span></br><span><span>eles</span><span class="f">sorti-lo-iam</span></span></br></span></p></div>                        </div>
+                    
+                </div>
+                <div class="col-xs-12 col-sm-9 col-md-10">
+
+                                            <div class="tempos">
+                            <h3 class="modo">Subjuntivo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>que eu o</span> <span class="f">surta</span></span></br><span><span>que tu o</span> <span class="f">surtas</span></span></br><span><span>que ele o</span> <span class="f">surta</span></span></br><span><span>que nós o</span> <span class="f">surtamos</span></span></br><span><span>que vós o</span> <span class="f">surtais</span></span></br><span><span>que eles o</span> <span class="f">surtam</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>se eu o</span> <span class="f">sortisse</span></span></br><span><span>se tu o</span> <span class="f">sortisses</span></span></br><span><span>se ele o</span> <span class="f">sortisse</span></span></br><span><span>se nós o</span> <span class="f">sortíssemos</span></span></br><span><span>se vós o</span> <span class="f">sortísseis</span></span></br><span><span>se eles o</span> <span class="f">sortissem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro</h4>
+                        <p><span><span><span>quando eu o</span> <span class="f">sortir</span></span></br><span><span>quando tu o</span> <span class="f">sortires</span></span></br><span><span>quando ele o</span> <span class="f">sortir</span></span></br><span><span>quando nós o</span> <span class="f">sortirmos</span></span></br><span><span>quando vós o</span> <span class="f">sortirdes</span></span></br><span><span>quando eles o</span> <span class="f">sortirem</span></span></br></span></p></div>                        </div>
+                    
+                                            <div class="tempos cols2">
+                            <h3 class="modo">Imperativo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Afirmativo</h4>
+                        <p><span><span>--</span></br><span><span class="f">surte-o</span> <span>tu</span></span></br><span><span class="f">surta-o</span> <span>você</span></span></br><span><span class="f">surtamo-lo</span> <span>nós</span></span></br><span><span class="f">sorti-o</span> <span>vós</span></span></br><span><span class="f">surtam-no</span> <span>vocês</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Negativo</h4>
+                        <p><span><span>--</span></br><span><span>não o</span> <span class="f">surtas</span> <span>tu</span></span></br><span><span>não o</span> <span class="f">surta</span> <span>você</span></span></br><span><span>não o</span> <span class="f">surtamos</span> <span>nós</span></span></br><span><span>não o</span> <span class="f">surtais</span> <span>vós</span></span></br><span><span>não o</span> <span class="f">surtam</span> <span>vocês</span></span></br></span></p></div>                        </div>
+                    
+                                            <div class="tempos cols1">
+                            <h3 class="modo">Infinitivo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Infinitivo Pessoal</h4>
+                        <p><span><span><span>por o</span> <span class="f">sortir</span> <span>eu</span></span></br><span><span>por o</span> <span class="f">sortires</span> <span>tu</span></span></br><span><span>por o</span> <span class="f">sortir</span> <span>ele</span></span></br><span><span>por o</span> <span class="f">sortirmos</span> <span>nós</span></span></br><span><span>por o</span> <span class="f">sortirdes</span> <span>vós</span></span></br><span><span>por o</span> <span class="f">sortirem</span> <span>eles</span></span></br></span></p></div>                        </div>
+                    
+                </div>
+            </div>
+            <h2 class="pronominal-titulo">Conjugação pronominal</h2>
+
+                            <div class="info-v">
+                    <p><strong>Gerúndio:</strong> <span><span></span><span class="f">sortindo-se</span></span></p>
+                </div>
+            
+            <div id="conjugacao-pronominal-reflexa" class="row">
+                <div class="col-xs-12 col-sm-9 col-md-10">
+
+                                            <div class="tempos">
+                            <h3 class="modo">Indicativo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">surto-me</span></span></br><span><span>tu</span><span class="f">surtes-te</span></span></br><span><span>ele</span><span class="f">surte-se</span></span></br><span><span>nós</span><span class="f">sortimo-nos</span></span></br><span><span>vós</span><span class="f">sortis-vos</span></span></br><span><span>eles</span><span class="f">surtem-se</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">sortia-me</span></span></br><span><span>tu</span><span class="f">sortias-te</span></span></br><span><span>ele</span><span class="f">sortia-se</span></span></br><span><span>nós</span><span class="f">sortíamo-nos</span></span></br><span><span>vós</span><span class="f">sortíeis-vos</span></span></br><span><span>eles</span><span class="f">sortiam-se</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">sorti-me</span></span></br><span><span>tu</span><span class="f">sortiste-te</span></span></br><span><span>ele</span><span class="f">sortiu-se</span></span></br><span><span>nós</span><span class="f">sortimo-nos</span></span></br><span><span>vós</span><span class="f">sortistes-vos</span></span></br><span><span>eles</span><span class="f">sortiram-se</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Mais-que-perfeito</h4>
+                        <p><span><span><span>eu</span><span class="f">sortira-me</span></span></br><span><span>tu</span><span class="f">sortiras-te</span></span></br><span><span>ele</span><span class="f">sortira-se</span></span></br><span><span>nós</span><span class="f">sortíramo-nos</span></span></br><span><span>vós</span><span class="f">sortíreis-vos</span></span></br><span><span>eles</span><span class="f">sortiram-se</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Presente</h4>
+                        <p><span><span><span>eu</span><span class="f">sortir-me-ei</span></span></br><span><span>tu</span><span class="f">sortir-te-ás</span></span></br><span><span>ele</span><span class="f">sortir-se-á</span></span></br><span><span>nós</span><span class="f">sortir-nos-emos</span></span></br><span><span>vós</span><span class="f">sortir-vos-eis</span></span></br><span><span>eles</span><span class="f">sortir-se-ão</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro do Pretérito</h4>
+                        <p><span><span><span>eu</span><span class="f">sortir-me-ia</span></span></br><span><span>tu</span><span class="f">sortir-te-ias</span></span></br><span><span>ele</span><span class="f">sortir-se-ia</span></span></br><span><span>nós</span><span class="f">sortir-nos-íamos</span></span></br><span><span>vós</span><span class="f">sortir-vos-íeis</span></span></br><span><span>eles</span><span class="f">sortir-se-iam</span></span></br></span></p></div>                        </div>
+                    
+                </div>
+                <div class="col-xs-12 col-sm-9 col-md-10">
+
+                                            <div class="tempos">
+                            <h3 class="modo">Subjuntivo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Presente</h4>
+                        <p><span><span><span>que eu me</span> <span class="f">surta</span></span></br><span><span>que tu te</span> <span class="f">surtas</span></span></br><span><span>que ele se</span> <span class="f">surta</span></span></br><span><span>que nós nos</span> <span class="f">surtamos</span></span></br><span><span>que vós vos</span> <span class="f">surtais</span></span></br><span><span>que eles se</span> <span class="f">surtam</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Pretérito Imperfeito</h4>
+                        <p><span><span><span>se eu me</span> <span class="f">sortisse</span></span></br><span><span>se tu te</span> <span class="f">sortisses</span></span></br><span><span>se ele se</span> <span class="f">sortisse</span></span></br><span><span>se nós nos</span> <span class="f">sortíssemos</span></span></br><span><span>se vós vos</span> <span class="f">sortísseis</span></span></br><span><span>se eles se</span> <span class="f">sortissem</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Futuro</h4>
+                        <p><span><span><span>quando eu me</span> <span class="f">sortir</span></span></br><span><span>quando tu te</span> <span class="f">sortires</span></span></br><span><span>quando ele se</span> <span class="f">sortir</span></span></br><span><span>quando nós nos</span> <span class="f">sortirmos</span></span></br><span><span>quando vós vos</span> <span class="f">sortirdes</span></span></br><span><span>quando eles se</span> <span class="f">sortirem</span></span></br></span></p></div>                        </div>
+                    
+                                            <div class="tempos cols2">
+                            <h3 class="modo">Imperativo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Afirmativo</h4>
+                        <p><span><span>--</span></br><span><span class="f">surte-te</span> <span>tu</span></span></br><span><span class="f">surta-se</span> <span>você</span></span></br><span><span class="f">surtamo-nos</span> <span>nós</span></span></br><span><span class="f">sorti-vos</span> <span>vós</span></span></br><span><span class="f">surtam-se</span> <span>vocês</span></span></br></span></p></div><div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Imperativo Negativo</h4>
+                        <p><span><span>--</span></br><span><span>não te</span> <span class="f">surtas</span> <span>tu</span></span></br><span><span>não se</span> <span class="f">surta</span> <span>você</span></span></br><span><span>não nos</span> <span class="f">surtamos</span> <span>nós</span></span></br><span><span>não vos</span> <span class="f">surtais</span> <span>vós</span></span></br><span><span>não se</span> <span class="f">surtam</span> <span>vocês</span></span></br></span></p></div>                        </div>
+                    
+                                            <div class="tempos cols1">
+                            <h3 class="modo">Infinitivo</h3>
+                            <div class="tempo-conjugacao"><h4 class="tempo-conjugacao-titulo">Infinitivo Pessoal</h4>
+                        <p><span><span><span class="f">sortir-me</span> <span>eu</span></span></br><span><span class="f">sortires-te</span> <span>tu</span></span></br><span><span class="f">sortir-se</span> <span>ele</span></span></br><span><span class="f">sortirmo-nos</span> <span>nós</span></span></br><span><span class="f">sortirdes-vos</span> <span>vós</span></span></br><span><span class="f">sortirem-se</span> <span>eles</span></span></br></span></p></div>                        </div>
+                    
+                </div>
+            </div>
+<div class="tempo2">Verbos relacionados com sortir</div><div class="wrapper"><ul><li><a href="/verbo-caber/">caber</a></li><li><a href="/verbo-prover/">prover</a></li><li><a href="/verbo-variar/">variar</a></li><li><a href="/verbo-combinar/">combinar</a></li><li><a href="/verbo-misturar/">misturar</a></li><li><a href="/verbo-fornecer/">fornecer</a></li><li><a href="/verbo-suprir/">suprir</a></li><li><a href="/verbo-sortear/">sortear</a></li><li><a href="/verbo-abastecer/">abastecer</a></li><li><a href="/verbo-rechear/">rechear</a></li><li><a href="/verbo-fundir/">fundir</a></li><li><a href="/verbo-munir/">munir</a></li></ul></div>
+<div class="wrapper">
+<div class="tempo2">Saiba mais sobre os verbos</div>
+    <ul>
+        <li><a href="/verbos-regulares/">Verbos regulares</a></li>
+        <li><a href="/verbos-irregulares-no-portugues/">Verbos irregulares</a></li>
+        <li><a href="/tempos-verbais/">Tempos verbais</a></li>
+        <li><a href="/formas-verbais/">Formas verbais</a></li>
+        <li><a href="/verbos-no-infinitivo/">Verbos no infinitivo</a></li>
+        <li><a href="/verbos-intransitivos/">Verbos intransitivos</a></li>
+        <li><a href="/verbos-transitivos-indiretos/">Verbos transitivos indiretos</a></li>
+        <li><a href="/regencia-verbal-e-nominal/">Regência verbal e nominal</a></li>
+    </ul>
+</div>
+
+<script type="text/javascript">
+    function hit (){
+        conjugacao.hits("palavra", "sortir");
+            }
+    document.addEventListener('articleInitiated', hit, false);
+</script>
+
+<div id='ligacoes'> <span>&laquo;</span> <a href="/verbo-sorrobalhar/" title="verbo sorrobalhar">sorrobalhar</a>  <span>&laquo;</span> <a href="/verbo-sortear/" title="verbo sortear">sortear</a>  <span>&laquo;</span>  <b>sortir</b>  <span>&raquo;</span>  <a href="/verbo-sorvar/" title="verbo sorvar">sorvar</a> <span>&raquo;</span>  <a href="/verbo-sorver/" title="verbo sorver">sorver</a> <span>&raquo;</span> </div>
+    </div>
+        <div style="clear: both;"></div>
+    <div class="w100">
+        <div id="div-gpt-sg-04deeb8d03fa3ecdd6cb45adae939467" class="ad-unit ad-unit--pt-br"></div>    </div>
+</div>
+<div id="footer" class="row">
+    <div id="menuLinks" class="flinks col-sm-12">
+        <a href="/contato.php?a=e">Encontrou um erro?</a>
+        <span> | </span>
+        <a href="/verbos-populares/">Lista de verbos</a>
+        <span> | </span>
+        <a href="/verbos-regulares/">Verbos regulares</a>
+        <span> | </span>
+        <a href="/verbos-irregulares-no-portugues/">Verbos irregulares</a>
+        <span> | </span>
+        <a href="/artigos/">Tudo sobre verbos</a>
+        <span> | </span>
+        <a href="/contato.php?a=s">Sugerir verbos</a>
+        <span> | </span>
+        <a href="/sobre.html">Sobre</a>
+        <span> | </span>
+        <a href="/politica-privacidade.html">Privacidade</a>
+        <span> | </span>
+        <a href="/contato.php">Contato</a>
+    </div>
+    <a href="#" onclick="footerMenuClick();return false;" class="show-menu pull-left visible-xs col-xs-1"></a>
+    <div id="about" class="col-sm-12 col-xs-10">
+        <p>Copyright &copy; 2011-2023 <a href="https://www.7graus.com/" rel="nofollow co-worker">7Graus</a> <span class="hidden-xs">- <strong>Conjugação.com.br</strong>: <a href="/">conjugação de verbos</a> da língua portuguesa é parte do <a href="https://www.dicio.com.br/" rel="nofollow co-worker">Dicio.com.br</a></span></p>
+    </div>
+</div>
+</div>
+
+<script>(function(){var s0;var s1;var s2;googletag.cmd.push(function(){googletag.pubads().enableLazyLoad({"fetchMarginPercent":500,"renderMarginPercent":200,"mobileScaling":2});googletag.pubads().disableInitialLoad();googletag.enableServices();var sm0=googletag.sizeMapping().addSize([0,0],[]).addSize([768,0],[[160,600],[120,600]]).build(),sm1=googletag.sizeMapping().addSize([0,0],[]).addSize([270,0],[[250,250]]).addSize([320,0],[[300,250],[250,250]]).addSize([356,0],[[336,280],[300,250],[250,250]]).build(),sm2=googletag.sizeMapping().addSize([0,0],[]).addSize([300,0],[[300,250],[250,250]]).addSize([336,0],[[336,280],[300,250],[250,250]]).addSize([468,0],[[468,60],[336,280],[300,250],[250,250]]).addSize([728,0],[[728,90],[468,60],[336,280],[300,250],[250,250]]).addSize([970,0],[[970,90],[728,90],[468,60],[336,280],[300,250],[250,250]]).build();var ss0=[[160,600],[120,600]],ss1=[[336,280],[300,250],[250,250]],ss2=[[970,90],[728,90],[468,60],[336,280],[300,250],[250,250]];s0=googletag.defineSlot('/1062898/conjugacao_verbo_sidebar',ss0,'div-gpt-sg-5c2b0f112805f430f41f0d68e53c154c').defineSizeMapping(sm0).addService(googletag.pubads()),s1=googletag.defineSlot('/1062898/conjugacao_verbo_mrec',ss1,'div-gpt-sg-f8ca454fb5a796542db0151b864a3311').defineSizeMapping(sm1).addService(googletag.pubads()),s2=googletag.defineSlot('/1062898/conjugacao_bottom_ros',ss2,'div-gpt-sg-04deeb8d03fa3ecdd6cb45adae939467').defineSizeMapping(sm2).addService(googletag.pubads());var slots=[s0,s1,s2];slots.forEach(function(s){googletag.display(s.getSlotElementId())});googletag.pubads().refresh(slots);var gae=function(e,s){if(!window.localStorage || window.localStorage.getItem("sg_gpt_event")!=="1")return;if(typeof gtag!=="undefined"){gtag("event",e,{event_category:"Sg_GPT",event_label:s.getAdUnitPath(),non_interaction:true})}else if(typeof ga!=="undefined")ga("send","event","Sg_GPT",e,s.getAdUnitPath(),0,{nonInteraction:true})};googletag.pubads().addEventListener("impressionViewable",function(e){gae("ImpressionViewable",e.slot)});googletag.pubads().addEventListener("slotRenderEnded",function(e){gae("SlotRenderEnded",e.slot)});window.Sg_GPT_get_slots=function(){return slots};});googletag.cmd.push(function(){!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q('i',arguments)},fetchBids:function(){q('f',arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}('apstag',window,document,'script','//c.amazon-adsystem.com/aax2/apstag.js');
+            apstag.init({pubID: '031d2526-e3d7-48d3-94fd-8cec14da13e5',adServer: 'googletag', simplerGPT: true});
+            apstag.fetchBids({slots: [s0,s1,s2], timeout: 2000},
+            function(bids) {
+                googletag.cmd.push(function(){
+                    apstag.setDisplayBids();
+                    googletag.pubads().refresh([s0,s1,s2]);
+                });
+            });
+            });})()</script>
+<script type="text/javascript">
+    function footerMenuClick() {
+        var elem = document.getElementById("menuLinks");
+        if(hasClass(elem, "visible")) {
+            elem.className = elem.className.replace(" visible", "");
+            elem.className = elem.className.replace("visible", "");
+        } else {
+            elem.className += elem.className ? ' visible' : 'visible';
+        }
+        window.scrollTo(0,document.body.scrollHeight);
+    }
+    function hasClass(element, cls) {
+        return (' ' + element.className + ' ').indexOf(' ' + cls + ' ') > -1;
+    }
+
+    
+</script>
+
+<script type="text/javascript" src="https://static.conjugacao.com.br/assets/foscript_046.js" async></script>
+
+
+                    <script>
+                        (function() {
+
+                            var loadBar = function(isEu) {
+                                if(isEu) {
+                                    var s = document.createElement("script")
+                                    var el = document.getElementsByTagName("script")[0];
+                                    s.src = "https://7gra.us/consentbar/consent-bar.min.js?v=8";
+                                    el.parentNode.insertBefore(s, el);
+
+                                    var iterator = 0;
+                                    var initConsentBar = setInterval(function() {
+                                       if (typeof window.ConsentBar !== "undefined" || iterator++ > 100) {
+                                        clearInterval(initConsentBar);
+                                         window.consentBar = new ConsentBar({"enable":true,"blocking":false,"language":"pt","privacy_page":"\/politica-privacidade.html"});
+                                         window.consentBar.showBar();
+                                       }
+                                    }, 100);
+                                }
+                            }
+
+                            window[window.attachEvent ? "attachEvent" : "addEventListener"](window.attachEvent ? "onload" : "load", function() {
+                                var eu = localStorage.getItem("sg_eu");
+                                var btn = document.getElementsByClassName("cookies_manager");
+                                if(btn.length > 0) {
+                                    var btnStyle = "color:#286fb0; text-decoration: underline; cursor: pointer";
+                                    btn[0].style.cssText = btnStyle;
+                                }
+
+                                if(eu === null) {
+                                var request = new XMLHttpRequest();
+                                request.open("GET", window.location.protocol + "//eu.7gra.us/", true);
+                                request.onreadystatechange = function() {
+                                  if (this.readyState === 4 && this.status === 200) {
+                                     eu = this.responseText;
+                                     localStorage.setItem("sg_eu", eu);
+
+                                     loadBar(eu == "1");
+                                  }
+                                };
+                                    request.send();
+                                }else {
+                                    loadBar(eu == "1");
+                                }
+
+                                var iterator = 0;
+                                var isConsentBarRunning = setInterval(function() {
+                                    if (typeof window.ConsentBar !== "undefined" || iterator++ > 100) {
+                                        clearInterval(isConsentBarRunning);
+
+                                        if(btn.length > 0) {
+                                            btn[0].onclick = function() {
+                                                window.consentBar.showBar(true);
+                                            }
+                                        }
+                                    }
+                                }, 100);
+                            }, false);
+                        })();
+                    </script>
+                <sg-bhof
+                    projectUrl="https://www.conjugacao.com.br"
+                    contentUrl="/verbo-sortir/"
+                    backofficeUrl="https://www.conjugacao.com.br/backoffice/palavras/edit.php?id={id}"
+                    projectId="15"
+                    contentId="18264"
+                    contentData='{
+                        "datePublished":"2016-04-08 15:27:16",
+                        "dateUpdated":""
+                        }'
+                    style="display:none"
+                ></sg-bhof>    </body>
+</html>
