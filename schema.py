@@ -22,7 +22,6 @@ class Verb(Base):
 
 	id = Column(String, primary_key=True)
 	regular = Column(Boolean, default=False)
-	category = Column(String, default="") # transitivo direto, transitivo indireto, intransitivo e pronominal
 	past_part = Column(String)
 	gerund = Column(String)
 
@@ -69,7 +68,6 @@ class Tense(Base):
 	aux_id = Column(String, ForeignKey("verbs.id"), nullable=True)
 	aux_tense_id = Column(String, ForeignKey("tenses.id"), nullable=True)
 
-
 	def __repr__(self):
 		return f"Tense({self.id!r},comp={self.compound!r},aux={self.aux!r}={self.text!r})" 
 
@@ -95,10 +93,22 @@ class Conjugation(Base):
 	def __repr__(self):
 		return f"Conjugation({self.verb_id!r},{self.tense_id!r},{self.person!r}={self.text!r})" 
 
+class Category(Base):
+	__tablename__ = "categories"
+	id = Column(Integer, primary_key=True)
+	verb_id = Column(String, ForeignKey("verbs.id"))
+	text = Column(String)
+	def __repr__(self):
+		return f"Category({self.verb_id!r},{self.text!r})" 
+
 from sqlalchemy.orm import relationship
+Category.verb = relationship("Verb", back_populates="categories")
+Verb.categories = relationship("Category", back_populates="verb")
+
 Conjugation.verb = relationship("Verb", back_populates="conjugations")
-Conjugation.tense = relationship("Tense")
 Verb.conjugations = relationship("Conjugation", back_populates="verb")
+
+Conjugation.tense = relationship("Tense")
 Tense.aux = relationship("Verb")
 Tense.aux_tense = relationship("Tense",remote_side=Tense.id)
 

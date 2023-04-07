@@ -4,7 +4,7 @@
 import requests
 from lxml import html
 import sqlite3
-from schema import Statistic, Subject, Verb, Tense, Conjugation, Sentence, Rule, State, Base, init
+from schema import Category,Statistic, Subject, Verb, Tense, Conjugation, Sentence, Rule, State, Base, init
 import os.path
 import re
 
@@ -40,10 +40,9 @@ def load_verb(verb):
 				cat=re1.group(1).replace(" e verbo",", verbo")
 				clist=cat.split(",")
 				
-				rlist=["-".join( [y[:4] for y in x.split()[1:]]) for x in clist]
-				verb.category=",".join(rlist)
-				session.add(verb)
-
+				for cat in clist:
+					text=" ".join(cat.strip().split(" ")[1:])
+					session.add(Category(verb_id=verb.id, text=text))
 	session.commit()			
 
 
@@ -52,7 +51,9 @@ if __name__ == "__main__":
 	parser=ap()
 	parser.add_argument("--rules-only","-r", action="store_true", help="Only load sentence templates")
 	args=parser.parse_args()
-
+	for cat in session.query(Category).all():
+		session.delete(cat)
+	session.commit()
 	for verb in session.query(Verb).filter(not_(Verb.id.like('*%'))).all():
 			load_verb(verb)
 

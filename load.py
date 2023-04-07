@@ -112,7 +112,7 @@ def load_verb(verb, infinitivo=""):
 					person=personmap.get(pid,"False")
 					if person:
 						session.add(Conjugation(verb_id=infinitivo, tense_id=tkey, person=person, text=text))
-		session.add(Verb(id=infinitivo, regular=verbreg, category=category, gerund=gerund, past_part=past_part))
+		session.add(Verb(id=infinitivo, regular=verbreg, gerund=gerund, past_part=past_part))
 
 def load_db():
 
