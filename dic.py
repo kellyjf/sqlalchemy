@@ -63,6 +63,8 @@ def load_verb(verb):
 					[define,example]=content.split(":")[0:2]
 				else:
 					[define,example]=[content,""]
+				define=define.strip()
+				example=example.strip()
 				session.add(Definition(category_id=rescat.id,text=define,example=example))
 
 				part=part.getnext()
