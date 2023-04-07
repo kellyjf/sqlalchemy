@@ -768,6 +768,7 @@ estragar
 estrangular
 estrebuchar
 estreitar
+estremecer
 estribar
 estudar
 estugar
