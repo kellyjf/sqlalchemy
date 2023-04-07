@@ -4,7 +4,7 @@
 import requests
 from lxml import html
 import sqlite3
-from schema import Definition,Category,Statistic, Subject, Verb, Tense, Conjugation, Sentence, Rule, State, Base, init
+from schema import Synonym,Definition,Category,Statistic, Subject, Verb, Tense, Conjugation, Sentence, Rule, State, Base, init
 import os.path
 import re
 
@@ -72,6 +72,15 @@ def load_verb(verb):
 				session.add(Definition(category_id=rescat.id,text=define,example=example))
 
 				part=part.getnext()
+
+		parts=tree.xpath(".//p[@class='adicional sinonimos']")
+		contr=True
+		for part in parts:
+			contr = not contr
+			cat=part.text_content()
+			sparts=part.xpath(".//a")
+			for tgt in sparts:
+				session.add(Synonym(verb_id=verb.id,related_id=tgt.text_content(),contrary=contr))
 
 	session.commit()			
 

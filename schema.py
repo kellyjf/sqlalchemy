@@ -104,14 +104,26 @@ class Category(Base):
 class Definition(Base):
 	__tablename__ = "definitions"
 	id = Column(Integer, primary_key=True)
-	category_id = Column(Integer, ForeignKey("verbs.id"))
+	category_id = Column(Integer, ForeignKey("categories.id"))
 	text = Column(String)
 	example = Column(String)
 	def __repr__(self):
 		return f"Definition({self.category.text!r},{self.text!r})" 
 
+class Synonym(Base):
+	__tablename__ = "synonyms"
+	id = Column(Integer, primary_key=True)
+	verb_id = Column(String, ForeignKey("verbs.id"))
+	related_id = Column(String)
+	contrary = Column(Boolean)
+	def __repr__(self):
+		return f"Synonym({self.verb_id!r},{self.related_id!r},{contrary!r})" 
 
 from sqlalchemy.orm import relationship
+
+Synonym.verb = relationship("Verb", back_populates="synonyms")
+Verb.synonyms = relationship("Synonym", back_populates="verb")
+
 Category.verb = relationship("Verb", back_populates="categories")
 Verb.categories = relationship("Category", back_populates="verb")
 
