@@ -1,0 +1,2 @@
+  128  pip3 install gTTS-token --upgrade
+  129  pip3 install gTTS --upgrade

@@ -40,7 +40,7 @@ class Word(Base):
 # word - lookup key onweb and file name
 # infinitivo -infinitive form of the word, for text output and database keys	
 def load_ipa(word):
-	cmd = ['espeak', '-q', '-v', 'pt-BR', '--ipa', word.id ]
+	cmd = ['espeak', '-q', '-v', 'pt-BR', '--ipa', word.gendered]
 	p = subprocess.Popen(cmd, stdout=subprocess.PIPE)
 	p.wait()
 	word.ipa=p.stdout.read().strip().decode('utf-8')
@@ -59,12 +59,21 @@ if __name__ == "__main__":
 	Base.metadata.create_all(engine)
 	session=Session(engine)
 
+	for word in session.query(Word).all():
+		session.delete(word)
+	session.commit()
+
 	with open("vocab.txt","r") as f:
 		for line in f.readlines()[16:]:
 			[vid,gendered,pron,define,example,picture]=line.strip().split("\t")[0:6]
-			word=Word(id=vid,gendered=gendered,pron=pron,define=define,example=example,picture=picture)
+			word=session.query(Word).filter(Word.id==vid).first()
+			if not word:
+				word=Word(id=vid,gendered=gendered,pron=pron,define=define,example=example,picture=picture)
+			else:
+				print("DUP",word,line)
+
 			load_ipa(word)
 			session.add(word)
-	session.commit()
+			session.commit()
 
 
