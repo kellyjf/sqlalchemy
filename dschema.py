@@ -21,6 +21,7 @@ class Word(Base):
 	__tablename__ = "words"
 
 	id = Column(String, primary_key=True)
+	plural = Column(String)
 	ipa = Column(String)
 
 

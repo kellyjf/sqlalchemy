@@ -34,8 +34,18 @@ def load_defs(word):
 		web="por-2"
 	else:
 		web=word.id
+		web=web.replace('â','a')
+		web=web.replace('ã','a')
+		web=web.replace('á','a')
+		web=web.replace('ê','e')
+		web=web.replace('é','e')
+		web=web.replace('í','i')
 		web=web.replace('ô','o')
+		web=web.replace('õ','o')
+		web=web.replace('ó','o')
+		web=web.replace('ú','u')
 		web=web.replace('ç','c')
+		web=web.replace('-se','')
 	if not os.path.exists(f"dic/{web}.txt"):
 		r=requests.get(f"https://www.dicio.com.br/{web}/")
 		if r.status_code==200:
@@ -58,7 +68,9 @@ def load_defs(word):
 						session.add(cat)
 						session.commit()
 						ecats[text]=cat
-
+			for br in  part.xpath("./br"):
+				if br.tail and "Plural" in br.tail:
+					word.plural=br.getnext().text_content()
 
 		# Definitions and examples
 		parts=tree.xpath("//span[@class='cl']")
@@ -112,7 +124,6 @@ def load_defs(word):
 
 		parts=tree.xpath(".//h3[@class='tit-exemplo']")
 		if parts:
-			print("PART",parts[0].getnext())
 			x=parts[0].getnext()
 			for part in parts[0].getnext().xpath("./div[@class='frase']"):
 				
@@ -122,7 +133,7 @@ def load_defs(word):
 				text=part.text_content().replace(source,"").strip()
 				session.add(Example(text=text,source=source,phrase=False))
 
-
+		load_ipa(word)
 
 	session.commit()			
 
