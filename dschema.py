@@ -62,13 +62,26 @@ class Example(Base):
 	def __repr__(self):
 		return f"Example({self.word_id!r},{self.text!r})" 
 
+class Duvida(Base):
+	__tablename__ = "duvidas"
+	id = Column(Integer, primary_key=True)
+	word_id = Column(String, ForeignKey("words.id"))
+	text = Column(String)
+	url = Column(String)
+
+	def __repr__(self):
+		return f"Duvida({self.word_id!r},{self.text!r})" 
+
 from sqlalchemy.orm import relationship
 
-Synonym.verb = relationship("Word", back_populates="synonyms")
-Word.synonyms = relationship("Synonym", back_populates="verb")
+Duvida.word = relationship("Word", back_populates="duvidas")
+Word.duvidas = relationship("Duvida", back_populates="word")
 
-Category.verb = relationship("Word", back_populates="categories")
-Word.categories = relationship("Category", back_populates="verb")
+Synonym.word = relationship("Word", back_populates="synonyms")
+Word.synonyms = relationship("Synonym", back_populates="word")
+
+Category.word = relationship("Word", back_populates="categories")
+Word.categories = relationship("Category", back_populates="word")
 
 Category.definitions = relationship("Definition", back_populates="category")
 Definition.category = relationship("Category", back_populates="definitions")

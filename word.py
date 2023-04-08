@@ -4,13 +4,13 @@
 import requests
 from lxml import html
 import sqlite3
-from dschema import Example,Synonym,Definition,Category, Word, Base
+from wschema import Duvida,Example,Synonym,Definition,Category, Word, Base
 import os.path
 import re
 import subprocess 
 
 from sqlalchemy import create_engine, not_
-engine=create_engine("sqlite:///word.sqlite")
+engine=create_engine("sqlite:///duv.sqlite")
 Base.metadata.create_all(engine)
 
 from sqlalchemy.orm import Session
@@ -110,7 +110,7 @@ def load_defs(word):
 				session.add(Synonym(word_id=word.id,related_id=tgt.text_content(),contrary=contr))
 
 
-		# Examples
+		# Phrases
 		parts=tree.xpath(".//h3[@class='tit-frases']")
 		if parts:
 			for part in parts[0].getnext().xpath("./div[@class='frase']"):
@@ -122,6 +122,7 @@ def load_defs(word):
 					session.add(Example(word_id=word.id,text=text,source=source,phrase=True))
 						
 
+		#Examples
 		parts=tree.xpath(".//h3[@class='tit-exemplo']")
 		if parts:
 			x=parts[0].getnext()
@@ -132,6 +133,20 @@ def load_defs(word):
 					source=src.text.replace("- ","")
 				text=part.text_content().replace(source,"").strip()
 				session.add(Example(word_id=word.id,text=text,source=source,phrase=False))
+
+
+		#Duvidas
+		parts=tree.xpath(".//div[@id='desamb']")
+		if parts:
+			text=parts[0].text_content()
+			vid=parts[0].getnext()
+			video=""
+			if vid.attrib.get('class','')=="videoWrapper":
+				for node in vid.getchildren():
+					if node.tag=='iframe' and 'src' in node.attrib:
+						url=node.attrib.get('src','-error-')
+
+			session.add(Duvida(word_id=word.id,text=text,url=url))
 
 		load_ipa(word)
 
@@ -153,6 +168,8 @@ if __name__ == "__main__":
 		for wordid in args.words:
 			word=session.query(Word).filter(Word.id==wordid).first()
 			if word:
+				for duv in word.duvidas:
+					session.delete(duv)
 				for example in word.examples:
 					session.delete(example)
 				for syn in word.synonyms:
