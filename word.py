@@ -119,7 +119,7 @@ def load_defs(word):
 					source=""
 					for src in span.xpath("./em"):
 						source=src.text.replace("- ","")
-					session.add(Example(text=text,source=source,phrase=True))
+					session.add(Example(word_id=word.id,text=text,source=source,phrase=True))
 						
 
 		parts=tree.xpath(".//h3[@class='tit-exemplo']")
@@ -131,7 +131,7 @@ def load_defs(word):
 				for src in part.xpath("./em"):
 					source=src.text.replace("- ","")
 				text=part.text_content().replace(source,"").strip()
-				session.add(Example(text=text,source=source,phrase=False))
+				session.add(Example(word_id=word.id,text=text,source=source,phrase=False))
 
 		load_ipa(word)
 
