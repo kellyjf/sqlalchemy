@@ -10,7 +10,7 @@ import re
 import subprocess 
 
 from sqlalchemy import create_engine, not_
-engine=create_engine("sqlite:///duv.sqlite")
+engine=create_engine("sqlite:///words.sqlite")
 Base.metadata.create_all(engine)
 
 from sqlalchemy.orm import Session
@@ -140,7 +140,7 @@ def load_defs(word):
 		if parts:
 			text=parts[0].text_content()
 			vid=parts[0].getnext()
-			video=""
+			url=""
 			if vid.attrib.get('class','')=="videoWrapper":
 				for node in vid.getchildren():
 					if node.tag=='iframe' and 'src' in node.attrib:
