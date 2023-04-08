@@ -61,7 +61,6 @@ aprender	aprender	apɾen'deɾ	instruir-se		_5ija0md82zyf.jpg				tts_aprender_2.m
 perguntar	perguntar	peɾɡun'taɾ	fazer perguntas, interrogar		_j2omsqau3oim.png				tts_perguntar_2.mp3	2,0,8,8,8,8,640,2023-03-30 08:32,2023-04-26 00:32	2,0,5,5,5,5,81,2023-02-02 13:55,2023-02-05 22:40			
 coisa	uma coisa	koɪza	qualquer objeto, fato ou ideia		_2nzv0zqptwka.jpg				tts_uma coisa.mp3	2,0,7,7,7,2,572,2023-03-24 13:26,2023-04-17 09:26	2,0,5,5,5,5,66,2023-02-02 13:57,2023-02-05 07:39			
 muito	muito, muita	mũɪ̃tʊ,a	um grande número ou quantidade		_1mcg5xv0cvvx.jpg				tts_muito, muita.mp3	2,0,8,8,8,9,671,2023-04-04 13:19,2023-05-02 12:19	2,0,6,6,6,6,123,2023-02-04 10:42,2023-02-09 13:42			
-algum	algum, alguma	ɑʊ'ɡũʊ̃, ɑʊ'ɡuma	um dentre vários	Algum de vocês quer vir	_bkv7xypin6be.jpg				tts_algum, alguma.mp3	2,0,8,8,8,9,702,2023-04-04 13:19,2023-05-03 19:19	2,0,5,5,5,5,64,2023-02-02 13:58,2023-02-05 05:36			
 ensinar	ensinar	ẽɪ̃si'naɾ	transmitir conhecimentos a alguém		_vvprdjbfbiud.jpg				tts_ensinar_2.mp3	2,0,8,8,8,9,629,2023-04-04 13:17,2023-04-30 18:17	2,0,6,6,6,6,101,2023-02-04 10:42,2023-02-08 15:42			
 tirar	tirar	ʧi'ɾaɾ	fazer sair, retirar	as pessoas vão para lá para tirar fotos	_1md123gmrcyq.jpg				tts_tirar_2.mp3	2,0,13,11,4,5,366,2023-04-04 13:14,2023-04-19 19:14	2,0,9,7,4,4,35,2023-02-04 10:35,2023-02-05 21:35			
 comprar	comprar	kom'pɾaɾ	adquirir com dinheiro		_f6rrmm07ylzx.jpg				tts_comprar_2.mp3	2,0,7,7,7,7,540,2023-03-27 09:50,2023-04-09 06:04	2,0,5,4,4,3,57,2023-02-02 13:53,2023-02-04 22:37			
@@ -696,3 +695,14 @@ retrucar	retrucar	xetɾu'kaɾ	argumentar sobre uma questão, replicar	O candidat
 medroso	medroso,medrosa	me'dɾozʊ, me'dɾoza	que se assusta facilmente	Ele é uma criança medrosa	_16sb0090vpwf.jpg				tts_medroso,medrosa.mp3					
 tomara que	tomara que	to'maɾa	expressa desejo de sucesso, oxalá	Tomara que eu consiga aproveitar as férias!	_nolkn5jb43pn.jpg				tts_tomara que_2.mp3					
 camada	uma camada	ka'mada	aquilo que se estende sobre algo	uma camada de pintura	_13w1a2g1eydd.jpg				tts_uma camada.mp3					
+beber	beber		ingerir líquido	Comer é uma necessidade do estômago; beber é uma necessidade da alma.										
+caminhar	caminhar		Locomover-se a pé de um lugar para outro	A preguiça é a mãe do progresso. Se o homem não tivesse preguiça de caminhar, não teria inventado a roda.										
+telefonar	telefonar		Falar ao telefone	E só porque, um dia, alguém quis telefonar da rua para a namorada e não havia um orelhão à mão.										
+perder	perder		Esquecer alguma coisa em algum lugar	perdeu o dinheiro no ônibus.										
+repetir	repetir		Dizer novamente aquilo que já foi dito	Se queremos progredir, não devemos repetir a história, mas fazer uma história nova.										
+precisar	precisar		Sentir necessidade de; necessitar ou carecer	Ousa dizer a verdade: nunca vale a pena mentir. / Um erro que precise de uma mentira, acaba por precisar de duas.										
+mentir	mentir		Dizer mentiras; falar como se fosse verdade algo que não é	O que nos força a mentir é o sentimento da impossibilidade de os outros compreenderem inteiramente a nossa ação. Mesmo a mentira mais complicada é mais simples que a verdade.										
+escutar	escutar		Ouvir com atenção e ter a consciência do que está ouvindo	E aqueles que foram vistos dançando foram julgados insanos por aqueles que não podiam escutar a música.										
+crer	crer		Considerar como verdadeiro	Há muitas razões para duvidar e uma só para crer.										
+correr	correr		Deslocar-se ou mover-se rapidamente; andar com velocidade	É melhor correr o risco de salvar um homem culpado do que condenar um inocente.										
+alma	uma alma		Princípio espiritual do homem que se opõe ao corpo.	Tudo vale a pena quando a alma não é pequena.										
